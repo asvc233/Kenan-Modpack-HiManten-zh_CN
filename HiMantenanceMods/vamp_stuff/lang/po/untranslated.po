@@ -1,0 +1,145 @@
+#. ~ Name of an NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Underground Vampires"
+msgstr ""
+
+#. ~ Job description of "Underground Vampires" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Underground vampire refugees."
+msgstr ""
+
+#. ~ Job description of "Underground Vampires" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Underground vampire traders."
+msgstr ""
+
+#. ~ Job description of "Underground Vampires" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Underground vampire commando."
+msgstr ""
+
+#. ~ Name of an NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Wasteland Vampires"
+msgstr ""
+
+#. ~ Job description of "Wasteland Vampires" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Wasteland refugees."
+msgstr ""
+
+#. ~ Name of an NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Wasteland Guard Vampire"
+msgstr ""
+
+#. ~ Job description of "Wasteland Guard Vampire" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Wasteland refugee guard."
+msgstr ""
+
+#. ~ Name of an NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Vampire Gunkeeper"
+msgstr ""
+
+#. ~ Job description of "Vampire Gunkeeper" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Gunshop owner."
+msgstr ""
+
+#. ~ Name of an NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "Wasteland Refugee"
+msgstr ""
+
+#. ~ Job description of "Wasteland Refugee" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "I hide at wastelands."
+msgstr ""
+
+#. ~ Job description of "Shopkeep" NPC class
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_classes.json
+msgid "I trade at wastelands."
+msgstr ""
+
+#. ~ Affirmative response to NPC dialogue
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_npc_responds\Wastelands_Outskirts\v_wg1_responses.json
+msgid "The commando has sent me to this place."
+msgstr ""
+
+#. ~ Negative response to NPC dialogue
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_npc_responds\Wastelands_Outskirts\v_wg1_responses.json
+msgid "You know a place like this?"
+msgstr ""
+
+#. ~ Affirmative response to NPC dialogue
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\NPC\v_npc_responds\Wastelands_Outskirts\v_wg2_responses.json
+msgid "I want to talk with you..."
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "viscous blood"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "withering gloom"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "blazing aura"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "ardent blaze"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "blaze"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "profane blaze"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "chilling frost"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "frostburn"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\v_spell_fields.json
+msgid "raging frostburn"
+msgstr ""
+
+#. ~ Description of spell "Desolation"
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\Hemomancer\v_blood_T6.json
+msgid "Sacrifices a massive amount of life force to summon a <color_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell."
+msgstr ""
+
+#. ~ Description of spell "Crimson Coat"
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\Hemomancer\v_blood_T6.json
+msgid "You withdraw for a very short moment, covering your whole body with <color_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell."
+msgstr ""
+
+#. ~ Description of spell "Leech's Whip"
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\Hemomancer\v_blood_T6.json
+msgid "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell."
+msgstr ""
+
+#. ~ Description of spell "Ethereal Enchantment"
+#: d:\cdda\catap\kenan\main\vamp_stuff\Modification_Files\Spells\Warlock\v_mana_T6.json
+msgid "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell."
+msgstr ""
+

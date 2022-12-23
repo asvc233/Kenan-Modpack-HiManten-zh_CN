@@ -1,0 +1,3556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2022-12-19 15:43-0600\n"
+"PO-Revision-Date: 2022-12-19 15:43-0600\n"
+"Last-Translator: None\n"
+"Language-Team: None\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. ~ Name of an ammunition type
+#: blazemod\blaze_ammo_types.json
+msgid "heavy projectiles"
+msgstr ""
+
+#. ~ Name of an ammunition type
+#. ~ Item name
+#: blazemod\blaze_ammo_types.json blazemod\items\ammo\blaze_ammo.json
+msgid "harpoon"
+msgid_plural "harpoons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Name of an ammunition type
+#: blazemod\blaze_ammo_types.json
+msgid "ballista bolt"
+msgstr ""
+
+#. ~ Name of an ammunition type
+#: blazemod\blaze_ammo_types.json
+msgid "shotcanisters"
+msgstr ""
+
+#. ~ Name of an ammunition type
+#: blazemod\blaze_ammo_types.json
+msgid "bladed disk"
+msgstr ""
+
+#. ~ Terrain name
+#: blazemod\blaze_construction.json
+msgid "mass of blob feed"
+msgstr ""
+
+#. ~ Bashing sound of terrain "mass of blob feed"
+#. ~ Bashing failed sound of terrain "mass of blob feed"
+#. ~ Bashing sound of terrain "mound of blob feed"
+#. ~ Bashing failed sound of terrain "mound of blob feed"
+#: blazemod\blaze_construction.json
+msgid "squish!"
+msgstr ""
+
+#. ~ Terrain name
+#: blazemod\blaze_construction.json
+msgid "mound of blob feed"
+msgstr ""
+
+#. ~ Prerequisite of terrain constrution
+#: blazemod\blaze_construction.json
+msgid "Converts a fridge to run off of vehicle power.  You can 'e'xamine it afterwards to take it down for mounting."
+msgstr ""
+
+#. ~ Prerequisite of terrain constrution
+#: blazemod\blaze_construction.json
+msgid "Further modifies a converted fridge to function as a freezer.  You can 'e'xamine it afterwards to take it down for mounting."
+msgstr ""
+
+#. ~ Furniture name
+#. ~ Item name
+#: blazemod\blaze_furniture.json blazemod\items\vehicle\blaze_other.json
+msgid "vehicle refrigerator"
+msgid_plural "vehicle refrigerators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of furniture "vehicle refrigerator"
+#: blazemod\blaze_furniture.json
+msgid "This fridge has been converted to run off of a vehicle's power supply.  You'll need to take it down first."
+msgstr ""
+
+#. ~ Bashing sound of furniture "vehicle refrigerator"
+#. ~ Bashing sound of furniture "vehicle freezer"
+#: blazemod\blaze_furniture.json
+msgid "metal screeching!"
+msgstr ""
+
+#. ~ Bashing failed sound of furniture "vehicle refrigerator"
+#. ~ Bashing failed sound of furniture "vehicle freezer"
+#: blazemod\blaze_furniture.json
+msgid "clang!"
+msgstr ""
+
+#. ~ Furniture name
+#. ~ Item name
+#: blazemod\blaze_furniture.json blazemod\items\vehicle\blaze_other.json
+msgid "vehicle freezer"
+msgid_plural "vehicle freezers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of furniture "vehicle freezer"
+#: blazemod\blaze_furniture.json
+msgid "This fridge has been further refurbished, and runs at a much lower temperature.  You'll need to take it down first."
+msgstr ""
+
+#. ~ Name of material
+#. ~ Item name
+#: blazemod\blaze_materials.json blazemod\items\ammo\vortex_ammo.json
+msgid "vortex core"
+msgid_plural "vortex core"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Name of material
+#. ~ Item name
+#: blazemod\blaze_materials.json blazemod\items\fuel.json
+msgid "liquified blob feed"
+msgid_plural "bfeedfuel"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Name of an ammunition type
+#. ~ Item name
+#: blazemod\blob_ammo_types.json blazemod\items\fuel.json
+msgid "blob feed"
+msgid_plural "blob feed"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Construction group name
+#: blazemod\construction_group.json
+msgid "Harvest Blob Feed from Corpse Pit: Smash to Harvest"
+msgstr ""
+
+#. ~ Construction group name
+#: blazemod\construction_group.json
+msgid "Harvest Blob Feed from Slime: Smash to Harvest"
+msgstr ""
+
+#. ~ Construction group name
+#: blazemod\construction_group.json
+msgid "Convert Fridge Power Supply"
+msgstr ""
+
+#. ~ Construction group name
+#: blazemod\construction_group.json
+msgid "Convert Vehicle Fridge to Freezer"
+msgstr ""
+
+#. ~ MOD name
+#: blazemod\modinfo.json
+msgid "Blazemod - Vehicle Additions Pack"
+msgstr ""
+
+#. ~ Description of MOD "Blazemod - Vehicle Additions Pack"
+#: blazemod\modinfo.json
+msgid "Please see the included README.txt in the mod folder for how to install this mod correctly, and for any other issues."
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"Agh, to See the Spiral in such a Distorted Shape!  Manipulated for its Vortex motion!  Its Perpetual Grace!  Its beauty Tarnished…\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"My friend died, but at least I made her into a blob turret.\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"I have this laser cannon turret on my shopping cart.  I push it around and everything dies.  I think I'm gonna toss it in the lake-- this just isn't fair anymore.\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"Day 40.  Controls broken-- car's magic reactor makes it goes inexorably forward.  Giant rollers on front demolish forest.  Maine, here I come.\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"my car is a diamond in the rough… literally\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"M249 TURRET NODDED.  IS TURRET ALIVE?  FINALLY, SOMEBODY TO TALK TO!\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"Added so many things to my taxi that it went a-blaze.  Whoops.\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"If I put one cargo dimension into another cargo dimension, does the universe end?\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"one day, i will be part of car, too\""
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: blazemod\snippets.json
+msgid "\"Putta little bitta dynamite and halfa landmine in an old soda can…  WHAM!  You goin' somewhere.\""
+msgstr ""
+
+#. ~ Name of an ammunition type
+#: blazemod\vortex_ammo_types.json
+msgid "vortex energy"
+msgstr ""
+
+#. ~ Description of "liquified blob feed"
+#: blazemod\items\fuel.json
+msgid "Liquified blob feed, useful for fueling certain blob based vehicle parts"
+msgstr ""
+
+#. ~ Description of "blob feed"
+#: blazemod\items\fuel.json
+msgid "An amalgam of various types of organic material, contains everything the blob needs to be healthy.  You think…"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "IED"
+msgid_plural "IEDs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "blast canister"
+msgid_plural "blast canisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "blast canister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material that triggers on impact.  Carries a substantial explosive payload."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Big Bang canister"
+msgid_plural "Big Bang canisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Big Bang canister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material that triggers on impact.  Carries a VERY substantial explosive payload."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "fire canister"
+msgid_plural "fire canisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "fire canister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to douse a small area with deadly flames."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "inferno canister"
+msgid_plural "inferno canisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "inferno canister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to douse a large area with deadly flames."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "fragmentation canister"
+msgid_plural "fragmentation canisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "fragmentation canister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to spray the immediate area with deadly shrapnel."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "modified mininuke"
+msgid_plural "modified mininukes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "modified mininuke"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy modified handheld nuclear device.  Intended to be fired from a specialized launcher, its case has been cut down and it has been rigged to explode on impact.  While it is now somewhat lighter than before, it can no longer be triggered manually."
+msgstr ""
+
+#. ~ Description of "harpoon"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A large spear carved from wood.  This was fashioned specifically to be fired from a compatible weapon; thus unsuitable for melee combat."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "IED rigged bolt"
+msgid_plural "IED rigged bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "nova bolt"
+msgid_plural "nova bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "nova bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  Carries a substantial explosive payload."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "supernova bolt"
+msgid_plural "supernova bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "supernova bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  Carries a very substantial explosive payload."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "searing bolt"
+msgid_plural "searing bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "searing bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to douse a small area with deadly flames."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "napalm bolt"
+msgid_plural "napalm bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "napalm bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to douse a large area with deadly flames."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "shatter bolt"
+msgid_plural "shatter bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "shatter bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to spray the immediate area with deadly shrapnel."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "steel ballista bolt"
+msgid_plural "steel ballista bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "steel ballista bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A long shaft carved from wood ending in a tip of sharpened metal.  It's quite heavy, capable of dealing large amounts of damage, but isn't particularly accurate.  Stands a good chance of remaining intact once fired."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "nuclear bolt"
+msgid_plural "nuclear bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "nuclear bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy modified handheld nuclear device affixed to the end of a large ballista bolt.  Its case has been cut down and it has been rigged to explode on impact.  It can no longer be triggered manually."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "wood ballista bolt"
+msgid_plural "wood ballista bolts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "wood ballista bolt"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A sharpened bolt carved from wood.  It's fairly heavy, capable of dealing large amounts of damage, but isn't particularly accurate.  Stands a good chance of remaining intact once fired."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "scrap shotcanister"
+msgid_plural "scrap shotcanisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "scrap shotcanister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with assorted pieces of scrap metal."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "pebble shotcanister"
+msgid_plural "pebble shotcanisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "pebble shotcanister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with tiny pebbles.  Damage is pathetic but flight is much more stable than scrap."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "flechette shotcanister"
+msgid_plural "flechette shotcanisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "flechette shotcanister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with handmade flechettes, giving it some armor piercing capabilities."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "bearing shotcanister"
+msgid_plural "bearing shotcanisters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "bearing shotcanister"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with handmade bearings, stabilizing its flight pattern a tiny bit."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Iron-coated pebble"
+msgid_plural "Iron-coated pebbles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Iron-coated pebble"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark II, takes time and special equipment to create but totally worth it if you want to step up your armor-piercing game with pneumatics"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Iron-coated clay pellet"
+msgid_plural "Iron-coated clay pellets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Iron-coated clay pellet"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A clay pellet coated with iron - Mark II, takes time and special equipment to create but totally worth it if you want to step up your armor-piercing game with pneumatics that use pebble ammo."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Bone-coated pebble"
+msgid_plural "Bone-coated pebbles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Bone-coated pebble"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark III, you've already seen Skeletal Juggernauts, right?Well this is basically miniature version of it - bone coating infused with blob, for some reason this strange infusion works quite well when you coat the normal pebbles with it"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Alloy-coated pebble"
+msgid_plural "Alloy-coated pebbles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Alloy-coated pebble"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark IV, much deadlier but harder to craft version of 'Pebble - Mark ii', synthesis of rigid alloy and living blob truly makes this ammo spectacular, peculiar even, who would have thought that blob can be turned into living ammo?"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "lead ball"
+msgid_plural "lead balls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "lead ball"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy lead ball about 8cm in diameter.  Could pack quite a bit of a punch if you had something to launch it."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "serrated disc"
+msgid_plural "serrated discs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "serrated disc"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "A metal disc surrounded by serrated edges.  It's as menacing as it sounds."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "metal fragment"
+msgid_plural "metal fragments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "metal fragment"
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "Small slivers of metal.  Can't see much use for them."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\ammo\blaze_ammo.json
+msgid "pool ball"
+msgid_plural "pool balls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\ammo\diamond_ammo.json
+msgid "charcoal"
+msgid_plural "charcoal"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\ammo\diamond_ammo.json
+msgid "diamond fragments"
+msgid_plural "diamond fragments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "diamond fragments"
+#: blazemod\items\ammo\diamond_ammo.json
+msgid "These small fragments of diamond are formed as a byproduct from the crystallization process of a diamond matrix.  While the substance usually decays when separated from the catalyst; these fragments are small enough to remain stable."
+msgstr ""
+
+#. ~ Description of "vortex core"
+#: blazemod\items\ammo\vortex_ammo.json
+msgid "Seeing this is a bug."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "storm bolter"
+msgid_plural "storm bolters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "storm bolter"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic bolt thrower has been greatly enhanced, allowing multiple bolts to be launched accurately and in quick succession.  It requires a support of some sort in order to be operated."
+msgstr ""
+
+#. ~ Firing mode of gun "storm bolter"
+#. ~ Firing mode of gun "rotary cannon"
+#. ~ Firing mode of gun "pulse laser"
+#. ~ Firing mode of gun "nail rifle"
+#. ~ Firing mode of gun "needler"
+#. ~ Firing mode of gun "ripper"
+#. ~ Firing mode of gun "rotary speargun"
+#. ~ Firing mode of gun "splintergun"
+#. ~ Firing mode of gun "harpoon gun"
+#. ~ Firing mode of gun "pneumatic assault rifle"
+#. ~ Firing mode of gun "avalanche rifle"
+#. ~ Firing mode of gun "biting blob"
+#. ~ Firing mode of gun "snapping ooze"
+#. ~ Firing mode of gun "blobsaw"
+#. ~ Firing mode of gun "gel lancer"
+#. ~ Firing mode of gun "fire puffer"
+#. ~ Firing mode of gun "vortex bolter"
+#. ~ Firing mode of gun "vortex rifle"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\guns\blob_turret.json blazemod\items\guns\vortex_turret.json
+msgid "semi-auto"
+msgstr ""
+
+#. ~ Firing mode of gun "storm bolter"
+#. ~ Firing mode of gun "rotary cannon"
+#. ~ Firing mode of gun "pulse laser"
+#. ~ Firing mode of gun "nail rifle"
+#. ~ Firing mode of gun "needler"
+#. ~ Firing mode of gun "ripper"
+#. ~ Firing mode of gun "rotary speargun"
+#. ~ Firing mode of gun "splintergun"
+#. ~ Firing mode of gun "harpoon gun"
+#. ~ Firing mode of gun "pneumatic assault rifle"
+#. ~ Firing mode of gun "avalanche rifle"
+#. ~ Firing mode of gun "biting blob"
+#. ~ Firing mode of gun "snapping ooze"
+#. ~ Firing mode of gun "blobsaw"
+#. ~ Firing mode of gun "gel lancer"
+#. ~ Firing mode of gun "fire puffer"
+#. ~ Firing mode of gun "vortex bolter"
+#. ~ Firing mode of gun "vortex rifle"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\guns\blob_turret.json blazemod\items\guns\vortex_turret.json
+msgid "auto"
+msgstr ""
+
+#. ~ Skill associated with gun "storm bolter"
+#. ~ Skill associated with gun "laser cannon"
+#. ~ Skill associated with gun "pulse laser"
+#. ~ Skill associated with gun "turbolaser cannon"
+#. ~ Skill associated with gun "coilgun"
+#. ~ Skill associated with gun "nail rifle"
+#. ~ Skill associated with gun "perforator"
+#. ~ Skill associated with gun "needler"
+#. ~ Skill associated with gun "heavy rail rifle"
+#. ~ Skill associated with gun "ferromagnetic rail rifle"
+#. ~ Skill associated with gun "hypervelocity driver"
+#. ~ Skill associated with gun "scorpion ballista"
+#. ~ Skill associated with gun "splintergun"
+#. ~ Skill associated with gun "harpoon gun"
+#. ~ Skill associated with gun "tesla cannon"
+#. ~ Skill associated with gun "pneumatic assault rifle"
+#. ~ Skill associated with gun "pneumatic bolt driver"
+#. ~ Skill associated with gun "avalanche rifle"
+#. ~ Skill associated with gun "handheld laser cannon"
+#. ~ Skill associated with gun "fusion blaster"
+#. ~ Skill associated with gun "gel spiker"
+#. ~ Skill associated with gun "gel razor"
+#. ~ Skill associated with gun "vortex accelerator"
+#. ~ Skill associated with gun "vortex bolter"
+#. ~ Skill associated with gun "vortex rifle"
+#. ~ Skill associated with gun "modified Marlin 39A"
+#. ~ Skill associated with gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\guns\blob_turret.json blazemod\items\guns\vortex_turret.json blazemod\items\vehicle\blaze_gun.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "slingshot cannon"
+msgid_plural "slingshot cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "slingshot cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Essentially several long drawstrings held by two long, reinforced sides and a mechanism attached to a crank to draw and fire it.  It's deceptively powerful and surprisingly accurate, but far too large to be used without some sort of stable platform."
+msgstr ""
+
+#. ~ Skill associated with gun "slingshot cannon"
+#. ~ Skill associated with gun "rotary cannon"
+#. ~ Skill associated with gun "ripper"
+#. ~ Skill associated with gun "rotary speargun"
+#. ~ Skill associated with gun "biting blob"
+#. ~ Skill associated with gun "frost lancer"
+#. ~ Skill associated with gun "snapping ooze"
+#. ~ Skill associated with gun "blobsaw"
+#. ~ Skill associated with gun "fuel puffer"
+#. ~ Skill associated with gun "acid puffer"
+#. ~ Skill associated with gun "gel spouter"
+#. ~ Skill associated with gun "shock bulb"
+#. ~ Skill associated with gun "gel puffer"
+#. ~ Skill associated with gun "fire puffer"
+#. ~ Skill associated with gun "spark blight"
+#. ~ Skill associated with gun "diamond lance"
+#. ~ Skill associated with gun "diamond nova"
+#. ~ Skill associated with gun "vortex cannon"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\guns\blob_turret.json blazemod\items\guns\diamond_turret.json blazemod\items\guns\vortex_turret.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "lacerator"
+msgid_plural "lacerators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "lacerator"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This weapon launches serrated metal disks at nearby enemies.  It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated."
+msgstr ""
+
+#. ~ Skill associated with gun "lacerator"
+#. ~ Skill associated with gun "gel shooter"
+#. ~ Skill associated with gun "gel lancer"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\guns\blob_turret.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "rotary cannon"
+msgid_plural "rotary cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "rotary cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This fearsome weapon sports 3 barrels in a cyclic configuration.  A specialized mechanism loads the otherwise troublesome rounds; allowing it to be fired in quick succession.  However, this renders it incredibly unwieldy, and it must be mounted on a support structure in order to be fired."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "laser cannon"
+msgid_plural "laser cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "laser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This enhanced laser cannon sacrifices efficiency for destructive power.  The increased power requirements require a significant power source and the size of the firing mechanism also requires support."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "pulse laser"
+msgid_plural "pulse lasers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "pulse laser"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Augmented damage capability and rapid bursts make this a powerful weapon.  The increased power requirements require a significant power source and the firing mechanism also requires a specialized chassis."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "turbolaser cannon"
+msgid_plural "turbolaser cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "turbolaser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "With an augmented emitter and capacitor, this mounted laser is capable of superheating most materials to the point of exploding.  The firing mechanism also requires the services of a specialized chassis, and one must be wary of the prodigious power needs of such a weapon."
+msgstr ""
+
+#. ~ Magazine name
+#: blazemod\items\guns\blaze_weapons.json
+msgid "nail rifle magazine"
+msgid_plural "nail rifle magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of magazine "nail rifle magazine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "An improvised magazine for use with a nail rifle.  Little more than a tin can, spring and some duct tape it is awkward to reload and not especially reliable."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "coilgun"
+msgid_plural "coilguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "coilgun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A homemade gun, using electromagnets to accelerate a ferromagnetic projectile to high velocity.  Powered by UPS."
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "accessories"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "grip"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "sights"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "sling"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "stock"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "rail mount"
+msgstr ""
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "underbarrel mount"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "nail rifle"
+msgid_plural "nail rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "nail rifle"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This is a nailgun that has been extensively modified with the addition of a short barrel, stock and hand guard.  It can be reloaded using detachable magazines and is an overall much more effective weapon."
+msgstr ""
+
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "barrel"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "perforator"
+msgid_plural "perforators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "perforator"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A coilgun with improved electromagnetic circuits to be able to propel a metallic projectile at high speed and with great accuracy.  Capable of piercing armor with little issue, though the projectile itself lacks damage due to its small size.  It must be mounted on a specialized chassis in order to be fired."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "needler"
+msgid_plural "needlers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "needler"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This improved nailgun features a special firing mechanism that is set to fire a spread of up to 5 nails at once; sure to drop the hammer on its unfortunate targets.  However, these features render it incredibly unwieldy, and it must be mounted on a supporting frame in order to be fired."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "heavy rail rifle"
+msgid_plural "heavy rail rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "heavy rail rifle"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This overpowered and overengineered variant of the ferromagnetic rail rifle was designed to deliver electromagnetically-driven obliteration right through whatever obstacles that lies in front of it, be it buildings, vehicles or hordes of walking dead.  However, the hefty bulk and weight of this weapon compared to most contemporary rifles makes it somewhat cumbersome to wield; not to mention that it consumes UPS charges at a tremendous rate, making it impractical for use in prolonged engagements."
+msgstr ""
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "emitter"
+msgstr ""
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "rail"
+msgstr ""
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "underbarrel"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "ferromagnetic rail rifle"
+msgid_plural "ferromagnetic rail rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "ferromagnetic rail rifle"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A single-shot, electrically propelled, steel rail launcher handcrafted from scrap.  The hypervelocity metal stake that it fires is accelerated to the point of spontaneous combustion by a Lorentz force generated by electromagnetic induction, powered by a standard UPS."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "hypervelocity driver"
+msgid_plural "hypervelocity drivers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "hypervelocity driver"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A single-shot, electrically propelled, steel rail launcher.  The powerful, and frankly dangerous, improvements made to the power systems of this weapon is capable imbuing a massive charge into a single-rail; so much that it often shatters into deadly fragments on impact.  It's capabilities are limited by its prodigious power requirements however, and its large size necessitates an appropriately-equipped vehicle."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "ripper"
+msgid_plural "rippers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "ripper"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This menacing weapon rapidly launches bladed disks that rips through enemies with devastating effect.  It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "rotary speargun"
+msgid_plural "rotary spearguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "rotary speargun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic speargun features a revolving barrel behind its launcher, allowing projectiles to be rapidly loaded and fired.    However, the weight requires an external support measure."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "scorpion ballista"
+msgid_plural "scorpion ballistae"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "scorpion ballista"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A massive tension-operated crossbow.  The hand-crank allows one to draw it without the need for heavy labor.  It's far too massive to be used on foot, and thus needs to be mounted on a vehicle in order to be operated."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "splintergun"
+msgid_plural "splinterguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "splintergun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A heavily modified coilgun that fires tiny fragments of metal at high speeds extremely quickly.  The resulting barrage is highly inaccurate, but can turn unarmored targets into pulp.  It must be mounted on a specialized chassis in order to be fired."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "harpoon gun"
+msgid_plural "harpoon guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "harpoon gun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A tension-operated speargun.  A hand-crank lets one draw the strings quickly, but it's too unwieldy to handle without a support of some sort."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "tesla cannon"
+msgid_plural "tesla cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "tesla cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This alteration of the Chain Lightning bionic fires artificial lightning bolts that arc to nearby enemies.  It must be attached to a large power source, but it allows for much more powerful bolts."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic assault rifle"
+msgid_plural "pneumatic assault rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "pneumatic assault rifle"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A multistroke pneumatic rifle handcrafted from scrap.  It is very quiet and deadly."
+msgstr ""
+
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "mechanism"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic bolt driver"
+msgid_plural "pneumatic bolt drivers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "pneumatic bolt driver"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "An eight-shot, revolving barrel, pneumatic bolt driver handcrafted from scrap.  It is very quiet and deadly."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic shotgun"
+msgid_plural "pneumatic shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "pneumatic shotgun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A double-barreled pneumatic air shotgun handcrafted from scrap.  Though it's firepower is lacking compared to more conventional shotguns, this thing can still pack quite a punch.  That is, if your target is directly in front of you."
+msgstr ""
+
+#. ~ Firing mode of gun "pneumatic shotgun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "single"
+msgstr ""
+
+#. ~ Firing mode of gun "pneumatic shotgun"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "double"
+msgstr ""
+
+#. ~ Skill associated with gun "pneumatic shotgun"
+#: blazemod\items\guns\blaze_weapons.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "avalanche rifle"
+msgid_plural "avalanche rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "avalanche rifle"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic assault rifle has been greatly enhanced, firing projectiles faster and with higher velocity.  However, these features render it incredibly unwieldy, and it must be mounted on a supporting platform in order to be fired."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "handheld laser cannon"
+msgid_plural "handheld laser cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "handheld laser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "This is a laser cannon stripped from the barrel of a TX-5LR Cerberus laser turret that has been modified to use UPS power for firing."
+msgstr ""
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "lens"
+msgstr ""
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "grip mount"
+msgstr ""
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "sights mount"
+msgstr ""
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "stock mount"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Fusion Blaster Arm CBM"
+msgid_plural "Fusion Blaster Arm CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Fusion Blaster Arm CBM"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Your left arm has been replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand."
+msgstr ""
+
+#. ~ Name of a bionic
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Fusion Blaster Arm"
+msgstr ""
+
+#. ~ Description of bionic "Fusion Blaster Arm"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "Your left arm has been surgically replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "fusion blaster"
+msgid_plural "fusion blasters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "fusion blaster"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "this a pseudo item"
+msgstr ""
+
+#. ~ Firing mode of gun "fusion blaster"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "single shot"
+msgstr ""
+
+#. ~ Firing mode of gun "fusion blaster"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "triple shot"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "handmade heavy carbine"
+msgid_plural "handmade heavy carbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "handmade heavy carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A homemade lever-action magazine-fed smoothbore rifle.  While still a primitive pipe and 2x4 design, some minor improvements have been made, such as being able to accept G3 compatible magazines, and chambering the more powerful .308 rounds."
+msgstr ""
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "bore"
+msgstr ""
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "brass catcher"
+msgstr ""
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: blazemod\items\guns\blaze_weapons.json blazemod\items\vehicle\blaze_gun.json
+msgid "muzzle"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\blaze_weapons.json
+msgid "handmade carbine"
+msgid_plural "handmade carbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "handmade carbine"
+#: blazemod\items\guns\blaze_weapons.json
+msgid "A well-designed improvised lever-action carbine with a shortened barrel.  Accepting crude detachable magazines or STANAG magazines, this is one of the better homemade weapons."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "biting blob"
+msgid_plural "biting blobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "biting blob"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  It has evolved the ability to constantly generate calcified protrusions which are then controlled by sinuous tensile strands.  These \"teeth\" can then be used to latch and wound anything unfortunate enough to be nearby.  The outer membrane has also become significantly thicker in order to support its more strenuous movement; though it seems pliable enough to pull apart…"
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel shooter"
+msgid_plural "gel shooters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel shooter"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It trawls the ground for material, which it then strips of nutrition.  The remainder is then expelled out at significant velocity towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.  It seems pliable enough to pull apart…"
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "frost lancer"
+msgid_plural "frost lancers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "frost lancer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A biological aberration that exists at sub-zero temperatures.  After filtering nutrients from the water, it freezes the remainder into an incredibly sharp spear of ice; which it then launches at nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "snapping ooze"
+msgid_plural "snapping oozes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "snapping ooze"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A baffling mutation in an already baffling creature, this blob is encased in a thick coat of fur, which serves as a form of protection.  In addition, it is capable of projecting rows of calcified sharp fragments in a manner mimicking the jaw of a more recognizable creature.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "blobsaw"
+msgid_plural "blobsaws"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "blobsaw"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  While its simpler cousins have a limit to the number of keratinous protrusions they can project and control; this blob can utilize hundreds of these sharp fangs to shred anything it detects as a threat into unrecognizable ribbons.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "fuel puffer"
+msgid_plural "fuel puffers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "fuel puffer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digestion process turns the result incredibly viscous which, when threats come near, is launched; ensnaring anything it hits.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "acid puffer"
+msgid_plural "acid puffers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "acid puffer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A filter feeder, the digestion process produces highly acidic byproducts; which is then expelled at any nearby enemies.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel spiker"
+msgid_plural "gel spikers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel spiker"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Capable of calcifying large numbers of fang-like fragments within itself.  It hurls groups of these fragments along with a small portion of itself.  When it reaches its destination, the detached remains shoot these fragments in all directions, expiring in the process.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel spouter"
+msgid_plural "gel spouters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel spouter"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It can suck in water from a vehicle tank, and forcibly expel it in a wide cone.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel lancer"
+msgid_plural "gel lancers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel lancer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Evolving incredible abilities of perception, it is capable of locating and discerning possible threats within a large radius.  When a potential threat is located, it fires a small, calcified projectile with incredible speed and accuracy.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel razor"
+msgid_plural "gel razors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel razor"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  An enhanced metabolism allows it to calcify large, toothy discs which are then launched towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "shock bulb"
+msgid_plural "shock bulbs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "shock bulb"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Shockingly, it somehow is able to project electricity, which it then discharges at any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "gel puffer"
+msgid_plural "gel puffers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "gel puffer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A filter feeder, it strips any water it processes of nutrients and expels the remainder towards any nearby threats.  The process of filter-feeding also makes the remaining liquid viscous, though it also dissipates fairly quickly.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "fire puffer"
+msgid_plural "fire puffers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "fire puffer"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digested material is still highly flammable, and when launched, also activates an ignition gland located on the outer membrane.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\blob_turret.json blazemod\vehicleparts\blob_turret.json
+msgid "spark blight"
+msgid_plural "spark blights"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "spark blight"
+#: blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It is capable of storing energy from sunlight inside itself in the form of electricity.  Then, in a truly baffling show of force, projects a highly concentrated stream of electricity towards any possible threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\diamond_turret.json blazemod\vehicleparts\diamond_turret.json
+msgid "diamond lance"
+msgid_plural "diamond lances"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "diamond lance"
+#: blazemod\items\guns\diamond_turret.json
+msgid "A weapon that is as deadly as it is dazzling.  The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness.  The substance rapidly decays when separated from the catalyst; thus a pre-shaped lump of carbon is brought into contact with the matrix, immediately crystallized and launched just as quickly.  The launcher requires a specialized chassis in order to be brought to bear on its unfortunate targets."
+msgstr ""
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: blazemod\items\guns\diamond_turret.json blazemod\vehicleparts\diamond_turret.json
+msgid "diamond nova"
+msgid_plural "diamond novae"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "diamond nova"
+#: blazemod\items\guns\diamond_turret.json
+msgid "A weapon that is as deadly as it is dazzling.  The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness.  The substance rapidly decays when separated from the catalyst, and at sizes as large as the projectile used, also rapidly decays when in contact with other matter.  Thus the projectile is held and launched by the use of pressurized air from a vortex stone.  Upon striking its target, the projectile undergoes explosive decomposition; shattering into a brilliant burst of diamond fragments."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\vortex_turret.json
+msgid "vortex accelerator"
+msgid_plural "vortex accelerators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "vortex accelerator"
+#: blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch sharp fragments at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\vortex_turret.json
+msgid "vortex bolter"
+msgid_plural "vortex bolters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "vortex bolter"
+#: blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch bolts at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\vortex_turret.json
+msgid "vortex cannon"
+msgid_plural "vortex cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "vortex cannon"
+#: blazemod\items\guns\vortex_turret.json
+msgid "Essentially a large pneumatic gun made to hurl sharpened metal rails.  Instead of a mechanical system, you've managed to harness the vortex to power this gun.  While powerful for its size, you'll need some form of platform to mount it on."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\guns\vortex_turret.json
+msgid "vortex rifle"
+msgid_plural "vortex rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "vortex rifle"
+#: blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch small projectiles at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "gelatinous capsule"
+msgid_plural "gelatinous capsules"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelatinous capsule"
+#. ~ Description of "gray cocoon"
+#. ~ Description of "oozing pod"
+#: blazemod\items\tools\blob_container.json
+msgid "While the blob is very eager to be fed, it's not as enthusiastic about giving up liquids.  A few alterations are necessary."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "gelatinous tank"
+msgid_plural "gelatinous tanks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "gray cocoon"
+msgid_plural "gray cocoons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "gray tank"
+msgid_plural "gray tanks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "oozing pod"
+msgid_plural "oozing pods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_container.json
+msgid "oozing tank"
+msgid_plural "oozing tanks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing blob frame"
+msgid_plural "growing blob frames"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "growing blob frame"
+#: blazemod\items\tools\blob_tools.json
+msgid "A growing vehicle frame made of bone.  It's coated in a thick layer of ooze, though there's greater amounts on the bindings.  It's not quite tough enough to use."
+msgstr ""
+
+#. ~ "msg" action message of item "growing blob frame"
+#: blazemod\items\tools\blob_tools.json
+msgid "You test the frame; It wiggles, and then collapses into an lump of goo."
+msgstr ""
+
+#. ~ "not_ready_msg" action message of item "growing blob frame"
+#: blazemod\items\tools\blob_tools.json
+msgid "You test the frame; it gives easily, it's still not sturdy enough"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing keratinous mass"
+msgid_plural "growing keratinous mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "growing keratinous mass"
+#. ~ Description of "growing beaded mass"
+#. ~ Description of "growing icy mass"
+#. ~ Description of "growing cold mass"
+#. ~ Description of "growing hairy mass"
+#. ~ Description of "growing gelatinous mass"
+#. ~ Description of "growing glowing mass"
+#. ~ Description of "growing gray mass"
+#. ~ Description of "growing spike-studded mass"
+#. ~ Description of "growing gasoline-laced mass"
+#. ~ Description of "growing acidic mass"
+#. ~ Description of "growing ooze"
+#. ~ Description of "growing mass of tendrils"
+#. ~ Description of "growing spiked mass"
+#. ~ Description of "growing spiny mass"
+#. ~ Description of "growing spiky mass"
+#. ~ Description of "growing bright mass"
+#. ~ Description of "growing viscous mass"
+#. ~ Description of "growing warm mass"
+#. ~ Description of "growing electrified mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "Not quite fully grown, this blob requires nourishment to fully develop."
+msgstr ""
+
+#. ~ "msg" action message of item "growing keratinous mass"
+#. ~ "msg" action message of item "growing beaded mass"
+#. ~ "msg" action message of item "growing icy mass"
+#. ~ "msg" action message of item "growing cold mass"
+#. ~ "msg" action message of item "growing hairy mass"
+#. ~ "msg" action message of item "growing gelatinous mass"
+#. ~ "msg" action message of item "growing glowing mass"
+#. ~ "msg" action message of item "growing gray mass"
+#. ~ "msg" action message of item "growing spike-studded mass"
+#. ~ "msg" action message of item "growing gasoline-laced mass"
+#. ~ "msg" action message of item "growing acidic mass"
+#. ~ "msg" action message of item "growing ooze"
+#. ~ "msg" action message of item "growing mass of tendrils"
+#. ~ "msg" action message of item "growing spiked mass"
+#. ~ "msg" action message of item "growing spiny mass"
+#. ~ "msg" action message of item "growing spiky mass"
+#. ~ "msg" action message of item "growing bright mass"
+#. ~ "msg" action message of item "growing viscous mass"
+#. ~ "msg" action message of item "growing warm mass"
+#. ~ "msg" action message of item "growing electrified mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "The blob balloons to full size."
+msgstr ""
+
+#. ~ "not_ready_msg" action message of item "growing keratinous mass"
+#. ~ "not_ready_msg" action message of item "growing beaded mass"
+#. ~ "not_ready_msg" action message of item "growing icy mass"
+#. ~ "not_ready_msg" action message of item "growing cold mass"
+#. ~ "not_ready_msg" action message of item "growing hairy mass"
+#. ~ "not_ready_msg" action message of item "growing gelatinous mass"
+#. ~ "not_ready_msg" action message of item "growing glowing mass"
+#. ~ "not_ready_msg" action message of item "growing gray mass"
+#. ~ "not_ready_msg" action message of item "growing spike-studded mass"
+#. ~ "not_ready_msg" action message of item "growing gasoline-laced mass"
+#. ~ "not_ready_msg" action message of item "growing acidic mass"
+#. ~ "not_ready_msg" action message of item "growing ooze"
+#. ~ "not_ready_msg" action message of item "growing mass of tendrils"
+#. ~ "not_ready_msg" action message of item "growing spiked mass"
+#. ~ "not_ready_msg" action message of item "growing spiny mass"
+#. ~ "not_ready_msg" action message of item "growing spiky mass"
+#. ~ "not_ready_msg" action message of item "growing bright mass"
+#. ~ "not_ready_msg" action message of item "growing viscous mass"
+#. ~ "not_ready_msg" action message of item "growing warm mass"
+#. ~ "not_ready_msg" action message of item "growing electrified mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "Whatever it's doing, it's not done yet."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing beaded mass"
+msgid_plural "growing beaded mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing icy mass"
+msgid_plural "growing icy mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "gelacier"
+msgid_plural "gelaciers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelacier"
+#: blazemod\items\tools\blob_tools.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It seems pliable enough to pull apart…"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing cold mass"
+msgid_plural "growing cold mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing hairy mass"
+msgid_plural "growing hairy mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#. ~ Monster name
+#: blazemod\items\tools\blob_tools.json blazemod\monsters\blob_monster.json
+msgid "gelatinous mass"
+msgid_plural "gelatinous mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelatinous mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "An experiment gone horribly right.  While the original intent was to combine the structure of a bone frame with the impact absorption of the blob; the blob seems to have completely consumed the bone.  Instead, what remains is an amorphous mass of goo with what seems to be numerous thin filaments floating within.  With a bit of effort, you can grasp the fibers and stretch the mass into a multitude of shapes.  The mass is able to retain the new shape even under force, though the mass yields at your touch.  With enough strength, you think you can pull it apart."
+msgstr ""
+
+#. ~ "msg" action message of item "gelatinous mass"
+#. ~ "msg" action message of item "gray mass"
+#. ~ "msg" action message of item "oozing mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "You fumble as the blob starts to multiply rapidly!"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "multiplying gelatinous mass"
+msgid_plural "multiplying gelatinous mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "multiplying gelatinous mass"
+#. ~ Description of "multiplying gray mass"
+#. ~ Description of "multiplying oozing mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "Having been fed, this blob is now rapidly multiplying into other copies of itself; extremely noisy copies!  And even worse, it's stuck to your hands until whatever it's doing is done!  Catch those blobs before they bring in every zombie for miles!"
+msgstr ""
+
+#. ~ "friendly_msg" action message of item "multiplying gelatinous mass"
+#. ~ "hostile_msg" action message of item "multiplying gelatinous mass"
+#. ~ "friendly_msg" action message of item "multiplying gray mass"
+#. ~ "hostile_msg" action message of item "multiplying gray mass"
+#. ~ "friendly_msg" action message of item "multiplying oozing mass"
+#. ~ "hostile_msg" action message of item "multiplying oozing mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "A blob splits and bounces away!"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing gelatinous mass"
+msgid_plural "growing gelatinous mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing glowing mass"
+msgid_plural "growing glowing mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#. ~ Monster name
+#: blazemod\items\tools\blob_tools.json blazemod\monsters\blob_monster.json
+msgid "gray mass"
+msgid_plural "gray mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gray mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "This internal structures of this creature have developed significantly.  While retaining the resilience and malleability of its once simpler form, it has gained the considerable abilities of perception and stimulus response.  When directly threatened, it is able to shift and alter its microfibers, hardening its membrane to an almost steel-hard shell.  You can still pull it apart with enough force.  It's also really gray."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "multiplying gray mass"
+msgid_plural "multiplying gray mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing gray mass"
+msgid_plural "growing gray mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing spike-studded mass"
+msgid_plural "growing spike-studded mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing gasoline-laced mass"
+msgid_plural "growing gasoline-laced mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing acidic mass"
+msgid_plural "growing acidic mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "oozing mass"
+msgid_plural "oozing mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "oozing mass"
+#: blazemod\items\tools\blob_tools.json
+msgid "An amorphous mass that has undergone a significant growth.  In addition to the increased amount of goo and sinuous filaments, it seems to have started developing other internal structures.  Like its smaller counterpart, it can be shaped into various structures; albeit with significantly greater tensile strength due to the increased number of supporting filaments.  You believe you can split it apart with enough force."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "multiplying oozing mass"
+msgid_plural "multiplying oozing mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing ooze"
+msgid_plural "growing ooze"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing mass of tendrils"
+msgid_plural "growing mass of tendrils"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing spiked mass"
+msgid_plural "growing spiked mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing spiny mass"
+msgid_plural "growing spiny mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing spiky mass"
+msgid_plural "growing spiky mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing bright mass"
+msgid_plural "growing bright mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing viscous mass"
+msgid_plural "growing viscous mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing warm mass"
+msgid_plural "growing warm mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\blob_tools.json
+msgid "growing electrified mass"
+msgid_plural "growing electrified mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\tools\diamond_tools.json
+msgid "diamond cluster"
+msgid_plural "diamond clusters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "diamond cluster"
+#: blazemod\items\tools\diamond_tools.json
+msgid "A cluster of artificial crystals that have broken off of a diamond matrix.  While the substance usually decays when separated from the catalyst; this cluster seems to be self-sustaining by some unknown mechanism.  "
+msgstr ""
+
+#. ~ "msg" action message of item "diamond cluster"
+#: blazemod\items\tools\diamond_tools.json
+msgid "The cluster comes apart in your hands."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\tools\diamond_tools.json
+msgid "diamond matrix"
+msgid_plural "diamond matrices"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "diamond matrix"
+#: blazemod\items\tools\diamond_tools.json
+msgid "A sparkling diamond with a dazzling spiral pattern.  Small pieces of glittering crystal form on the edges as you hold it."
+msgstr ""
+
+#. ~ "msg" action message of item "diamond matrix"
+#: blazemod\items\tools\diamond_tools.json
+msgid "Your senses dull as you gaze into the depths of this gemstone's center…"
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\tools\vortex_tools.json blazemod\vehicleparts\vortex_parts.json
+msgid "vortex engine"
+msgid_plural "vortex engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "vortex engine"
+#: blazemod\items\tools\vortex_tools.json
+msgid "A tornado in a box, so to speak.  Inside this innocuous tank contains either the culmination of human innovation in clean energy, or a weapon of mass destruction capable of wiping civilization - or what's left of it - off the map.  An external mechanism allows it to be attached to a vehicle to render it mobile."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\tools\vortex_tools.json blazemod\vehicleparts\vortex_parts.json
+msgid "vortex generator"
+msgid_plural "vortex generators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "vortex generator"
+#: blazemod\items\tools\vortex_tools.json
+msgid "A tornado in a box, so to speak.  Inside this innocuous tank contains either the culmination of human innovation in clean energy, or a weapon of mass destruction capable of wiping civilization - or what's left of it - off the map.  An external mechanism allow it to be hooked up to a battery to store the power generated."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "large steam engine"
+msgid_plural "large steam engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "large steam engine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A large steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "huge steam engine"
+msgid_plural "huge steam engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "huge steam engine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A huge steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Steam turbine efficiency sucks - ideally 47% efficient with reheat cycles, versus 55% for a modern gas engine.  Going with 33% efficieny for easy math
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "small steam turbine"
+msgid_plural "small steam turbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Steam turbine efficiency sucks - ideally 47% efficient with reheat cycles, versus 55% for a modern gas engine.  Going with 33% efficieny for easy math
+#. ~ Description of "small steam turbine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A small steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "medium steam turbine"
+msgid_plural "medium steam turbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "medium steam turbine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A medium sized steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "large steam turbine"
+msgid_plural "large steam turbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "large steam turbine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A large steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "huge steam turbine"
+msgid_plural "huge steam turbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "huge steam turbine"
+#: blazemod\items\vehicle\blaze_engine.json
+msgid "A huge steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\vehicle\blaze_gun.json
+msgid "modified Marlin 39A"
+msgid_plural "modified Marlin 39As"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "modified Marlin 39A"
+#: blazemod\items\vehicle\blaze_gun.json
+msgid "A Marlin 39A, modified for use in a vehicle turret"
+msgstr ""
+
+#. ~ Name of a gun
+#: blazemod\items\vehicle\blaze_gun.json
+msgid "modified SKS"
+msgid_plural "modified SKSs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of gun "modified SKS"
+#: blazemod\items\vehicle\blaze_gun.json
+msgid "An SKS, modified to be suitable for use in a vehicle turret"
+msgstr ""
+
+#. ~ Magazine name
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "BB hopper"
+msgid_plural "BB hoppers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of magazine "BB hopper"
+#. ~ Description of magazine "pebble hopper"
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted weapon.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a small round shot into the weapon's chamber below.  It is not very reliable, but quick to reload."
+msgstr ""
+
+#. ~ Magazine name
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "bolt hopper"
+msgid_plural "bolt hoppers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of magazine "bolt hopper"
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted crossbow.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a crossbow bolt into the weapon below.  It is awkward to reload and not especially reliable."
+msgstr ""
+
+#. ~ Magazine name
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "canister rack"
+msgid_plural "canister racks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of magazine "canister rack"
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted weapon.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a heavy canister into the weapon below.  It is awkward to reload and not especially reliable."
+msgstr ""
+
+#. ~ Magazine name
+#: blazemod\items\vehicle\blaze_magazines.json
+msgid "pebble hopper"
+msgid_plural "pebble hoppers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_other.json
+msgid "stabilized portal"
+msgid_plural "stabilized portals"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "stabilized portal"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "As you gaze into the seemingly infinite depths of this portable hole in reality, a phrase from a time forever gone echoes in your mind.  \"There are two things that are infinite: the universe and human kleptomania.\""
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_other.json
+msgid "vehicle shelving"
+msgid_plural "vehicle shelvings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "vehicle shelving"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "Several heavy frames retrofitted to be installed together which are outfitted with tie-downs and attachment points gallore for carrying an extended amount of cargo."
+msgstr ""
+
+#. ~ Description of "vehicle refrigerator"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "A household refrigerator with impressive capacity.  Its power connection has been refurbished, and it can be mounted onto a vehicle to draw from its power."
+msgstr ""
+
+#. ~ Description of "vehicle freezer"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "This refurbished refrigerator has been stripped of much of its internal components and converted to run at a much lower temperature, causing it to serve as a freezer for more power.  Like its predecessor, it runs on vehicle power."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_other.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "MetalMaster forge buddy"
+msgid_plural "MetalMaster forge buddies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "MetalMaster forge buddy"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "From the makers of the best-selling* FOODCO kitchen buddy comes the MetalMaster forge buddy, for all your metalworking, firing, and welding needs!  It's just as clunky and awkward as the thing it's spinning off, and still requires a vehicle battery to function."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_other.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "KitchenMaster cooking buddy"
+msgid_plural "KitchenMaster cooking buddies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "KitchenMaster cooking buddy"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "Because it *clearly* needed one, this large all-in-one station provides the functions of FOODCO's kitchen buddy, now with complementary fume hoods and chemistry materials.  Why a chef would need a chemical rig is anyone's guess, but you can mount it on a vehicle to make use of it."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_other.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "cooking rig"
+msgid_plural "cooking rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "cooking rig"
+#: blazemod\items\vehicle\blaze_other.json
+msgid "Skillet, pot, hotplate, and chemistry set; everything you need to cook food and chemicals.  Includes proper fume vents and a separator, so you don't contaminate your food with toxic chemicals."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "solar array"
+msgid_plural "solar arrays"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "solar array"
+#. ~ Description of vehicle part "solar array"
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "reinforced solar array"
+msgid_plural "reinforced solar arrays"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "reinforced solar array"
+#. ~ Description of vehicle part "reinforced solar array"
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three reinforced solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "upgraded solar array"
+msgid_plural "upgraded solar arrays"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "upgraded solar array"
+#. ~ Description of vehicle part "upgraded solar array"
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three upgraded solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "upgraded reinforced solar array"
+msgid_plural "upgraded reinforced solar arrays"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "upgraded reinforced solar array"
+#. ~ Description of vehicle part "upgraded reinforced solar array"
+#: blazemod\items\vehicle\blaze_solar.json blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three upgraded reinforced solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "Rubber Caterpillar Track"
+msgid_plural "Rubber Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Rubber Caterpillar Track"
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of hard rubber tracks reinforced by stiff wire held in place by a set of smaller wheels.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "Steel Caterpillar Track"
+msgid_plural "Steel Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Steel Caterpillar Track"
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on large construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is very heavy."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "Reinforced Caterpillar Track"
+msgid_plural "Reinforced Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Reinforced Caterpillar Track"
+#: blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on APCs and armored vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is extremely heavy."
+msgstr ""
+
+#. ~ No Snake, eating it will not refill your batteries.
+#. ~ Item name
+#: blazemod\items\vehicle\blob_lights.json
+msgid "gelectrode"
+msgid_plural "gelectrodes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ No Snake, eating it will not refill your batteries.
+#. ~ Description of "gelectrode"
+#: blazemod\items\vehicle\blob_lights.json
+msgid "A strange biological anomaly, this blob seems capable of emitting light when electricity is provided to it, from small lamps up to headlights.  Unfortunately there is no place to insert a battery, so you'll have to hook it up to a vehicle's power grid.  It seems pliable enough to pull apart…"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blob_treads.json
+msgid "Gelatinous track"
+msgid_plural "Gelatinous tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "Gelatinous track"
+#. ~ Description of "Oozing track"
+#. ~ Description of "Gray track"
+#: blazemod\items\vehicle\blob_treads.json
+msgid "A short, interlocking set of tracks created out of some of your monstrosity blob based parts.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blob_treads.json
+msgid "Oozing track"
+msgid_plural "Oozing tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_treads.json blazemod\vehicleparts\blob_treads.json
+msgid "Gray track"
+msgid_plural "Gray tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_vehicleparts.json blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gelacier boat hull"
+msgid_plural "gelacier boat hulls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelacier boat hull"
+#: blazemod\items\vehicle\blob_vehicleparts.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It has formed itself into a wide boat frame."
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blob_vehicleparts.json
+msgid "amorphous heart"
+msgid_plural "amorphous hearts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "amorphous heart"
+#: blazemod\items\vehicle\blob_vehicleparts.json
+msgid "This amorphous mass seems to have finished developing; its advanced internal structures testifying to that.  It is capable of locomotion through internal hydraulic pressure, capable of moving substantial loads, and, in an astounding display of intelligence, is capable of manipulating anything it's attached to, whether blob-based or otherwise, through extended pseudopods.  You think you might be able to manipulate it, and through it, all its attached parts.  Though to do so you'll have to position yourself to be in contact with it; and it appears unnervingly willing to accommodate you…"
+msgstr ""
+
+#. ~ Item name
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "gelacier wheel"
+msgid_plural "gelacier wheels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelacier wheel"
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It has formed itself into a wide, crude wheel."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_wheel.json blazemod\vehicleparts\blob_wheel.json
+msgid "gelatinous wheel"
+msgid_plural "gelatinous wheels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gelatinous wheel"
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "Filling a gelatinous mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_wheel.json blazemod\vehicleparts\blob_wheel.json
+msgid "gray wheel"
+msgid_plural "gray wheels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "gray wheel"
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "Filling a gray mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_wheel.json blazemod\vehicleparts\blob_vehicleparts.json blazemod\vehicleparts\blob_wheel.json
+msgid "earthen roller"
+msgid_plural "earthen rollers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "earthen roller"
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "A large, spherical blob the size of a large truck tire.  The outer layer has compacted itself into a solid shell; offering great resilience.  Having grown to full size, it seems content to simply sit there."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\blob_wheel.json blazemod\vehicleparts\blob_wheel.json
+msgid "oozing wheel"
+msgid_plural "oozing wheels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "oozing wheel"
+#: blazemod\items\vehicle\blob_wheel.json
+msgid "Filling an oozing mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr ""
+
+#. ~ Sempai can't resist me now!
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\diamond_vehicleparts.json blazemod\vehicleparts\diamond_parts.json
+msgid "diamond frame"
+msgid_plural "diamond frames"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Sempai can't resist me now!
+#. ~ Description of "diamond frame"
+#: blazemod\items\vehicle\diamond_vehicleparts.json
+msgid "A brilliantly sparkling diamond vehicle frame.  Incredibly strong for its weight."
+msgstr ""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: blazemod\items\vehicle\diamond_vehicleparts.json blazemod\vehicleparts\diamond_parts.json
+msgid "diamond plating"
+msgid_plural "diamond platings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "diamond plating"
+#: blazemod\items\vehicle\diamond_vehicleparts.json
+msgid "A piece of armor plating made of clear diamond.  Incredibly strong for its weight."
+msgstr ""
+
+#. ~ Speech from speaker mon_gloople
+#. ~ Speech from speaker mon_oozle
+#. ~ Speech from speaker mon_gray
+#: blazemod\monsters\blob_monster.json
+msgid "\"SQUEE!\""
+msgstr ""
+
+#. ~ Description of monster "gelatinous mass"
+#. ~ Description of monster "gray mass"
+#: blazemod\monsters\blob_monster.json
+msgid "An escaping noisy blob, catch it before it brings in every zombie for miles!"
+msgstr ""
+
+#. ~ Death message of monster "gelatinous mass"
+#. ~ Death message of monster "gray mass"
+#: blazemod\monsters\blob_monster.json
+#, c-format
+msgid "The %s melts away."
+msgstr ""
+
+#. ~ Description of vehicle part ""
+#: blazemod\vehicleparts\blaze_combustion.json
+msgid "A closed cycle, external combustion steam turbine.  Burns coal from a bunker in the vehicle to produce steam."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted slingshot cannon"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted lacerator"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted rotary cannon"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted laser cannon"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted pulse laser"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted turbolaser"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted ripper"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted scorpion ballista"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted speargun"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted heavy rail rifle"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted ferromagnetic rail rifle"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted coilgun"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted tesla cannon"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "cargo shelving"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "wiring"
+msgstr ""
+
+#. ~ Description of vehicle part "wiring"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "A length of heavy duty copper wire, useful for routing power from one part of a vehicle to another part."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "pocket dimension cargo"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "refrigerator"
+msgstr ""
+
+#. ~ Description of vehicle part "refrigerator"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "A medium-sized household refrigerator, converted to utilize vehicle power.  When turned on, food inside will be cooled, extending the time it has before spoiling."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "freezer"
+msgstr ""
+
+#. ~ Description of vehicle part "freezer"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "A household fridge, converted to run at a much lower temperature and on vehicle power.  When turned on, food inside will be frozen, completely stopping it from spoiling."
+msgstr ""
+
+#. ~ Description of vehicle part "MetalMaster forge buddy"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "A welding and metalworking station, powered by the vehicle's battery.  'e'xamine the forge rig to utilize its welder or soldering iron; you'll still need glare protection."
+msgstr ""
+
+#. ~ Description of vehicle part "cooking rig"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "An all-in-one kitchen unit and chemistry lab.  'e'xamine it to use its hotplate to heat up food or drinks."
+msgstr ""
+
+#. ~ Description of vehicle part "KitchenMaster cooking buddy"
+#: blazemod\vehicleparts\blaze_other_parts.json
+msgid "An all-in-one kitchen unit, chemistry lab, and food preparation area.  'e'xamine it to use its hotplate to heat up food or drinks."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_treads.json
+msgid "rubber treads"
+msgstr ""
+
+#. ~ Description of vehicle part "rubber treads"
+#. ~ Description of vehicle part "steel treads"
+#. ~ Description of vehicle part "tank treads"
+#: blazemod\vehicleparts\blaze_treads.json
+msgid "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_treads.json
+msgid "steel treads"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_treads.json
+msgid "tank treads"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "TDI Vector turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "storm bolter turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "slingshot cannon turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "mounted m4 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rotary cannon turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AK47 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AK74 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "laser cannon turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "pulse laser turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "turbolaser turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "American-180 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "perforator turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "needler turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AR-15 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "hypervelocity driver turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "ripper turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "scorpion turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "splintergun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "tesla turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "avalanche turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "autoshotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "blunderbuss turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Browning BLR turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Calico M960 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock carbine turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "coilgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "lacerator turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Cx4 Storm turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flamethrower turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM451 flamethrower turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN FAL turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN P90 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "heavy rail rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G3 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G36 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G80 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP5 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP7 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K UMP45 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Kel-Tec KSG turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Tavor TS12 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "40mm launcher turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M1014 shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Barrett M107A1 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M14-EBR turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M1A turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M2010 ESR turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".50 caliber turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M320 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M60 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M79 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "MAC-10 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Marlin 39A turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Milkor MGL turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Mossberg 500 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "nail rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM216 SPIW turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "double pipe shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "pipe shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rail rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 700 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 870 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "repeating crossbow turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "revolver shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".22 pipe rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".308 pipe rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "9x19mm pipe rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM11B scout rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM2000 SMG turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM51 assault rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM614 LMG turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM802 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM88 battle rifle turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rotary speargun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger 10/22 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger mini-14 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Saiga 12 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Savage 111F turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN SCAR-H turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "double shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "single shotgun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "SKS turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "speargun turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Steyr AUG turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "223 carbine turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "TEC-9 turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Uzi turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "V29 laser turret"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json blazemod\vehicleparts\blob_vehicleparts.json
+msgid "icy windshield"
+msgstr ""
+
+#. ~ Description of vehicle part "icy windshield"
+#: blazemod\vehicleparts\blob_boards.json blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, existing in a super-cooled state.  It is transparent, and can be used to see out of the vehicle."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "gel panel"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "gray wall"
+msgstr ""
+
+#. ~ Description of vehicle part "gray wall"
+#. ~ Description of vehicle part "ooze barrier"
+#: blazemod\vehicleparts\blob_boards.json
+msgid "A living blob, formed into a vehicle wall.  Keeps zombies outside the vehicle and prevents people from seeing through it."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "gel quarterpanel"
+msgstr ""
+
+#. ~ Description of vehicle part "gel quarterpanel"
+#. ~ Description of vehicle part "gray barricade"
+#. ~ Description of vehicle part "ooze screen"
+#: blazemod\vehicleparts\blob_boards.json
+msgid "A living blob, formed into a half-height vehicle wall.  Keeps zombies outside the vehicle but allows people to see over it."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "gray barricade"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "ooze screen"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_boards.json
+msgid "ooze barrier"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_frames.json
+msgid "gel framework"
+msgstr ""
+
+#. ~ Description of vehicle part "gel framework"
+#. ~ Description of vehicle part "gray frame"
+#. ~ Description of vehicle part "ooze chassis"
+#: blazemod\vehicleparts\blob_frames.json
+msgid "A living blob, shaped to provide attachment points for other blobs.  Other vehicle components and blobs can be mounted on it.  If all the frames and components of a vehicle are foldable or made from blobs, the vehicle can be folding into a small package and picked up as a normal item."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_frames.json
+msgid "gray frame"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_frames.json
+msgid "ooze chassis"
+msgstr ""
+
+#. ~ Description of vehicle part ""
+#: blazemod\vehicleparts\blob_lights.json
+msgid "A living, glowing blob.  Having been filled with electrical power, can release it as light of varying strength."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_lights.json
+msgid "gel aisle lights"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_lights.json
+msgid "gel floodlight"
+msgstr ""
+
+#. ~ Description of vehicle part "gel floodlight"
+#: blazemod\vehicleparts\blob_lights.json
+msgid "A very bright, circular light that illuminates the area outside the vehicle when turned on."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_lights.json
+msgid "gel directed floodlight"
+msgstr ""
+
+#. ~ Description of vehicle part "gel directed floodlight"
+#: blazemod\vehicleparts\blob_lights.json
+msgid "A very bright, directed light that illuminates a half-circular area outside the vehicle when turned on.  During installation, you can choose what direction to point the light."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_lights.json
+msgid "gel headlight"
+msgstr ""
+
+#. ~ Description of vehicle part "gel headlight"
+#: blazemod\vehicleparts\blob_lights.json
+msgid "A bright light that illuminates a narrow cone outside the vehicle when turned on.  During installation, you can choose what direction to point the light, so multiple headlights can illuminate the sides or rear, as well as the front."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_lights.json
+msgid "gel wide angle headlight"
+msgstr ""
+
+#. ~ Description of vehicle part "gel wide angle headlight"
+#: blazemod\vehicleparts\blob_lights.json
+msgid "A bright light that illuminates a wide cone outside the vehicle when turned on.  During installation, you can choose what direction to point the light, so multiple headlights can illuminate the sides or rear, as well as the front."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_rams.json
+msgid "ice ram"
+msgstr ""
+
+#. ~ Description of vehicle part "ice ram"
+#: blazemod\vehicleparts\blob_rams.json
+msgid "A living blob, existing in a super-cooled state.  It will absorb damage in a vehicle collision and deliver additional damage to the other object in the collision.  It should be mounted on the edge of the vehicle, preferably the front."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_treads.json
+msgid "Gelatinous tracks"
+msgstr ""
+
+#. ~ Description of vehicle part "Gelatinous tracks"
+#: blazemod\vehicleparts\blob_treads.json
+msgid "A set of continuous, interlocking tracks made out of blob.  They can be used in place of wheels, and provide good traction and off-road performance."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_treads.json
+msgid "Oozing tracks"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_turret.json
+msgid "inert core"
+msgstr ""
+
+#. ~ Description of vehicle part "inert core"
+#: blazemod\vehicleparts\blob_turret.json
+msgid "A sleeping amorphous core, acting as a rotating, universal mount for a weapon.  If your hands are empty, you can stand next to a tentacle and 'f'ire the weapon by selecting the tile."
+msgstr ""
+
+#. ~ Description of vehicle part ""
+#: blazemod\vehicleparts\blob_turret.json
+msgid "A living blob turned into a heavy vehicle weapon."
+msgstr ""
+
+#. ~ Description of vehicle part "frost lancer"
+#: blazemod\vehicleparts\blob_turret.json
+msgid "A living blob, existing in a super-cooled state and transformed into a heavy vehicle weapon."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ice pack"
+msgstr ""
+
+#. ~ Description of vehicle part "ice pack"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, existing in a super-cooled state.  It will keep items stored in it cold, reducing the speed at which food and drink rots."
+msgstr ""
+
+#. ~ Description of vehicle part "gelacier boat hull"
+#. ~ Description of vehicle part "icy sea skimmer"
+#: blazemod\vehicleparts\blob_vehicleparts.json blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob, existing in a super-cooled state.  It acts as a boat hull."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel retriever"
+msgstr ""
+
+#. ~ Description of vehicle part "gel retriever"
+#. ~ Description of vehicle part "gray retriever"
+#. ~ Description of vehicle part "ooze retriever"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed to act as a scoop.  Use the vehicle controls to turn it on or off.  When turned on, it will scoop up any loose items that it travels over, putting them into the vehicle's storage."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel harness"
+msgstr ""
+
+#. ~ Description of vehicle part "gel harness"
+#. ~ Description of vehicle part "gray harness"
+#. ~ Description of vehicle part "ooze harness"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, reformed as a belt and attached to a seat."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "capsule (10L)"
+msgstr ""
+
+#. ~ Description of vehicle part "capsule (10L)"
+#. ~ Description of vehicle part "cocoon (30L)"
+#. ~ Description of vehicle part "pod (20L)"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a storage space for holding liquids.  If filled with the appropriate fuel for the vehicle's engine, the engine will automatically draw fuel from the tank when the engine is on.  If filled with water, you can access the water from a water faucet, if one is installed in the vehicle.  You can also use a rubber hose to siphon liquids out of a tank."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel tank (60L)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel reinforcement"
+msgstr ""
+
+#. ~ Description of vehicle part "gel reinforcement"
+#. ~ Description of vehicle part "gray reinforcement"
+#. ~ Description of vehicle part "ooze reinforcement"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as armor plate."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel roof"
+msgstr ""
+
+#. ~ Description of vehicle part "gel roof"
+#. ~ Description of vehicle part "gray roof"
+#. ~ Description of vehicle part "ooze roof"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, placed as roof."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel seat"
+msgstr ""
+
+#. ~ Description of vehicle part "gel seat"
+#. ~ Description of vehicle part "gray seat"
+#. ~ Description of vehicle part "ooze seat"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a comfy couch.  You can sit here."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel receptacle"
+msgstr ""
+
+#. ~ Description of vehicle part "gel receptacle"
+#. ~ Description of vehicle part "gray receptacle"
+#. ~ Description of vehicle part "ooze receptacle"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, shaped into a cargo space."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel pouch (under)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel walkway"
+msgstr ""
+
+#. ~ Description of vehicle part "gel walkway"
+#. ~ Description of vehicle part "gray walkway"
+#. ~ Description of vehicle part "ooze walkway"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a walkway."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel hatch"
+msgstr ""
+
+#. ~ Description of vehicle part "gel hatch"
+#. ~ Description of vehicle part "gray hatch"
+#. ~ Description of vehicle part "ooze hatch"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as a door.  Has a transparent patch so you can see out of it, even when closed."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque gel hatch"
+msgstr ""
+
+#. ~ Description of vehicle part "opaque gel hatch"
+#. ~ Description of vehicle part "opaque gray hatch"
+#. ~ Description of vehicle part "opaque ooze hatch"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as a door.  Entirely opaque so you can't see through it when closed."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray retriever"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray harness"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "cocoon (30L)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray tank (100L)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray reinforcement"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray roof"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray seat"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray receptacle"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray pouch (under)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray walkway"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray hatch"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque gray hatch"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze retriever"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze harness"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "pod (20L)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze tank (80L)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze reinforcement"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze roof"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze seat"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze receptacle"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze pouch (under)"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze walkway"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze hatch"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque ooze hatch"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "amorphous core"
+msgstr ""
+
+#. ~ Description of vehicle part "amorphous core"
+#: blazemod\vehicleparts\blob_vehicleparts.json
+msgid "An amorphous mass, the living heart and brain of a blob vehicle."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_wheel.json
+msgid "snow slider"
+msgstr ""
+
+#. ~ Description of vehicle part "snow slider"
+#: blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob, existing in a super-cooled state.  It acts as a wheel."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\blob_wheel.json
+msgid "icy sea skimmer"
+msgstr ""
+
+#. ~ Description of vehicle part "gelatinous wheel"
+#. ~ Description of vehicle part "gray wheel"
+#: blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob.  It acts as a wheel."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\diamond_parts.json
+msgid "diamond barrier"
+msgstr ""
+
+#. ~ Description of vehicle part "diamond barrier"
+#: blazemod\vehicleparts\diamond_parts.json
+msgid "A transparent, solid sheet of self-sustaining crystals."
+msgstr ""
+
+#. ~ Description of vehicle part "diamond frame"
+#: blazemod\vehicleparts\diamond_parts.json
+msgid "A framework of super-strong crystal.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size."
+msgstr ""
+
+#. ~ Description of vehicle part "diamond plating"
+#: blazemod\vehicleparts\diamond_parts.json
+msgid "Transparent crystal armor plate.  Will partially protect other components on the same frame from damage."
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex accelerator"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex bolter"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex cannon"
+msgstr ""
+
+#. ~ Vehicle part name
+#: blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex rifle"
+msgstr ""
+

@@ -1,0 +1,3556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2022-12-23 01:41-0600\n"
+"PO-Revision-Date: 2022-12-23 01:41-0600\n"
+"Last-Translator: None\n"
+"Language-Team: None\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Name of an ammunition type
+#: d:\cdda\catap\kenan\main\blazemod\blaze_ammo_types.json
+msgid "heavy projectiles"
+msgstr "重型投掷物"
+
+#. ~ Name of an ammunition type
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_ammo_types.json d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "harpoon"
+msgid_plural "harpoons"
+msgstr[0] "鱼叉"
+msgstr[1] "鱼叉s"
+
+#. ~ Name of an ammunition type
+#: d:\cdda\catap\kenan\main\blazemod\blaze_ammo_types.json
+msgid "ballista bolt"
+msgstr "弩炮炮矢"
+
+#. ~ Name of an ammunition type
+#: d:\cdda\catap\kenan\main\blazemod\blaze_ammo_types.json
+msgid "shotcanisters"
+msgstr "纸壳弹"
+
+#. ~ Name of an ammunition type
+#: d:\cdda\catap\kenan\main\blazemod\blaze_ammo_types.json
+msgid "bladed disk"
+msgstr "带刃圆盘"
+
+#. ~ Terrain name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_construction.json
+msgid "mass of blob feed"
+msgstr "变形怪培养物团"
+
+#. ~ Bashing sound of terrain "mass of blob feed"
+#. ~ Bashing failed sound of terrain "mass of blob feed"
+#. ~ Bashing sound of terrain "mound of blob feed"
+#. ~ Bashing failed sound of terrain "mound of blob feed"
+#: d:\cdda\catap\kenan\main\blazemod\blaze_construction.json
+msgid "squish!"
+msgstr "嘎吱！"
+
+#. ~ Terrain name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_construction.json
+msgid "mound of blob feed"
+msgstr "变形怪培养物堆"
+
+#. ~ Prerequisite of terrain constrution
+#: d:\cdda\catap\kenan\main\blazemod\blaze_construction.json
+msgid "Converts a fridge to run off of vehicle power.  You can 'e'xamine it afterwards to take it down for mounting."
+msgstr "将冰箱改造为车载电源供能。你能按\"e\"把它取下来安装。"
+
+#. ~ Prerequisite of terrain constrution
+#: d:\cdda\catap\kenan\main\blazemod\blaze_construction.json
+msgid "Further modifies a converted fridge to function as a freezer.  You can 'e'xamine it afterwards to take it down for mounting."
+msgstr "进一步改装车载冰箱，将其改造为冰柜。你可以按\"e\"把它取下来安装。"
+
+#. ~ Furniture name
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "vehicle refrigerator"
+msgid_plural "vehicle refrigerators"
+msgstr[0] "车载冰箱"
+msgstr[1] "车载冰箱s"
+
+#. ~ Description of furniture "vehicle refrigerator"
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json
+msgid "This fridge has been converted to run off of a vehicle's power supply.  You'll need to take it down first."
+msgstr "这台冰箱已被改装成车载电源供电。你得先把它取下来。"
+
+#. ~ Bashing sound of furniture "vehicle refrigerator"
+#. ~ Bashing sound of furniture "vehicle freezer"
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json
+msgid "metal screeching!"
+msgstr "尖锐的金属撕裂声！"
+
+#. ~ Bashing failed sound of furniture "vehicle refrigerator"
+#. ~ Bashing failed sound of furniture "vehicle freezer"
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json
+msgid "clang!"
+msgstr "哐啷！"
+
+#. ~ Furniture name
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "vehicle freezer"
+msgid_plural "vehicle freezers"
+msgstr[0] "车载冰柜"
+msgstr[1] "车载冰柜s"
+
+#. ~ Description of furniture "vehicle freezer"
+#: d:\cdda\catap\kenan\main\blazemod\blaze_furniture.json
+msgid "This fridge has been further refurbished, and runs at a much lower temperature.  You'll need to take it down first."
+msgstr "这台冰箱经过了进一步的整修，可在更低的温度下运行。你得先把它取下来。"
+
+#. ~ Name of material
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_materials.json d:\cdda\catap\kenan\main\blazemod\items\ammo\vortex_ammo.json
+msgid "vortex core"
+msgid_plural "vortex core"
+msgstr[0] "漩涡核心"
+msgstr[1] "漩涡核心s"
+
+#. ~ Name of material
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blaze_materials.json d:\cdda\catap\kenan\main\blazemod\items\fuel.json
+msgid "liquified blob feed"
+msgid_plural "bfeedfuel"
+msgstr[0] "变形怪培养液"
+msgstr[1] "变形怪培养液s"
+
+#. ~ Name of an ammunition type
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\blob_ammo_types.json d:\cdda\catap\kenan\main\blazemod\items\fuel.json
+msgid "blob feed"
+msgid_plural "blob feed"
+msgstr[0] "变形怪培养物"
+msgstr[1] "变形怪培养物s"
+
+#. ~ Construction group name
+#: d:\cdda\catap\kenan\main\blazemod\construction_group.json
+msgid "Harvest Blob Feed from Corpse Pit: Smash to Harvest"
+msgstr "从填满尸体的坑中收获变形怪培养物：砸碎来收获"
+
+#. ~ Construction group name
+#: d:\cdda\catap\kenan\main\blazemod\construction_group.json
+msgid "Harvest Blob Feed from Slime: Smash to Harvest"
+msgstr "从粘液中收获变形怪培养物：砸碎来收获"
+
+#. ~ Construction group name
+#: d:\cdda\catap\kenan\main\blazemod\construction_group.json
+msgid "Convert Fridge Power Supply"
+msgstr "改造冰箱电源"
+
+#. ~ Construction group name
+#: d:\cdda\catap\kenan\main\blazemod\construction_group.json
+msgid "Convert Vehicle Fridge to Freezer"
+msgstr "改造冰箱为冰柜"
+
+#. ~ MOD name
+#: d:\cdda\catap\kenan\main\blazemod\modinfo.json
+msgid "Blazemod - Vehicle Additions Pack"
+msgstr "载具增强包"
+
+#. ~ Description of MOD "Blazemod - Vehicle Additions Pack"
+#: d:\cdda\catap\kenan\main\blazemod\modinfo.json
+msgid "Please see the included README.txt in the mod folder for how to install this mod correctly, and for any other issues."
+msgstr "（此mod与“blaze 载具工业”冲突）请查看mod文件夹中的README.txt文件，了解如何正确安装此mod以及其他任何问题。"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"Agh, to See the Spiral in such a Distorted Shape!  Manipulated for its Vortex motion!  Its Perpetual Grace!  Its beauty Tarnished…\""
+msgstr "\"啊，看看漩涡石这如此扭曲的螺线！操控它那螺旋运动的方式！永远不停歇的优雅运动！它的美丽被玷污了……\""
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"My friend died, but at least I made her into a blob turret.\""
+msgstr "“我的朋友死了，不过好歹我把她做成了变形怪炮塔。”"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"I have this laser cannon turret on my shopping cart.  I push it around and everything dies.  I think I'm gonna toss it in the lake-- this just isn't fair anymore.\""
+msgstr "“我的购物车上装了一门激光炮炮塔。我推着它到处跑，所有敌人都死了。我想我还是把它扔进湖里好了——这太不公平了。”"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"Day 40.  Controls broken-- car's magic reactor makes it goes inexorably forward.  Giant rollers on front demolish forest.  Maine, here I come.\""
+msgstr "\"第40日。控制器坏了——但车里神奇的反应堆让其不为所动依旧一直前行。正前方巨大的压路机正摧毁着森林。缅因州，我来了。\""
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"my car is a diamond in the rough… literally\""
+msgstr "\"我的车是未经琢磨的钻石……就是字面上的意思\""
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"M249 TURRET NODDED.  IS TURRET ALIVE?  FINALLY, SOMEBODY TO TALK TO!\""
+msgstr "\"M249炮塔点头了。炮塔是活人吗？终于，终于有个能陪我说说话的了！\""
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"Added so many things to my taxi that it went a-blaze.  Whoops.\""
+msgstr "“往我的的士车上焊了太多东西，它直接着火烧了。啊哦。”"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"If I put one cargo dimension into another cargo dimension, does the universe end?\""
+msgstr "“如果我把一个维度的物品放到另一个维度里去，宇宙就完蛋了吗？”"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"one day, i will be part of car, too\""
+msgstr "“总有一天，我要也会变成车的一部分”"
+
+#. ~ Snippet in category "note"
+#: d:\cdda\catap\kenan\main\blazemod\snippets.json
+msgid "\"Putta little bitta dynamite and halfa landmine in an old soda can…  WHAM!  You goin' somewhere.\""
+msgstr "\"把一点炸药和一半地雷放进一个旧汽水罐里……砰！你就会飞到不知道什么地方了。\""
+
+#. ~ Name of an ammunition type
+#: d:\cdda\catap\kenan\main\blazemod\vortex_ammo_types.json
+msgid "vortex energy"
+msgstr "涡旋能量"
+
+#. ~ Description of "liquified blob feed"
+#: d:\cdda\catap\kenan\main\blazemod\items\fuel.json
+msgid "Liquified blob feed, useful for fueling certain blob based vehicle parts"
+msgstr "液化的变形怪培养物，用于为某些特定的变形怪车辆部件供能。"
+
+#. ~ Description of "blob feed"
+#: d:\cdda\catap\kenan\main\blazemod\items\fuel.json
+msgid "An amalgam of various types of organic material, contains everything the blob needs to be healthy.  You think…"
+msgstr "包含了各种有机材料的混合物，提供变形怪健康成长所需要的所有营养。\n\"可爱变形怪专用热销饲料。\""
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "IED"
+msgid_plural "IEDs"
+msgstr[0] "IED"
+msgstr[1] "IEDs"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "blast canister"
+msgid_plural "blast canisters"
+msgstr[0] "高爆大炸弹"
+msgstr[1] "高爆大炸弹s"
+
+#. ~ Description of "blast canister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material that triggers on impact.  Carries a substantial explosive payload."
+msgstr "一个简易的爆炸装置，说起来就是里边装了杀伤性物质的密封容器，遭遇撞击后触发。这个有大量的高爆装药。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Big Bang canister"
+msgid_plural "Big Bang canisters"
+msgstr[0] "超级大炸弹"
+msgstr[1] "超级大炸弹s"
+
+#. ~ Description of "Big Bang canister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material that triggers on impact.  Carries a VERY substantial explosive payload."
+msgstr "一个简易的爆炸装置，说起来就是里边装了杀伤性物质的密封容器，遭遇撞击后触发。这个有非·常·大·量的高爆装药。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "fire canister"
+msgid_plural "fire canisters"
+msgstr[0] "火焰大炸弹"
+msgstr[1] "火焰大炸弹s"
+
+#. ~ Description of "fire canister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to douse a small area with deadly flames."
+msgstr "一个简易的爆炸装置，说起来就是里边装了杀伤性物质的密封容器，遭遇撞击后触发。看起来似乎应该用特制的发射器使用，这个设计来让小片区域充满火焰。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "inferno canister"
+msgid_plural "inferno canisters"
+msgstr[0] "地狱火大炸弹"
+msgstr[1] "地狱火大炸弹s"
+
+#. ~ Description of "inferno canister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to douse a large area with deadly flames."
+msgstr "一个简易的爆炸装置，说起来就是里边装了杀伤性物质的密封容器，遭遇撞击后触发。看起来似乎应该用特制的发射器使用，这个设计来让大片区域充满火焰。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "fragmentation canister"
+msgid_plural "fragmentation canisters"
+msgstr[0] "破片大炸弹"
+msgstr[1] "破片大炸弹s"
+
+#. ~ Description of "fragmentation canister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material and a means to trigger it.  Intended to be fired from a specialized launcher.  This one is designed to spray the immediate area with deadly shrapnel."
+msgstr "一个简易的爆炸装置，说起来就是里边装了杀伤性物质的密封容器，遭遇撞击后触发。看起来似乎应该用特制的发射器使用，这个设计来让目标区域弹片四溅。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "modified mininuke"
+msgid_plural "modified mininukes"
+msgstr[0] "改装微型核弹"
+msgstr[1] "改装微型核弹s"
+
+#. ~ Description of "modified mininuke"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy modified handheld nuclear device.  Intended to be fired from a specialized launcher, its case has been cut down and it has been rigged to explode on impact.  While it is now somewhat lighter than before, it can no longer be triggered manually."
+msgstr "一枚经过大幅改造的便携核弹装置。被去除了外壳，使重量轻了一些，但它也因此无法手动起爆，只能通过特别的发射器进行发射。\n\"爆炸范围可能在其射程之内。\""
+
+#. ~ Description of "harpoon"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A large spear carved from wood.  This was fashioned specifically to be fired from a compatible weapon; thus unsuitable for melee combat."
+msgstr "一根用木头制成的大型长矛。它的样式很特别，要用专门的发射器发射，因此不适合作为近战武器使用。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "IED rigged bolt"
+msgid_plural "IED rigged bolts"
+msgstr[0] "IED rigged bolt"
+msgstr[1] "IED rigged bolts"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "nova bolt"
+msgid_plural "nova bolts"
+msgstr[0] "新星弩矢"
+msgstr[1] "新星弩矢s"
+
+#. ~ Description of "nova bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  Carries a substantial explosive payload."
+msgstr "一只可以密封的容器，填满爆炸物做成简易爆炸装置，然后绑在一条大型弩炮炮矢的尾端。这个东西应使用特制的发射装置发射。这个型号的容器里装填了\"大量\"的炸药。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "supernova bolt"
+msgid_plural "supernova bolts"
+msgstr[0] "超新星弩矢"
+msgstr[1] "超新星弩矢s"
+
+#. ~ Description of "supernova bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a sealed container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  Carries a very substantial explosive payload."
+msgstr "一只可以密封的容器，填满爆炸物做成简易爆炸装置，然后绑在一条大型弩炮炮矢的尾端。这个东西应使用特制的发射装置发射。这个型号的容器里装填了\"非常大量\"的炸药。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "searing bolt"
+msgid_plural "searing bolts"
+msgstr[0] "灼热弩矢"
+msgstr[1] "灼热弩矢s"
+
+#. ~ Description of "searing bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to douse a small area with deadly flames."
+msgstr "用一个能密封的容器，装上满满的杀伤性物质做成简易爆炸装置，然后固定在一条大型弩炮炮矢的尾部。这个东西应使用特制的发射装置发射。这种是榴弹型，在目标地区爆炸，在目标的小范围喷洒致命的火焰。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "napalm bolt"
+msgid_plural "napalm bolts"
+msgstr[0] "凝固汽油弹弩矢"
+msgstr[1] "凝固汽油弹弩矢s"
+
+#. ~ Description of "napalm bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to douse a large area with deadly flames."
+msgstr "用一个能密封的容器，装上满满的杀伤性物质做成简易爆炸装置，然后固定在一条大型弩炮炮矢的尾部。这个东西应使用特制的发射装置发射。这种是榴弹型，在目标地区爆炸，把目标范围内一大片地区变成地狱般的火海。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "shatter bolt"
+msgid_plural "shatter bolts"
+msgstr[0] "爆散弩矢"
+msgstr[1] "爆散弩矢s"
+
+#. ~ Description of "shatter bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "An IED composed of a container filled with a payload material affixed to the end of a large ballista bolt.  Intended to be fired from a specialized launcher.  This one is designed to spray the immediate area with deadly shrapnel."
+msgstr "用一个能密封的容器，装上满满的爆炸物做成简易爆炸装置，然后固定在一条大型弩炮炮矢的尾部。这个东西应使用特制的发射装置发射。这种是榴弹型，在目标地区爆炸，在目标的战术覆盖范围喷射致命的爆炸破片。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "steel ballista bolt"
+msgid_plural "steel ballista bolts"
+msgstr[0] "钢铁弩炮炮矢"
+msgstr[1] "钢铁弩炮炮矢s"
+
+#. ~ Description of "steel ballista bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A long shaft carved from wood ending in a tip of sharpened metal.  It's quite heavy, capable of dealing large amounts of damage, but isn't particularly accurate.  Stands a good chance of remaining intact once fired."
+msgstr "一条用木料刨出的棍子，然后在前端嵌上一块经过打磨尖锐的金属。它掂起来分量挺重，可以传递大量伤害，但用它射击比较难射得准。在射击后有很高概率可以保持完好。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "nuclear bolt"
+msgid_plural "nuclear bolts"
+msgstr[0] "核弩矢"
+msgstr[1] "核弩矢s"
+
+#. ~ Description of "nuclear bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy modified handheld nuclear device affixed to the end of a large ballista bolt.  Its case has been cut down and it has been rigged to explode on impact.  It can no longer be triggered manually."
+msgstr "一个高定制化重型手提式核装置，牢固的固定在一条大型弩炮炮矢的尾端。核装置的防护外壳已经被锯除，现在它一旦受到撞击就会破损，然后造成一场核爆炸。它已经不能被手动引爆了。\n\"即便最一流的弩哥也不敢轻易发射此杀器。\""
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "wood ballista bolt"
+msgid_plural "wood ballista bolts"
+msgstr[0] "木制弩床矢"
+msgstr[1] "木制弩床矢s"
+
+#. ~ Description of "wood ballista bolt"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A sharpened bolt carved from wood.  It's fairly heavy, capable of dealing large amounts of damage, but isn't particularly accurate.  Stands a good chance of remaining intact once fired."
+msgstr "一条用木料刨出的尖弩矢。它掂起来分量挺重，可以传递大量伤害，但用它射击比较难射得准。在射击后有很高概率可以保持完好。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "scrap shotcanister"
+msgid_plural "scrap shotcanisters"
+msgstr[0] "废料纸壳霰弹"
+msgstr[1] "废料纸壳霰弹s"
+
+#. ~ Description of "scrap shotcanister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with assorted pieces of scrap metal."
+msgstr "这个形似粗制霰弹的小纸筒填满了各种废金属片……"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "pebble shotcanister"
+msgid_plural "pebble shotcanisters"
+msgstr[0] "碎石纸壳霰弹"
+msgstr[1] "碎石纸壳霰弹s"
+
+#. ~ Description of "pebble shotcanister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with tiny pebbles.  Damage is pathetic but flight is much more stable than scrap."
+msgstr "这个形似粗制霰弹的小纸筒填满了微小的石子。伤害比较感人，不过弹道比金属废料稳定多了。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "flechette shotcanister"
+msgid_plural "flechette shotcanisters"
+msgstr[0] "镖形纸壳霰弹"
+msgstr[1] "镖形纸壳霰弹s"
+
+#. ~ Description of "flechette shotcanister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with handmade flechettes, giving it some armor piercing capabilities."
+msgstr "这个形似粗制霰弹的小纸筒填满了手工制造的飞镖，这让它拥有了一些穿甲能力。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "bearing shotcanister"
+msgid_plural "bearing shotcanisters"
+msgstr[0] "滚珠纸壳霰弹"
+msgstr[1] "滚珠纸壳霰弹s"
+
+#. ~ Description of "bearing shotcanister"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "This small paper canister resembling a crude shotshell is filled to the brim with handmade bearings, stabilizing its flight pattern a tiny bit."
+msgstr "这个形似粗制霰弹的小纸筒填满了滚珠，这让它的弹道更稳定。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Iron-coated pebble"
+msgid_plural "Iron-coated pebbles"
+msgstr[0] "覆铁卵石"
+msgstr[1] "覆铁卵石s"
+
+#. ~ Description of "Iron-coated pebble"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark II, takes time and special equipment to create but totally worth it if you want to step up your armor-piercing game with pneumatics"
+msgstr "卵石 - Mark II，需要时间和特殊设备制造，但如果你想让你的气动武器有更好的穿甲性能的话，这绝对值得。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Iron-coated clay pellet"
+msgid_plural "Iron-coated clay pellets"
+msgstr[0] "覆铁粘土弹"
+msgstr[1] "覆铁粘土弹s"
+
+#. ~ Description of "Iron-coated clay pellet"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A clay pellet coated with iron - Mark II, takes time and special equipment to create but totally worth it if you want to step up your armor-piercing game with pneumatics that use pebble ammo."
+msgstr "一个涂覆上铁 - Mark II的黏土球，需要时间和特殊设备制造，但如果你想让你用卵石作弹药的气动武器有更好的穿甲性能的话，这绝对值得。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Bone-coated pebble"
+msgid_plural "Bone-coated pebbles"
+msgstr[0] "覆骨卵石"
+msgstr[1] "覆骨卵石s"
+
+#. ~ Description of "Bone-coated pebble"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark III, you've already seen Skeletal Juggernauts, right?Well this is basically miniature version of it - bone coating infused with blob, for some reason this strange infusion works quite well when you coat the normal pebbles with it"
+msgstr "卵石 - Mark III，你已经见过骷髅巨兽了，对吧？嗯，这基本上是它的微型版本—融合了变形怪糊的骨涂层。出于某些原因，当你将这种古怪的融合物涂覆上普通的卵石时，它表现得相当好。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Alloy-coated pebble"
+msgid_plural "Alloy-coated pebbles"
+msgstr[0] "合金涂层卵石"
+msgstr[1] "合金涂层卵石s"
+
+#. ~ Description of "Alloy-coated pebble"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Pebble - Mark IV, much deadlier but harder to craft version of 'Pebble - Mark ii', synthesis of rigid alloy and living blob truly makes this ammo spectacular, peculiar even, who would have thought that blob can be turned into living ammo?"
+msgstr "卵石 - Mark IV，\"卵石 - Mark II\"的升级版，更致命，同时也更难制造，超合金装甲与活变形怪的融合使它奇特而令人惊叹，谁能想到，变形怪能赋予弹药生命？"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "lead ball"
+msgid_plural "lead balls"
+msgstr[0] "铅球"
+msgstr[1] "铅球s"
+
+#. ~ Description of "lead ball"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A heavy lead ball about 8cm in diameter.  Could pack quite a bit of a punch if you had something to launch it."
+msgstr "一颗直径8厘米的沉重铅球。如果能把它当炮弹发射出去，它可以给目标造成可观的伤害。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "serrated disc"
+msgid_plural "serrated discs"
+msgstr[0] "锯齿圆盘"
+msgstr[1] "锯齿圆盘s"
+
+#. ~ Description of "serrated disc"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "A metal disc surrounded by serrated edges.  It's as menacing as it sounds."
+msgstr "一个边缘满是锯齿的金属圆盘。\n\"最好配合俗称重力枪的零点能量场牵引器一起使用。\""
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "metal fragment"
+msgid_plural "metal fragments"
+msgstr[0] "金属断片"
+msgstr[1] "金属断片s"
+
+#. ~ Description of "metal fragment"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "Small slivers of metal.  Can't see much use for them."
+msgstr "一小块金属薄片。用途不是很明显。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\blaze_ammo.json
+msgid "pool ball"
+msgid_plural "pool balls"
+msgstr[0] "台球"
+msgstr[1] "台球s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\diamond_ammo.json
+msgid "charcoal"
+msgid_plural "charcoal"
+msgstr[0] "木炭"
+msgstr[1] "木炭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\diamond_ammo.json
+msgid "diamond fragments"
+msgid_plural "diamond fragments"
+msgstr[0] "钻石碎片"
+msgstr[1] "钻石碎片s"
+
+#. ~ Description of "diamond fragments"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\diamond_ammo.json
+msgid "These small fragments of diamond are formed as a byproduct from the crystallization process of a diamond matrix.  While the substance usually decays when separated from the catalyst; these fragments are small enough to remain stable."
+msgstr "这些小型钻石碎片是钻石晶阵在结晶过程中产生的副产品。虽然通常这些物质从催化剂中分离出来时会降解，但是这些碎片足够小，可以保持稳定。"
+
+#. ~ Description of "vortex core"
+#: d:\cdda\catap\kenan\main\blazemod\items\ammo\vortex_ammo.json
+msgid "Seeing this is a bug."
+msgstr "看见这个说明出bug了。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "storm bolter"
+msgid_plural "storm bolters"
+msgstr[0] "暴雨箭发射器"
+msgstr[1] "暴雨箭发射器s"
+
+#. ~ Description of gun "storm bolter"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic bolt thrower has been greatly enhanced, allowing multiple bolts to be launched accurately and in quick succession.  It requires a support of some sort in order to be operated."
+msgstr "这把气动弩箭发射器已经被各种改造强化，可以装填并连射发射多条弩箭。它需要一个特制的底盘来运作。"
+
+#. ~ Firing mode of gun "storm bolter"
+#. ~ Firing mode of gun "rotary cannon"
+#. ~ Firing mode of gun "pulse laser"
+#. ~ Firing mode of gun "nail rifle"
+#. ~ Firing mode of gun "needler"
+#. ~ Firing mode of gun "ripper"
+#. ~ Firing mode of gun "rotary speargun"
+#. ~ Firing mode of gun "splintergun"
+#. ~ Firing mode of gun "harpoon gun"
+#. ~ Firing mode of gun "pneumatic assault rifle"
+#. ~ Firing mode of gun "avalanche rifle"
+#. ~ Firing mode of gun "biting blob"
+#. ~ Firing mode of gun "snapping ooze"
+#. ~ Firing mode of gun "blobsaw"
+#. ~ Firing mode of gun "gel lancer"
+#. ~ Firing mode of gun "fire puffer"
+#. ~ Firing mode of gun "vortex bolter"
+#. ~ Firing mode of gun "vortex rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#. ~ Firing mode of gun "storm bolter"
+#. ~ Firing mode of gun "rotary cannon"
+#. ~ Firing mode of gun "pulse laser"
+#. ~ Firing mode of gun "nail rifle"
+#. ~ Firing mode of gun "needler"
+#. ~ Firing mode of gun "ripper"
+#. ~ Firing mode of gun "rotary speargun"
+#. ~ Firing mode of gun "splintergun"
+#. ~ Firing mode of gun "harpoon gun"
+#. ~ Firing mode of gun "pneumatic assault rifle"
+#. ~ Firing mode of gun "avalanche rifle"
+#. ~ Firing mode of gun "biting blob"
+#. ~ Firing mode of gun "snapping ooze"
+#. ~ Firing mode of gun "blobsaw"
+#. ~ Firing mode of gun "gel lancer"
+#. ~ Firing mode of gun "fire puffer"
+#. ~ Firing mode of gun "vortex bolter"
+#. ~ Firing mode of gun "vortex rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "auto"
+msgstr "自动"
+
+#. ~ Skill associated with gun "storm bolter"
+#. ~ Skill associated with gun "laser cannon"
+#. ~ Skill associated with gun "pulse laser"
+#. ~ Skill associated with gun "turbolaser cannon"
+#. ~ Skill associated with gun "coilgun"
+#. ~ Skill associated with gun "nail rifle"
+#. ~ Skill associated with gun "perforator"
+#. ~ Skill associated with gun "needler"
+#. ~ Skill associated with gun "heavy rail rifle"
+#. ~ Skill associated with gun "ferromagnetic rail rifle"
+#. ~ Skill associated with gun "hypervelocity driver"
+#. ~ Skill associated with gun "scorpion ballista"
+#. ~ Skill associated with gun "splintergun"
+#. ~ Skill associated with gun "harpoon gun"
+#. ~ Skill associated with gun "tesla cannon"
+#. ~ Skill associated with gun "pneumatic assault rifle"
+#. ~ Skill associated with gun "pneumatic bolt driver"
+#. ~ Skill associated with gun "avalanche rifle"
+#. ~ Skill associated with gun "handheld laser cannon"
+#. ~ Skill associated with gun "fusion blaster"
+#. ~ Skill associated with gun "gel spiker"
+#. ~ Skill associated with gun "gel razor"
+#. ~ Skill associated with gun "vortex accelerator"
+#. ~ Skill associated with gun "vortex bolter"
+#. ~ Skill associated with gun "vortex rifle"
+#. ~ Skill associated with gun "modified Marlin 39A"
+#. ~ Skill associated with gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "slingshot cannon"
+msgid_plural "slingshot cannons"
+msgstr[0] "弹弓炮"
+msgstr[1] "弹弓炮s"
+
+#. ~ Description of gun "slingshot cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Essentially several long drawstrings held by two long, reinforced sides and a mechanism attached to a crank to draw and fire it.  It's deceptively powerful and surprisingly accurate, but far too large to be used without some sort of stable platform."
+msgstr "用机械结构控制的由两条强化长轨道和几条长弦组合的巨型弹弓。有一个曲臂帮助拉弦和发射。别看它结构简单，它有着超乎想像的威力和不俗的准确度。它的结构庞大，需要安装到一个稳定的平台上使用。"
+
+#. ~ Skill associated with gun "slingshot cannon"
+#. ~ Skill associated with gun "rotary cannon"
+#. ~ Skill associated with gun "ripper"
+#. ~ Skill associated with gun "rotary speargun"
+#. ~ Skill associated with gun "biting blob"
+#. ~ Skill associated with gun "frost lancer"
+#. ~ Skill associated with gun "snapping ooze"
+#. ~ Skill associated with gun "blobsaw"
+#. ~ Skill associated with gun "fuel puffer"
+#. ~ Skill associated with gun "acid puffer"
+#. ~ Skill associated with gun "gel spouter"
+#. ~ Skill associated with gun "shock bulb"
+#. ~ Skill associated with gun "gel puffer"
+#. ~ Skill associated with gun "fire puffer"
+#. ~ Skill associated with gun "spark blight"
+#. ~ Skill associated with gun "diamond lance"
+#. ~ Skill associated with gun "diamond nova"
+#. ~ Skill associated with gun "vortex cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\items\guns\diamond_turret.json d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "发射器"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "lacerator"
+msgid_plural "lacerators"
+msgstr[0] "圆盘加速器"
+msgstr[1] "圆盘加速器s"
+
+#. ~ Description of gun "lacerator"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This weapon launches serrated metal disks at nearby enemies.  It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated."
+msgstr "这件武器朝着附近的敌人发射锋利的金属大圆盘。该武器的动力源自载具引擎，因此需要一副特制的炮塔底盘来发挥其功能。"
+
+#. ~ Skill associated with gun "lacerator"
+#. ~ Skill associated with gun "gel shooter"
+#. ~ Skill associated with gun "gel lancer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手枪"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "rotary cannon"
+msgid_plural "rotary cannons"
+msgstr[0] "转轮式加农炮"
+msgstr[1] "转轮式加农炮s"
+
+#. ~ Description of gun "rotary cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This fearsome weapon sports 3 barrels in a cyclic configuration.  A specialized mechanism loads the otherwise troublesome rounds; allowing it to be fired in quick succession.  However, this renders it incredibly unwieldy, and it must be mounted on a support structure in order to be fired."
+msgstr "这把可怖的武器有3条绕轴旋转炮管。还有特制的供弹仓以装填各种意义上都很令人头大的弹药，整个装置提供了它快速射击的能力。但是，这让整个武器变得很难操作，所以需要安装到炮塔底盘上使用。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "laser cannon"
+msgid_plural "laser cannons"
+msgstr[0] "激光炮"
+msgstr[1] "激光炮s"
+
+#. ~ Description of gun "laser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This enhanced laser cannon sacrifices efficiency for destructive power.  The increased power requirements require a significant power source and the size of the firing mechanism also requires support."
+msgstr "这把增强型激光炮牺牲效率以换取毁灭性的威力。它需要超大功率电源以满足高功率需求，发射机构也需要安装到一个专用的底座来使用。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "pulse laser"
+msgid_plural "pulse lasers"
+msgstr[0] "脉冲激光炮"
+msgstr[1] "脉冲激光炮s"
+
+#. ~ Description of gun "pulse laser"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Augmented damage capability and rapid bursts make this a powerful weapon.  The increased power requirements require a significant power source and the firing mechanism also requires a specialized chassis."
+msgstr "增强的伤害和快速的连发能力使它成为一件威力强大的武器。它改进的高能耗发射机构需要匹配一个超大功率电源，发射机构也需要安装到一个专用的底座来使用。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "turbolaser cannon"
+msgid_plural "turbolaser cannons"
+msgstr[0] "涡轮激光炮"
+msgstr[1] "涡轮激光炮s"
+
+#. ~ Description of gun "turbolaser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "With an augmented emitter and capacitor, this mounted laser is capable of superheating most materials to the point of exploding.  The firing mechanism also requires the services of a specialized chassis, and one must be wary of the prodigious power needs of such a weapon."
+msgstr "强化的发射器和电容器让这台车载激光武器能在瞬间过燃任何物体直到它的爆炸极限温度。它的发射机构需要装载到一个专用的底盘上，而且使用时必须注意它极为庞大的耗能。"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "nail rifle magazine"
+msgid_plural "nail rifle magazines"
+msgstr[0] "射钉步枪弹匣"
+msgstr[1] "射钉步枪弹匣s"
+
+#. ~ Description of magazine "nail rifle magazine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "An improvised magazine for use with a nail rifle.  Little more than a tin can, spring and some duct tape it is awkward to reload and not especially reliable."
+msgstr "一个可用于射钉步枪的自制弹匣。由锡罐、弹簧和一些胶带制成，有点难装填，而且也不是特别可靠。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "coilgun"
+msgid_plural "coilguns"
+msgstr[0] "自制线圈枪"
+msgstr[1] "自制线圈枪s"
+
+#. ~ Description of gun "coilgun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A homemade gun, using electromagnets to accelerate a ferromagnetic projectile to high velocity.  Powered by UPS."
+msgstr "一把自制的枪，灵感来源于炮姐，利用电磁铁来加速铁磁弹丸从而射出。采用UPS供电。"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "accessories"
+msgstr "配件"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "grip"
+msgstr "握把"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "sights"
+msgstr "瞄具"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "sling"
+msgstr "背带"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "stock"
+msgstr "枪托"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "rail mount"
+msgstr "导轨底座"
+
+#. ~ Valid mod location of gun "coilgun"
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "underbarrel mount"
+msgstr "管下底座"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "nail rifle"
+msgid_plural "nail rifles"
+msgstr[0] "射钉步枪"
+msgstr[1] "射钉步枪s"
+
+#. ~ Description of gun "nail rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This is a nailgun that has been extensively modified with the addition of a short barrel, stock and hand guard.  It can be reloaded using detachable magazines and is an overall much more effective weapon."
+msgstr "这是一把射钉枪，被改造的面目全非，增加了一个短枪管，枪托和护木。它可以使用可拆卸弹匣装填，总体上说是更为有效的武器。"
+
+#. ~ Valid mod location of gun "nail rifle"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "barrel"
+msgstr "枪管"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "perforator"
+msgid_plural "perforators"
+msgstr[0] "大型穿孔机"
+msgstr[1] "大型穿孔机s"
+
+#. ~ Description of gun "perforator"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A coilgun with improved electromagnetic circuits to be able to propel a metallic projectile at high speed and with great accuracy.  Capable of piercing armor with little issue, though the projectile itself lacks damage due to its small size.  It must be mounted on a specialized chassis in order to be fired."
+msgstr "一把电磁线路改良了的电磁线圈枪，可以装填一块金属弹丸并高速而精准地发射出去。穿甲能力优秀，但由于弹丸太小，伤害有限。需要安装到一个专用的底盘来发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "needler"
+msgid_plural "needlers"
+msgstr[0] "刺针枪"
+msgstr[1] "刺针枪s"
+
+#. ~ Description of gun "needler"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This improved nailgun features a special firing mechanism that is set to fire a spread of up to 5 nails at once; sure to drop the hammer on its unfortunate targets.  However, these features render it incredibly unwieldy, and it must be mounted on a supporting frame in order to be fired."
+msgstr "这把改进版射钉枪的主要特点为一个可以连发5颗小钉子的发射机构，可给予被击中的目标铁锤般的重击。但是，这种武器十分难以携带，所以它必须要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "heavy rail rifle"
+msgid_plural "heavy rail rifles"
+msgstr[0] "重型轨道步枪"
+msgstr[1] "重型轨道步枪s"
+
+#. ~ Description of gun "heavy rail rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This overpowered and overengineered variant of the ferromagnetic rail rifle was designed to deliver electromagnetically-driven obliteration right through whatever obstacles that lies in front of it, be it buildings, vehicles or hordes of walking dead.  However, the hefty bulk and weight of this weapon compared to most contemporary rifles makes it somewhat cumbersome to wield; not to mention that it consumes UPS charges at a tremendous rate, making it impractical for use in prolonged engagements."
+msgstr "这种性能和设计严重过剩的铁磁轨道枪主要被设计为给目标带来电磁驱动的毁灭，不管目标是建筑、载具还是尸潮。但是，这把武器异常庞大而沉重，使得它比其他的步枪更要难以携带，更别说它极差的续航能力了。它需要统一标准供电装备，即UPS，来供给大量的能量。"
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "ferromagnetic rail rifle"
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "emitter"
+msgstr "发射器"
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "rail"
+msgstr "导轨"
+
+#. ~ Valid mod location of gun "heavy rail rifle"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "underbarrel"
+msgstr "管下"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "ferromagnetic rail rifle"
+msgid_plural "ferromagnetic rail rifles"
+msgstr[0] "电磁轨道步枪"
+msgstr[1] "电磁轨道步枪s"
+
+#. ~ Description of gun "ferromagnetic rail rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A single-shot, electrically propelled, steel rail launcher handcrafted from scrap.  The hypervelocity metal stake that it fires is accelerated to the point of spontaneous combustion by a Lorentz force generated by electromagnetic induction, powered by a standard UPS."
+msgstr "一把电力驱动的单发电磁轨道枪，采用废金属自制而成。它通过电磁感应所产生洛仑兹力将发射的金属棒加速到超高速，同时加热棒体至接近自燃的温度，该武器采用标准UPS供电。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "hypervelocity driver"
+msgid_plural "hypervelocity drivers"
+msgstr[0] "电磁轨道炮"
+msgstr[1] "电磁轨道炮s"
+
+#. ~ Description of gun "hypervelocity driver"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A single-shot, electrically propelled, steel rail launcher.  The powerful, and frankly dangerous, improvements made to the power systems of this weapon is capable imbuing a massive charge into a single-rail; so much that it often shatters into deadly fragments on impact.  It's capabilities are limited by its prodigious power requirements however, and its large size necessitates an appropriately-equipped vehicle."
+msgstr "电力驱动的单发钢轨投射器。该武器经过强劲而……坦白说，很危险的改造，让动力系统能够一口气将巨大的电荷导入一道钢轨中；以至于其弹药常在命中瞬间碎裂成许多致命的破片。然而，该武器的性能受限于其惊人的功率需求，且庞大的体积让所以它必须要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "ripper"
+msgid_plural "rippers"
+msgstr[0] "撕裂者"
+msgstr[1] "撕裂者s"
+
+#. ~ Description of gun "ripper"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This menacing weapon rapidly launches bladed disks that rips through enemies with devastating effect.  It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated."
+msgstr "这件威势惊人的武器快速连续发射出来的锋利大圆盘，能在切过敌人时造成毁灭性的效果。该武器的动力源自载具引擎，因此需要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "rotary speargun"
+msgid_plural "rotary spearguns"
+msgstr[0] "转轮式矛枪"
+msgstr[1] "转轮式矛枪s"
+
+#. ~ Description of gun "rotary speargun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic speargun features a revolving barrel behind its launcher, allowing projectiles to be rapidly loaded and fired.    However, the weight requires an external support measure."
+msgstr "这把气动矛枪发射装置的弹射轨旁边有一个左轮式旋转弹仓，让其弹药能快速装填并发射出去。然而，其重量让它需要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "scorpion ballista"
+msgid_plural "scorpion ballistae"
+msgstr[0] "毒蝎型弩炮"
+msgstr[1] "毒蝎型弩炮s"
+
+#. ~ Description of gun "scorpion ballista"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A massive tension-operated crossbow.  The hand-crank allows one to draw it without the need for heavy labor.  It's far too massive to be used on foot, and thus needs to be mounted on a vehicle in order to be operated."
+msgstr "这把大型弩机装载在一个可旋转结构上。弩机上有手摇曲柄让你能够不用太大的力来拉开弩弓。弩机体积太大，你手脚并用都不能正常地使用它，所以它需要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "splintergun"
+msgid_plural "splinterguns"
+msgstr[0] "破片弹幕炮"
+msgstr[1] "破片弹幕炮s"
+
+#. ~ Description of gun "splintergun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A heavily modified coilgun that fires tiny fragments of metal at high speeds extremely quickly.  The resulting barrage is highly inaccurate, but can turn unarmored targets into pulp.  It must be mounted on a specialized chassis in order to be fired."
+msgstr "一个重型魔改电磁加速线圈炮，可以高速发射大量的小型金属破片。这些破片的弹幕式攻击非常不准，但能轻易将无装甲目标变成肉酱。这个武器需要安装到一个专用的底座来发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "harpoon gun"
+msgid_plural "harpoon guns"
+msgstr[0] "鱼叉炮"
+msgstr[1] "鱼叉炮s"
+
+#. ~ Description of gun "harpoon gun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A tension-operated speargun.  A hand-crank lets one draw the strings quickly, but it's too unwieldy to handle without a support of some sort."
+msgstr "安装在可旋转支架上的奇想产物，一支簇状五连装发射管单发/连发式矛枪。有一个手摇曲柄来帮助拉弦装填。弩机体积太大，你手脚并用都不能正常地使用它，所以它需要装载到一个炮塔底盘上才能发射。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "tesla cannon"
+msgid_plural "tesla cannons"
+msgstr[0] "特斯拉加农炮"
+msgstr[1] "特斯拉加农炮s"
+
+#. ~ Description of gun "tesla cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This alteration of the Chain Lightning bionic fires artificial lightning bolts that arc to nearby enemies.  It must be attached to a large power source, but it allows for much more powerful bolts."
+msgstr "一个经过改造的连锁闪电生化插件，能够发射人造闪电球来触发电弧攻击附近的敌人。它必须由强大能源支撑，而更强的能源可以给它更大的威力。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic assault rifle"
+msgid_plural "pneumatic assault rifles"
+msgstr[0] "气动突击步枪"
+msgstr[1] "气动突击步枪s"
+
+#. ~ Description of gun "pneumatic assault rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A multistroke pneumatic rifle handcrafted from scrap.  It is very quiet and deadly."
+msgstr "一把可以连续发射的气动突击步枪，采用废料自制而成。极度安静而致命。"
+
+#. ~ Valid mod location of gun "pneumatic assault rifle"
+#. ~ Valid mod location of gun "pneumatic bolt driver"
+#. ~ Valid mod location of gun "pneumatic shotgun"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "mechanism"
+msgstr "机械"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic bolt driver"
+msgid_plural "pneumatic bolt drivers"
+msgstr[0] "气动弩矢射枪"
+msgstr[1] "气动弩矢射枪s"
+
+#. ~ Description of gun "pneumatic bolt driver"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "An eight-shot, revolving barrel, pneumatic bolt driver handcrafted from scrap.  It is very quiet and deadly."
+msgstr "一把八发连射的转管气动弩矢射枪，采用废料自制而成。极度安静而致命。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "pneumatic shotgun"
+msgid_plural "pneumatic shotguns"
+msgstr[0] "气动双管霰弹枪"
+msgstr[1] "气动双管霰弹枪s"
+
+#. ~ Description of gun "pneumatic shotgun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A double-barreled pneumatic air shotgun handcrafted from scrap.  Though it's firepower is lacking compared to more conventional shotguns, this thing can still pack quite a punch.  That is, if your target is directly in front of you."
+msgstr "一把双管气动霰弹枪，由废料纯手工制造。虽然和传统霰弹枪相比更弱一些，但是它的威力仍然不错。当然，前提是你的目标离你不远。"
+
+#. ~ Firing mode of gun "pneumatic shotgun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "single"
+msgstr "单发"
+
+#. ~ Firing mode of gun "pneumatic shotgun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "double"
+msgstr "双发"
+
+#. ~ Skill associated with gun "pneumatic shotgun"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr "霰弹枪"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "avalanche rifle"
+msgid_plural "avalanche rifles"
+msgstr[0] "雪崩步枪"
+msgstr[1] "雪崩步枪s"
+
+#. ~ Description of gun "avalanche rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This pneumatic assault rifle has been greatly enhanced, firing projectiles faster and with higher velocity.  However, these features render it incredibly unwieldy, and it must be mounted on a supporting platform in order to be fired."
+msgstr "这把气动突击步枪已经经过大幅强化，使其能够更快速地连发和提供更高的发射初速。它装载在炮塔上，如果提供一些额外的输入的话，它就能够自动瞄准目标。这把武器需要安装到炮塔底盘上使用。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "handheld laser cannon"
+msgid_plural "handheld laser cannons"
+msgstr[0] "手持TX-5LR 激光加农炮"
+msgstr[1] "手持TX-5LR 激光加农炮s"
+
+#. ~ Description of gun "handheld laser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "This is a laser cannon stripped from the barrel of a TX-5LR Cerberus laser turret that has been modified to use UPS power for firing."
+msgstr "一个从TX-5LR \"地狱犬\"型激光炮塔上拆下的激光炮。被修改成使用UPS供电。"
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "lens"
+msgstr "镜头"
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "grip mount"
+msgstr "握把底座"
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#. ~ Valid mod location of gun "handmade carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "sights mount"
+msgstr "瞄具底座"
+
+#. ~ Valid mod location of gun "handheld laser cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "stock mount"
+msgstr "枪托底座"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Fusion Blaster Arm CBM"
+msgid_plural "Fusion Blaster Arm CBMs"
+msgstr[0] "核聚变臂炮CBM"
+msgstr[1] "核聚变臂炮CBMs"
+
+#. ~ Description of "Fusion Blaster Arm CBM"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Your left arm has been replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand."
+msgstr "你的左手臂被改造成了一只重型核聚变炮！你可以消耗部分能量，释放高温毁灭射线攻击敌人！作为代价，你将无法使用或搬运需要使用双手的物品，并且只能使用单手枪械。\n\"爆符「千兆耀斑」\""
+
+#. ~ Name of a bionic
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Fusion Blaster Arm"
+msgstr "核聚变臂炮"
+
+#. ~ Description of bionic "Fusion Blaster Arm"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "Your left arm has been surgically replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand."
+msgstr "你的左臂经过手术被改造成了一只重型核聚变炮！你可以消耗部分能量，释放高温毁灭射线来攻击敌人！\n* 装备该CBM将切除你的左臂，从此将无法再使用或搬运需要使用双手的物品，并且只能使用单手枪械，请慎重考虑。\n\"爆符「千兆耀斑」\""
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "fusion blaster"
+msgid_plural "fusion blasters"
+msgstr[0] "热熔炮"
+msgstr[1] "热熔炮s"
+
+#. ~ Description of gun "fusion blaster"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "this a pseudo item"
+msgstr "这是一个虚拟物品"
+
+#. ~ Firing mode of gun "fusion blaster"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "single shot"
+msgstr "单发"
+
+#. ~ Firing mode of gun "fusion blaster"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "triple shot"
+msgstr "三连发"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "handmade heavy carbine"
+msgid_plural "handmade heavy carbines"
+msgstr[0] "自制重型卡宾枪"
+msgstr[1] "自制重型卡宾枪s"
+
+#. ~ Description of gun "handmade heavy carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A homemade lever-action magazine-fed smoothbore rifle.  While still a primitive pipe and 2x4 design, some minor improvements have been made, such as being able to accept G3 compatible magazines, and chambering the more powerful .308 rounds."
+msgstr "一把自制的杠杆式滑膛步枪。尽管还是用的一条钢管和一条2x4制式木料，在细节方面已经是做了不少改进了，比如能够兼容 G3 步枪弹匣和能使用威力更大的.308子弹的弹仓。"
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "bore"
+msgstr "口径"
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "brass catcher"
+msgstr "弹壳收集器"
+
+#. ~ Valid mod location of gun "handmade heavy carbine"
+#. ~ Valid mod location of gun "handmade carbine"
+#. ~ Valid mod location of gun "modified Marlin 39A"
+#. ~ Valid mod location of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "muzzle"
+msgstr "枪口"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "handmade carbine"
+msgid_plural "handmade carbines"
+msgstr[0] "自制卡宾枪"
+msgstr[1] "自制卡宾枪s"
+
+#. ~ Description of gun "handmade carbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blaze_weapons.json
+msgid "A well-designed improvised lever-action carbine with a shortened barrel.  Accepting crude detachable magazines or STANAG magazines, this is one of the better homemade weapons."
+msgstr "一把设计精良的自制卡宾枪，已经锯短枪管。支持原始的可拆卸弹匣或STANAG北约制式弹匣，算是把比较好的自制武器。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "biting blob"
+msgid_plural "biting blobs"
+msgstr[0] "变形怪咬人炮"
+msgstr[1] "变形怪咬人炮s"
+
+#. ~ Description of gun "biting blob"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  It has evolved the ability to constantly generate calcified protrusions which are then controlled by sinuous tensile strands.  These \"teeth\" can then be used to latch and wound anything unfortunate enough to be nearby.  The outer membrane has also become significantly thicker in order to support its more strenuous movement; though it seems pliable enough to pull apart…"
+msgstr "一只活的变形怪变成的自主武器；设计作为一种覆盖整块车架的防御屏障。它进化出不断产生钙化突刺的能力，然后被弯曲的弹性肌肉纤维所控制。这些\"牙齿\"，可以用来咬住并伤害任何在其附近的倒霉家伙。变形怪的外膜也明显变厚，以支持其更剧烈的运动；然而看起来柔韧得似乎可以被直接拉开……"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel shooter"
+msgid_plural "gel shooters"
+msgstr[0] "变形怪凝胶炮"
+msgstr[1] "变形怪凝胶炮s"
+
+#. ~ Description of gun "gel shooter"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It trawls the ground for material, which it then strips of nutrition.  The remainder is then expelled out at significant velocity towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.  It seems pliable enough to pull apart…"
+msgstr "一只活的变形怪变成的自主武器。会从地面吸取材料，吸收养分。剩余的残渣朝着附近的威胁被高速发射出去。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。看起来柔韧得似乎可以被直接拉开……"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "frost lancer"
+msgid_plural "frost lancers"
+msgstr[0] "变形怪冰矛炮"
+msgstr[1] "变形怪冰矛炮s"
+
+#. ~ Description of gun "frost lancer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A biological aberration that exists at sub-zero temperatures.  After filtering nutrients from the water, it freezes the remainder into an incredibly sharp spear of ice; which it then launches at nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。一只体温低于零度的生化武器变形怪。在从水中吸取养分后，将剩余部分冰冻成非常尖锐的冰矛，然后朝附近的威胁发射。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "snapping ooze"
+msgid_plural "snapping oozes"
+msgstr[0] "变形怪牙齿炮"
+msgstr[1] "变形怪牙齿炮s"
+
+#. ~ Description of gun "snapping ooze"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A baffling mutation in an already baffling creature, this blob is encased in a thick coat of fur, which serves as a form of protection.  In addition, it is capable of projecting rows of calcified sharp fragments in a manner mimicking the jaw of a more recognizable creature.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。在已经莫名其妙的生物产生莫名其妙的突变，这只变形怪被一层厚厚的作为保护的毛包裹。此外，它能够发射出成排被钙化的锋利碎牙，这些牙齿就如同一些更知名生物的下颚里生长的一样。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "blobsaw"
+msgid_plural "blobsaws"
+msgstr[0] "变形怪锯"
+msgstr[1] "变形怪锯s"
+
+#. ~ Description of gun "blobsaw"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  While its simpler cousins have a limit to the number of keratinous protrusions they can project and control; this blob can utilize hundreds of these sharp fangs to shred anything it detects as a threat into unrecognizable ribbons.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器，本意是摊开在车架上作为屏障使用。其体型更简单的表亲只长着数个可以被自身发射和控制的角质突起；这只变形怪可以利用成百上千的锋利的獠牙撕碎任何检测到的威胁，直到变成面目全非的碎带。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "fuel puffer"
+msgid_plural "fuel puffers"
+msgstr[0] "变形怪汽油炮"
+msgstr[1] "变形怪汽油炮s"
+
+#. ~ Description of gun "fuel puffer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digestion process turns the result incredibly viscous which, when threats come near, is launched; ensnaring anything it hits.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。更加挑食的变形怪，它只会吃汽油内的化学成分。其消化产物有着令人难以置信的粘性，当威胁接近时会被发射出去，捕捉任何被粘到的东西。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "acid puffer"
+msgid_plural "acid puffers"
+msgstr[0] "变形怪酸液炮"
+msgstr[1] "变形怪酸液炮s"
+
+#. ~ Description of gun "acid puffer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A filter feeder, the digestion process produces highly acidic byproducts; which is then expelled at any nearby enemies.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。一种滤食动物，消化过程会产生酸性很高的副产品，然后朝着任何附近的敌人发射出去。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel spiker"
+msgid_plural "gel spikers"
+msgstr[0] "变形怪尖刺炮"
+msgstr[1] "变形怪尖刺炮s"
+
+#. ~ Description of gun "gel spiker"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Capable of calcifying large numbers of fang-like fragments within itself.  It hurls groups of these fragments along with a small portion of itself.  When it reaches its destination, the detached remains shoot these fragments in all directions, expiring in the process.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。能够在体内同时钙化生成大量牙齿状的碎片。它把这些碎片连同自身的一部分一起抛射出去。当炮弹到达目的地时，分离出的变形怪将这些碎片四处发射出去，并在此过程中断气。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel spouter"
+msgid_plural "gel spouters"
+msgstr[0] "变形怪喷水炮"
+msgstr[1] "变形怪喷水炮s"
+
+#. ~ Description of gun "gel spouter"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It can suck in water from a vehicle tank, and forcibly expel it in a wide cone.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。它能够从车辆水箱内吸取水源，然后以一个大扇面强行喷出。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel lancer"
+msgid_plural "gel lancers"
+msgstr[0] "变形怪长矛炮"
+msgstr[1] "变形怪长矛炮s"
+
+#. ~ Description of gun "gel lancer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Evolving incredible abilities of perception, it is capable of locating and discerning possible threats within a large radius.  When a potential threat is located, it fires a small, calcified projectile with incredible speed and accuracy.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。进化出令人难以置信的感知能力，这只变形怪能够在超大范围内的定位并识别出可能的威胁。当定位到潜在威胁后，它将以惊人的速度和命中率发射出一个小型钙化弹丸。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel razor"
+msgid_plural "gel razors"
+msgstr[0] "变形怪刀片炮"
+msgstr[1] "变形怪刀片炮s"
+
+#. ~ Description of gun "gel razor"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  An enhanced metabolism allows it to calcify large, toothy discs which are then launched towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。其增强的代谢使其能够钙化出一只巨大的长满牙齿的圆盘，然后朝附近的任何威胁发射出去。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "shock bulb"
+msgid_plural "shock bulbs"
+msgstr[0] "变形怪电击炮"
+msgstr[1] "变形怪电击炮s"
+
+#. ~ Description of gun "shock bulb"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  Shockingly, it somehow is able to project electricity, which it then discharges at any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。令人震惊（触电）的是，它不知怎的能产生出电弧，然后朝着附近的威胁放电。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "gel puffer"
+msgid_plural "gel puffers"
+msgstr[0] "变形怪胶质炮"
+msgstr[1] "变形怪胶质炮s"
+
+#. ~ Description of gun "gel puffer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A filter feeder, it strips any water it processes of nutrients and expels the remainder towards any nearby threats.  The process of filter-feeding also makes the remaining liquid viscous, though it also dissipates fairly quickly.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。一种滤食动物，它从水中吸取营养并将残液朝着附近的威胁发射出去。滤食过程也增加了残液的粘性，但也会很快消散。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "fire puffer"
+msgid_plural "fire puffers"
+msgstr[0] "变形怪火焰炮"
+msgstr[1] "变形怪火焰炮s"
+
+#. ~ Description of gun "fire puffer"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digested material is still highly flammable, and when launched, also activates an ignition gland located on the outer membrane.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。更加挑食的变形怪，它只会吃汽油内的化学成分。其消化产物仍然是高度易燃的，当被发射出去时，也会被位于外膜上的一个点火腺点燃。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "spark blight"
+msgid_plural "spark blights"
+msgstr[0] "变形怪电流炮"
+msgstr[1] "变形怪电流炮s"
+
+#. ~ Description of gun "spark blight"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\blob_turret.json
+msgid "A living blob turned into an autonomous weapon.  It is capable of storing energy from sunlight inside itself in the form of electricity.  Then, in a truly baffling show of force, projects a highly concentrated stream of electricity towards any possible threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it."
+msgstr "一只活的变形怪变成的自主武器。这只变形怪能够在体内储存由太阳能转化而成的电能。然后用一种难以应对的方式，朝着任何可能的威胁喷射出一道高度集中的电流。变形怪无定形的形体可以在你手中被重塑和连接，但武器本身由于没有控制而呈现惰性。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\diamond_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_turret.json
+msgid "diamond lance"
+msgid_plural "diamond lances"
+msgstr[0] "钻石长枪"
+msgstr[1] "钻石长枪s"
+
+#. ~ Description of gun "diamond lance"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\diamond_turret.json
+msgid "A weapon that is as deadly as it is dazzling.  The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness.  The substance rapidly decays when separated from the catalyst; thus a pre-shaped lump of carbon is brought into contact with the matrix, immediately crystallized and launched just as quickly.  The launcher requires a specialized chassis in order to be brought to bear on its unfortunate targets."
+msgstr "一把和它令人眼花缭乱的闪光一样致命的武器。该武器中心的钻石晶阵作为催化剂，迅速将含碳丰富的物质转化为几乎等于钻石硬度的结晶形式。当物质与催化剂分离后会迅速衰减，因此一团预成型的碳被吸入与基体接触，立即结晶，并迅速发射出去。该发射器需要一个特制的炮塔底盘才能正常工作。"
+
+#. ~ Name of a gun
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\diamond_turret.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_turret.json
+msgid "diamond nova"
+msgid_plural "diamond novae"
+msgstr[0] "钻石新星"
+msgstr[1] "钻石新星s"
+
+#. ~ Description of gun "diamond nova"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\diamond_turret.json
+msgid "A weapon that is as deadly as it is dazzling.  The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness.  The substance rapidly decays when separated from the catalyst, and at sizes as large as the projectile used, also rapidly decays when in contact with other matter.  Thus the projectile is held and launched by the use of pressurized air from a vortex stone.  Upon striking its target, the projectile undergoes explosive decomposition; shattering into a brilliant burst of diamond fragments."
+msgstr "一把和它令人眼花缭乱的闪光一样致命的武器。该武器中心的钻石晶阵作为催化剂，迅速将含碳丰富的物质转化为几乎等于钻石硬度的结晶形式。当物质与催化剂分离后会迅速衰减，而且由于弹药体积过大，在接触其他物质后也会迅速衰减。因此弹药经由漩涡石形成的高压空气储存并发射出去。当击中目标后，弹药会爆炸分解，粉碎成一个由钻石碎片构成的辉煌爆炸。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "vortex accelerator"
+msgid_plural "vortex accelerators"
+msgstr[0] "涡漩加速器"
+msgstr[1] "涡漩加速器s"
+
+#. ~ Description of gun "vortex accelerator"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch sharp fragments at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr "这把武器采用强劲的爆发气流朝着目标发射高速的尖锐碎片。你需要某种形式的平台来安装它。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "vortex bolter"
+msgid_plural "vortex bolters"
+msgstr[0] "涡漩箭发射器"
+msgstr[1] "涡漩箭发射器s"
+
+#. ~ Description of gun "vortex bolter"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch bolts at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr "这把武器采用强劲的爆发气流朝着目标发射高速的弩矢。你需要某种形式的平台来安装它。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "vortex cannon"
+msgid_plural "vortex cannons"
+msgstr[0] "涡漩空气炮"
+msgstr[1] "涡漩空气炮s"
+
+#. ~ Description of gun "vortex cannon"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "Essentially a large pneumatic gun made to hurl sharpened metal rails.  Instead of a mechanical system, you've managed to harness the vortex to power this gun.  While powerful for its size, you'll need some form of platform to mount it on."
+msgstr "实质上是一个投掷磨尖过的金属磁轨弹的大型气动枪。这把枪并不是由一套机械系统驱动，取而代之的是你设法控制的漩涡。虽然以它的大小来说威力很强大，但你需要某种形式的平台来安装它。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "vortex rifle"
+msgid_plural "vortex rifles"
+msgstr[0] "涡漩步枪"
+msgstr[1] "涡漩步枪s"
+
+#. ~ Description of gun "vortex rifle"
+#: d:\cdda\catap\kenan\main\blazemod\items\guns\vortex_turret.json
+msgid "This weapon uses powerful bursts of air to launch small projectiles at its target at high speed.  You'll need some form of platform to mount it on."
+msgstr "这把武器采用强劲的爆发气流朝着目标发射高速的小型弹药。你需要某种形式的平台来安装它。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "gelatinous capsule"
+msgid_plural "gelatinous capsules"
+msgstr[0] "凝胶囊形仓"
+msgstr[1] "凝胶囊形仓s"
+
+#. ~ Description of "gelatinous capsule"
+#. ~ Description of "gray cocoon"
+#. ~ Description of "oozing pod"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "While the blob is very eager to be fed, it's not as enthusiastic about giving up liquids.  A few alterations are necessary."
+msgstr "虽然变形怪急着被喂养，但这些小家伙们还不热衷于放弃液体。还需要更多的转变。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "gelatinous tank"
+msgid_plural "gelatinous tanks"
+msgstr[0] "凝胶油箱"
+msgstr[1] "凝胶油箱s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "gray cocoon"
+msgid_plural "gray cocoons"
+msgstr[0] "灰色茧形仓"
+msgstr[1] "灰色茧形仓s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "gray tank"
+msgid_plural "gray tanks"
+msgstr[0] "灰色油箱"
+msgstr[1] "灰色油箱s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "oozing pod"
+msgid_plural "oozing pods"
+msgstr[0] "软泥荚形仓"
+msgstr[1] "软泥荚形仓s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_container.json
+msgid "oozing tank"
+msgid_plural "oozing tanks"
+msgstr[0] "软泥油箱"
+msgstr[1] "软泥油箱s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing blob frame"
+msgid_plural "growing blob frames"
+msgstr[0] "凝胶变形怪车架（生长中）"
+msgstr[1] "凝胶变形怪车架（生长中）s"
+
+#. ~ Description of "growing blob frame"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "A growing vehicle frame made of bone.  It's coated in a thick layer of ooze, though there's greater amounts on the bindings.  It's not quite tough enough to use."
+msgstr "骨制成的闪光车架。整个车架上，特别是连接处上，都渗出了一层厚厚的糊状粘稠物在表面。它还不够结实，无法使用。"
+
+#. ~ "msg" action message of item "growing blob frame"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "You test the frame; It wiggles, and then collapses into an lump of goo."
+msgstr "你试了试车架；它晃了晃，然后碎成一滩粘液。"
+
+#. ~ "not_ready_msg" action message of item "growing blob frame"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "You test the frame; it gives easily, it's still not sturdy enough"
+msgstr "你试了试框架。它容易变形，仍然不够坚固。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing keratinous mass"
+msgid_plural "growing keratinous mass"
+msgstr[0] "角质变形怪（生长中）"
+msgstr[1] "角质变形怪（生长中）s"
+
+#. ~ Description of "growing keratinous mass"
+#. ~ Description of "growing beaded mass"
+#. ~ Description of "growing icy mass"
+#. ~ Description of "growing cold mass"
+#. ~ Description of "growing hairy mass"
+#. ~ Description of "growing gelatinous mass"
+#. ~ Description of "growing glowing mass"
+#. ~ Description of "growing gray mass"
+#. ~ Description of "growing spike-studded mass"
+#. ~ Description of "growing gasoline-laced mass"
+#. ~ Description of "growing acidic mass"
+#. ~ Description of "growing ooze"
+#. ~ Description of "growing mass of tendrils"
+#. ~ Description of "growing spiked mass"
+#. ~ Description of "growing spiny mass"
+#. ~ Description of "growing spiky mass"
+#. ~ Description of "growing bright mass"
+#. ~ Description of "growing viscous mass"
+#. ~ Description of "growing warm mass"
+#. ~ Description of "growing electrified mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "Not quite fully grown, this blob requires nourishment to fully develop."
+msgstr "还没有完全长成，这只变形怪需要更多营养成分才能完全成长。"
+
+#. ~ "msg" action message of item "growing keratinous mass"
+#. ~ "msg" action message of item "growing beaded mass"
+#. ~ "msg" action message of item "growing icy mass"
+#. ~ "msg" action message of item "growing cold mass"
+#. ~ "msg" action message of item "growing hairy mass"
+#. ~ "msg" action message of item "growing gelatinous mass"
+#. ~ "msg" action message of item "growing glowing mass"
+#. ~ "msg" action message of item "growing gray mass"
+#. ~ "msg" action message of item "growing spike-studded mass"
+#. ~ "msg" action message of item "growing gasoline-laced mass"
+#. ~ "msg" action message of item "growing acidic mass"
+#. ~ "msg" action message of item "growing ooze"
+#. ~ "msg" action message of item "growing mass of tendrils"
+#. ~ "msg" action message of item "growing spiked mass"
+#. ~ "msg" action message of item "growing spiny mass"
+#. ~ "msg" action message of item "growing spiky mass"
+#. ~ "msg" action message of item "growing bright mass"
+#. ~ "msg" action message of item "growing viscous mass"
+#. ~ "msg" action message of item "growing warm mass"
+#. ~ "msg" action message of item "growing electrified mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "The blob balloons to full size."
+msgstr "变形怪长大到完整大小。"
+
+#. ~ "not_ready_msg" action message of item "growing keratinous mass"
+#. ~ "not_ready_msg" action message of item "growing beaded mass"
+#. ~ "not_ready_msg" action message of item "growing icy mass"
+#. ~ "not_ready_msg" action message of item "growing cold mass"
+#. ~ "not_ready_msg" action message of item "growing hairy mass"
+#. ~ "not_ready_msg" action message of item "growing gelatinous mass"
+#. ~ "not_ready_msg" action message of item "growing glowing mass"
+#. ~ "not_ready_msg" action message of item "growing gray mass"
+#. ~ "not_ready_msg" action message of item "growing spike-studded mass"
+#. ~ "not_ready_msg" action message of item "growing gasoline-laced mass"
+#. ~ "not_ready_msg" action message of item "growing acidic mass"
+#. ~ "not_ready_msg" action message of item "growing ooze"
+#. ~ "not_ready_msg" action message of item "growing mass of tendrils"
+#. ~ "not_ready_msg" action message of item "growing spiked mass"
+#. ~ "not_ready_msg" action message of item "growing spiny mass"
+#. ~ "not_ready_msg" action message of item "growing spiky mass"
+#. ~ "not_ready_msg" action message of item "growing bright mass"
+#. ~ "not_ready_msg" action message of item "growing viscous mass"
+#. ~ "not_ready_msg" action message of item "growing warm mass"
+#. ~ "not_ready_msg" action message of item "growing electrified mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "Whatever it's doing, it's not done yet."
+msgstr "不管它以后能长成什么东西，它现在还没长成。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing beaded mass"
+msgid_plural "growing beaded mass"
+msgstr[0] "珠状变形怪（生长中）"
+msgstr[1] "珠状变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing icy mass"
+msgid_plural "growing icy mass"
+msgstr[0] "冰冻变形怪（生长中）"
+msgstr[1] "冰冻变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "gelacier"
+msgid_plural "gelaciers"
+msgstr[0] "寒冷变形怪"
+msgstr[1] "寒冷变形怪s"
+
+#. ~ Description of "gelacier"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It seems pliable enough to pull apart…"
+msgstr "一件生物学之谜，这只变形怪的内部结构存在着一滩低密度流体，尽管已经处在过冷状态但仍然保留液体形态；但仍然保持着其之前所具有的柔韧性。冰霜形成的碎片不断从它身上剥落。看起来柔韧得似乎可以被直接拉开……"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing cold mass"
+msgid_plural "growing cold mass"
+msgstr[0] "寒冷变形怪（生长中）"
+msgstr[1] "寒冷变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing hairy mass"
+msgid_plural "growing hairy mass"
+msgstr[0] "长毛变形怪（生长中）"
+msgstr[1] "长毛变形怪（生长中）s"
+
+#. ~ Item name
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json d:\cdda\catap\kenan\main\blazemod\monsters\blob_monster.json
+msgid "gelatinous mass"
+msgid_plural "gelatinous mass"
+msgstr[0] "凝胶变形怪"
+msgstr[1] "凝胶变形怪s"
+
+#. ~ Description of "gelatinous mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "An experiment gone horribly right.  While the original intent was to combine the structure of a bone frame with the impact absorption of the blob; the blob seems to have completely consumed the bone.  Instead, what remains is an amorphous mass of goo with what seems to be numerous thin filaments floating within.  With a bit of effort, you can grasp the fibers and stretch the mass into a multitude of shapes.  The mass is able to retain the new shape even under force, though the mass yields at your touch.  With enough strength, you think you can pull it apart."
+msgstr "一次成功得令人难以置信的实验。虽然最初的意图是将变形怪冲击吸收能力与骨制车架结构相结合；但似乎变形怪已经吃光了骨头。相反，剩下的是一团无定形胶质粘液，有着无数细丝漂浮其中。稍稍用点力，你可以抓住纤维并将它拉伸成多种形状。即使受外力，变形怪仍然能够保持新的形状，然而它你的触摸下却轻松变形。有了足够的力量，你认为你可以把它直接撕开。"
+
+#. ~ "msg" action message of item "gelatinous mass"
+#. ~ "msg" action message of item "gray mass"
+#. ~ "msg" action message of item "oozing mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "You fumble as the blob starts to multiply rapidly!"
+msgstr "变形怪抱住你的手，开始快速繁殖起来，让你变得笨手笨脚。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "multiplying gelatinous mass"
+msgid_plural "multiplying gelatinous mass"
+msgstr[0] "凝胶变形怪（分裂中）"
+msgstr[1] "凝胶变形怪（分裂中）s"
+
+#. ~ Description of "multiplying gelatinous mass"
+#. ~ Description of "multiplying gray mass"
+#. ~ Description of "multiplying oozing mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "Having been fed, this blob is now rapidly multiplying into other copies of itself; extremely noisy copies!  And even worse, it's stuck to your hands until whatever it's doing is done!  Catch those blobs before they bring in every zombie for miles!"
+msgstr "在经过喂食后，这只变形怪正在迅速繁殖分裂出自身的克隆体；更加吵闹的克隆体！更糟糕的是，它在繁殖完成将一直粘在你的手上！赶紧在那些变形怪引来方圆几英里的每一只丧尸之前抓住它们！"
+
+#. ~ "friendly_msg" action message of item "multiplying gelatinous mass"
+#. ~ "hostile_msg" action message of item "multiplying gelatinous mass"
+#. ~ "friendly_msg" action message of item "multiplying gray mass"
+#. ~ "hostile_msg" action message of item "multiplying gray mass"
+#. ~ "friendly_msg" action message of item "multiplying oozing mass"
+#. ~ "hostile_msg" action message of item "multiplying oozing mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "A blob splits and bounces away!"
+msgstr "一只变形怪分裂并蹦了出来！"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing gelatinous mass"
+msgid_plural "growing gelatinous mass"
+msgstr[0] "凝胶变形怪（生长中）"
+msgstr[1] "凝胶变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing glowing mass"
+msgid_plural "growing glowing mass"
+msgstr[0] "发光变形怪（生长中）"
+msgstr[1] "发光变形怪（生长中）s"
+
+#. ~ Item name
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json d:\cdda\catap\kenan\main\blazemod\monsters\blob_monster.json
+msgid "gray mass"
+msgid_plural "gray mass"
+msgstr[0] "灰色变形怪"
+msgstr[1] "灰色变形怪s"
+
+#. ~ Description of "gray mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "This internal structures of this creature have developed significantly.  While retaining the resilience and malleability of its once simpler form, it has gained the considerable abilities of perception and stimulus response.  When directly threatened, it is able to shift and alter its microfibers, hardening its membrane to an almost steel-hard shell.  You can still pull it apart with enough force.  It's also really gray."
+msgstr "这个生物的内部结构相比原始形态产生了明显的进步。既保留了它原始形态的弹性和延展性，又进一步获得了可观的感知能力和刺激反应。当被直接威胁时，它能转变形态并改变体内的超细纤维、硬化外膜成为几乎如同钢铁一般坚硬的甲壳。你仍然可以用足够的力量把它拉开。而且颜色也变得特别灰。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "multiplying gray mass"
+msgid_plural "multiplying gray mass"
+msgstr[0] "灰色变形怪（分裂中）"
+msgstr[1] "灰色变形怪（分裂中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing gray mass"
+msgid_plural "growing gray mass"
+msgstr[0] "灰色变形怪（生长中）"
+msgstr[1] "灰色变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing spike-studded mass"
+msgid_plural "growing spike-studded mass"
+msgstr[0] "带刺变形怪（生长中）"
+msgstr[1] "带刺变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing gasoline-laced mass"
+msgid_plural "growing gasoline-laced mass"
+msgstr[0] "汽油变形怪（生长中）"
+msgstr[1] "汽油变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing acidic mass"
+msgid_plural "growing acidic mass"
+msgstr[0] "酸液变形怪（生长中）"
+msgstr[1] "酸液变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "oozing mass"
+msgid_plural "oozing mass"
+msgstr[0] "软泥变形怪"
+msgstr[1] "软泥变形怪s"
+
+#. ~ Description of "oozing mass"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "An amorphous mass that has undergone a significant growth.  In addition to the increased amount of goo and sinuous filaments, it seems to have started developing other internal structures.  Like its smaller counterpart, it can be shaped into various structures; albeit with significantly greater tensile strength due to the increased number of supporting filaments.  You believe you can split it apart with enough force."
+msgstr "一团增长显著的无定形变形怪。除了粘液量及体内纤维的增加，它还似乎开始长出其他内部结构。尽管由于其体内增加的支持纤维有着显然更大的拉伸强度，但与它较小的同类一样，它依旧可以被你塑造成各种结构形状。你相信你可以用足够的力量把它分开。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "multiplying oozing mass"
+msgid_plural "multiplying oozing mass"
+msgstr[0] "软泥变形怪（分裂中）"
+msgstr[1] "软泥变形怪（分裂中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing ooze"
+msgid_plural "growing ooze"
+msgstr[0] "软泥变形怪（生长中）"
+msgstr[1] "软泥变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing mass of tendrils"
+msgid_plural "growing mass of tendrils"
+msgstr[0] "触须变形怪（生长中）"
+msgstr[1] "触须变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing spiked mass"
+msgid_plural "growing spiked mass"
+msgstr[0] "钉刺变形怪（生长中）"
+msgstr[1] "钉刺变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing spiny mass"
+msgid_plural "growing spiny mass"
+msgstr[0] "旋转变形怪（生长中）"
+msgstr[1] "旋转变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing spiky mass"
+msgid_plural "growing spiky mass"
+msgstr[0] "尖刺变形怪（生长中）"
+msgstr[1] "尖刺变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing bright mass"
+msgid_plural "growing bright mass"
+msgstr[0] "闪亮变形怪（生长中）"
+msgstr[1] "闪亮变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing viscous mass"
+msgid_plural "growing viscous mass"
+msgstr[0] "粘性变形怪（生长中）"
+msgstr[1] "粘性变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing warm mass"
+msgid_plural "growing warm mass"
+msgstr[0] "温暖变形怪（生长中）"
+msgstr[1] "温暖变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\blob_tools.json
+msgid "growing electrified mass"
+msgid_plural "growing electrified mass"
+msgstr[0] "带电变形怪（生长中）"
+msgstr[1] "带电变形怪（生长中）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "diamond cluster"
+msgid_plural "diamond clusters"
+msgstr[0] "钻石晶簇"
+msgstr[1] "钻石晶簇s"
+
+#. ~ Description of "diamond cluster"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "A cluster of artificial crystals that have broken off of a diamond matrix.  While the substance usually decays when separated from the catalyst; this cluster seems to be self-sustaining by some unknown mechanism.  "
+msgstr "从钻石晶阵上破碎下来的一簇人工晶体。虽然通常这些物质从催化剂中分离出来时会降解，但是这些碎片不知道因为何种机制可以保持稳定。"
+
+#. ~ "msg" action message of item "diamond cluster"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "The cluster comes apart in your hands."
+msgstr "晶簇在你手中分裂了。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "diamond matrix"
+msgid_plural "diamond matrices"
+msgstr[0] "钻石晶阵"
+msgstr[1] "钻石晶阵s"
+
+#. ~ Description of "diamond matrix"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "A sparkling diamond with a dazzling spiral pattern.  Small pieces of glittering crystal form on the edges as you hold it."
+msgstr "一个有着耀眼的螺旋纹理的闪闪发光的钻石。当你握着它的边缘时，小片的闪闪发光的晶体在边缘不断形成。"
+
+#. ~ "msg" action message of item "diamond matrix"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\diamond_tools.json
+msgid "Your senses dull as you gaze into the depths of this gemstone's center…"
+msgstr "当你深深凝视着宝石的中心时，你的感官都有点迟钝了……"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\vortex_tools.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_parts.json
+msgid "vortex engine"
+msgid_plural "vortex engines"
+msgstr[0] "涡旋引擎"
+msgstr[1] "涡旋引擎s"
+
+#. ~ Description of "vortex engine"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\vortex_tools.json
+msgid "A tornado in a box, so to speak.  Inside this innocuous tank contains either the culmination of human innovation in clean energy, or a weapon of mass destruction capable of wiping civilization - or what's left of it - off the map.  An external mechanism allows it to be attached to a vehicle to render it mobile."
+msgstr "一个可以被称作是\"盒子里的龙卷风\"的载具部件。在这一看似无害的容器里面，承载着清洁能源的人类智慧结晶，抑或是能将人类文明（或者说残存部分）从地面上抹除的大规模杀伤性武器。容器上有个外接装置，使其可作为引擎使用。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\vortex_tools.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_parts.json
+msgid "vortex generator"
+msgid_plural "vortex generators"
+msgstr[0] "涡旋发电机"
+msgstr[1] "涡旋发电机s"
+
+#. ~ Description of "vortex generator"
+#: d:\cdda\catap\kenan\main\blazemod\items\tools\vortex_tools.json
+msgid "A tornado in a box, so to speak.  Inside this innocuous tank contains either the culmination of human innovation in clean energy, or a weapon of mass destruction capable of wiping civilization - or what's left of it - off the map.  An external mechanism allow it to be hooked up to a battery to store the power generated."
+msgstr "一个可以被称作是\"盒子里的龙卷风\"的载具部件。在这一看似无害的容器里面，承载着清洁能源的人类智慧结晶，抑或是能将人类文明（或者说残存部分）从地面上抹除的大规模杀伤性武器。容器上有个外接装置，使其可作为发电机使用。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "large steam engine"
+msgid_plural "large steam engines"
+msgstr[0] "大型蒸汽引擎"
+msgstr[1] "大型蒸汽引擎s"
+
+#. ~ Description of "large steam engine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A large steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台大型蒸汽引擎。一个内置锅炉燃烧木炭将水加热变成蒸汽，带动一根往复轴。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "huge steam engine"
+msgid_plural "huge steam engines"
+msgstr[0] "巨型蒸汽引擎"
+msgstr[1] "巨型蒸汽引擎s"
+
+#. ~ Description of "huge steam engine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A huge steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台巨型蒸汽引擎。一个内置锅炉燃烧木炭将水加热变成蒸汽，带动一根往复轴。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Steam turbine efficiency sucks - ideally 47% efficient with reheat cycles, versus 55% for a modern gas engine.  Going with 33% efficieny for easy math
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "small steam turbine"
+msgid_plural "small steam turbines"
+msgstr[0] "小型蒸汽涡轮机"
+msgstr[1] "小型蒸汽涡轮机s"
+
+#. ~ Steam turbine efficiency sucks - ideally 47% efficient with reheat cycles, versus 55% for a modern gas engine.  Going with 33% efficieny for easy math
+#. ~ Description of "small steam turbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A small steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台小型蒸汽涡轮机。一个内置锅炉燃烧木炭将水加热变成蒸汽，驱动旋转涡轮机。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "medium steam turbine"
+msgid_plural "medium steam turbines"
+msgstr[0] "中型蒸汽涡轮机"
+msgstr[1] "中型蒸汽涡轮机s"
+
+#. ~ Description of "medium steam turbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A medium sized steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台中型蒸汽涡轮机。一个内置锅炉燃烧木炭将水加热变成蒸汽，驱动旋转涡轮机。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "large steam turbine"
+msgid_plural "large steam turbines"
+msgstr[0] "大型蒸汽涡轮机"
+msgstr[1] "大型蒸汽涡轮机s"
+
+#. ~ Description of "large steam turbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A large steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台大型蒸汽涡轮机。一个内置锅炉燃烧木炭将水加热变成蒸汽，驱动旋转涡轮机。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "huge steam turbine"
+msgid_plural "huge steam turbines"
+msgstr[0] "巨型蒸汽涡轮机"
+msgstr[1] "巨型蒸汽涡轮机s"
+
+#. ~ Description of "huge steam turbine"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_engine.json
+msgid "A huge steam turbine.  An integrated boiler burns coal to heat water into steam, driving a spinning turbine.  A condensor recaptures the water, making this a closed cycle system."
+msgstr "一台巨型蒸汽涡轮机。一个内置锅炉燃烧木炭将水加热变成蒸汽，驱动旋转涡轮机。一个冷凝器回收冷却水，构成一个闭环系统。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "modified Marlin 39A"
+msgid_plural "modified Marlin 39As"
+msgstr[0] "改装马林 39A 步枪"
+msgstr[1] "改装马林 39A 步枪s"
+
+#. ~ Description of gun "modified Marlin 39A"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "A Marlin 39A, modified for use in a vehicle turret"
+msgstr "一把马林鱼39A步枪，已经改装完毕，适用于载具炮塔"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "modified SKS"
+msgid_plural "modified SKSs"
+msgstr[0] "改装 SKS 步枪"
+msgstr[1] "改装 SKS 步枪s"
+
+#. ~ Description of gun "modified SKS"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_gun.json
+msgid "An SKS, modified to be suitable for use in a vehicle turret"
+msgstr "一把SKS步枪，已经改装完毕，适用于载具炮塔"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "BB hopper"
+msgid_plural "BB hoppers"
+msgstr[0] "BB弹漏匣"
+msgstr[1] "BB弹漏匣s"
+
+#. ~ Description of magazine "BB hopper"
+#. ~ Description of magazine "pebble hopper"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted weapon.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a small round shot into the weapon's chamber below.  It is not very reliable, but quick to reload."
+msgstr "一个简易的车载武器用弹药漏匣。结构简单，一个底部开口的金属匣子，配上一些塑料导轨，圆形的弹药依靠重力掉落在导轨上并送进下方的武器发射槽中。虽然看上去不是很可靠，但装填起来很快。"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "bolt hopper"
+msgid_plural "bolt hoppers"
+msgstr[0] "弩矢漏匣"
+msgstr[1] "弩矢漏匣s"
+
+#. ~ Description of magazine "bolt hopper"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted crossbow.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a crossbow bolt into the weapon below.  It is awkward to reload and not especially reliable."
+msgstr "一个简易的车载武器用弩矢漏匣。结构简单，一个底部开口的金属匣子，配上一些塑料导轨，弩矢依靠重力掉落在导轨上并送进下方的武器发射槽中。装填起来很麻烦，而且可靠性也不高。"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "canister rack"
+msgid_plural "canister racks"
+msgstr[0] "大炸弹弹药架"
+msgstr[1] "大炸弹弹药架s"
+
+#. ~ Description of magazine "canister rack"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "An improvised magazine for a vehicle mounted weapon.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a heavy canister into the weapon below.  It is awkward to reload and not especially reliable."
+msgstr "一个简易的车载武器用抛射物弹药架。结构简单，一个底部开口的金属匣子，配上一些塑料导轨，炸弹等抛射物依靠重力掉落在导轨上并送进下方的武器发射槽中。装填起来很麻烦，而且可靠性也不高。"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_magazines.json
+msgid "pebble hopper"
+msgid_plural "pebble hoppers"
+msgstr[0] "小石子漏匣"
+msgstr[1] "小石子漏匣s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "stabilized portal"
+msgid_plural "stabilized portals"
+msgstr[0] "稳定传送门"
+msgstr[1] "稳定传送门s"
+
+#. ~ Description of "stabilized portal"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "As you gaze into the seemingly infinite depths of this portable hole in reality, a phrase from a time forever gone echoes in your mind.  \"There are two things that are infinite: the universe and human kleptomania.\""
+msgstr "当你看从这一在现实中可延展的洞口中看进去里面这样无限深的空洞时，一句远古的话语在你的脑中回想：它的意思是：\"只有两种东西是无边际的：宇宙和人类的盗窃癖。\""
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "vehicle shelving"
+msgid_plural "vehicle shelvings"
+msgstr[0] "载具架"
+msgstr[1] "载具架s"
+
+#. ~ Description of "vehicle shelving"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "Several heavy frames retrofitted to be installed together which are outfitted with tie-downs and attachment points gallore for carrying an extended amount of cargo."
+msgstr "几个重型车架经过改装被固定在一起，配备有系紧装置和连接点，以承载大量货物。"
+
+#. ~ Description of "vehicle refrigerator"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "A household refrigerator with impressive capacity.  Its power connection has been refurbished, and it can be mounted onto a vehicle to draw from its power."
+msgstr "一台家用冰箱，容量十分可观。它的供能模块已被改造，可以安装在车辆上使用。"
+
+#. ~ Description of "vehicle freezer"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "This refurbished refrigerator has been stripped of much of its internal components and converted to run at a much lower temperature, causing it to serve as a freezer for more power.  Like its predecessor, it runs on vehicle power."
+msgstr "这台冰柜已被精简了许多内部部件，经过改造后它的制冷温度更低，功率更大。与前代一样，它依靠车载电源运行。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "MetalMaster forge buddy"
+msgid_plural "MetalMaster forge buddies"
+msgstr[0] "名匠锻造伴侣"
+msgstr[1] "名匠锻造伴侣s"
+
+#. ~ Description of "MetalMaster forge buddy"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "From the makers of the best-selling* FOODCO kitchen buddy comes the MetalMaster forge buddy, for all your metalworking, firing, and welding needs!  It's just as clunky and awkward as the thing it's spinning off, and still requires a vehicle battery to function."
+msgstr "由最畅销的\"伙夫牌厨房加工伴侣\"的制造商出品的\"名匠锻造伴侣\"，能满足您所有金属加工、点火和焊接的需求！它和它的加工物一样沉重笨拙，需要连接到车载电源后才能工作。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "KitchenMaster cooking buddy"
+msgid_plural "KitchenMaster cooking buddies"
+msgstr[0] "名厨烹饪伴侣"
+msgstr[1] "名厨烹饪伴侣s"
+
+#. ~ Description of "KitchenMaster cooking buddy"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "Because it *clearly* needed one, this large all-in-one station provides the functions of FOODCO's kitchen buddy, now with complementary fume hoods and chemistry materials.  Why a chef would need a chemical rig is anyone's guess, but you can mount it on a vehicle to make use of it."
+msgstr "这个大型的一体式工作站拥有\"伙夫牌厨房加工伴侣\"的全部功能，还额外配备了通风橱和化学材料。你可以把它安装在车辆上使用。\n\"不想当化学家的厨师不是好厨师！\""
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "cooking rig"
+msgid_plural "cooking rigs"
+msgstr[0] "厨化机"
+msgstr[1] "厨化机s"
+
+#. ~ Description of "cooking rig"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_other.json
+msgid "Skillet, pot, hotplate, and chemistry set; everything you need to cook food and chemicals.  Includes proper fume vents and a separator, so you don't contaminate your food with toxic chemicals."
+msgstr "锅碗瓢盆，试管烧杯……所有烹饪和化学所需的工具都在这里了。分离式的通风孔和隔离装置，使得你不用担心有毒的化学物质会污染你的食物。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "solar array"
+msgid_plural "solar arrays"
+msgstr[0] "太阳能板阵列"
+msgstr[1] "太阳能板阵列s"
+
+#. ~ Description of "solar array"
+#. ~ Description of vehicle part "solar array"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr "一个由三块太阳能板所组成的垂直阵列，安装在同一根金属底座上，在金属杆上依次排开，带有基础的跟踪装置和马达。由于液压系统的脆弱性和为了最大限度利用阳光所导致的高覆盖面积，它们真没法被安装在现有的载具上。需要一根跨接电缆或类似电缆才能从中导出电源。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "reinforced solar array"
+msgid_plural "reinforced solar arrays"
+msgstr[0] "太阳能板阵列（强化）"
+msgstr[1] "太阳能板阵列（强化）s"
+
+#. ~ Description of "reinforced solar array"
+#. ~ Description of vehicle part "reinforced solar array"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three reinforced solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr "一个由三块强化太阳能板所组成的垂直阵列，安装在同一根金属底座上，在金属杆上依次排开，带有基础的跟踪装置和马达。由于液压系统的脆弱性和为了最大限度利用阳光所导致的高覆盖面积，它们真没法被安装在现有的载具上。需要一根跨接电缆或类似电缆才能从中导出电源。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "upgraded solar array"
+msgid_plural "upgraded solar arrays"
+msgstr[0] "太阳能板阵列（高能）"
+msgstr[1] "太阳能板阵列（高能）s"
+
+#. ~ Description of "upgraded solar array"
+#. ~ Description of vehicle part "upgraded solar array"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three upgraded solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr "一个由三块高能太阳能板所组成的垂直阵列，安装在同一根金属底座上，在金属杆上依次排开，带有基础的跟踪装置和马达。由于液压系统的脆弱性和为了最大限度利用阳光所导致的高覆盖面积，它们真没法被安装在现有的载具上。需要一根跨接电缆或类似电缆才能从中导出电源。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "upgraded reinforced solar array"
+msgid_plural "upgraded reinforced solar arrays"
+msgstr[0] "太阳能板阵列（强化高能）"
+msgstr[1] "太阳能板阵列（强化高能）s"
+
+#. ~ Description of "upgraded reinforced solar array"
+#. ~ Description of vehicle part "upgraded reinforced solar array"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_solar.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A vertical array of three upgraded reinforced solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr "一个由三块强化高能太阳能板所组成的垂直阵列，安装在同一根金属底座上，在金属杆上依次排开，带有基础的跟踪装置和马达。由于液压系统的脆弱性和为了最大限度利用阳光所导致的高覆盖面积，它们真没法被安装在现有的载具上。需要一根跨接电缆或类似电缆才能从中导出电源。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "Rubber Caterpillar Track"
+msgid_plural "Rubber Caterpillar Tracks"
+msgstr[0] "橡胶履带"
+msgstr[1] "橡胶履带s"
+
+#. ~ Description of "Rubber Caterpillar Track"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of hard rubber tracks reinforced by stiff wire held in place by a set of smaller wheels.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr "短履带板环环相扣，由强韧金属丝强化并安装在一组小型负重轮上的硬橡胶履带。类似的东西你可能曾在轻型工程载具上见过。由于没有爆胎的风险，它显然比普通轮胎坚固，但是却相当重。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "Steel Caterpillar Track"
+msgid_plural "Steel Caterpillar Tracks"
+msgstr[0] "钢制履带"
+msgstr[1] "钢制履带s"
+
+#. ~ Description of "Steel Caterpillar Track"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on large construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is very heavy."
+msgstr "短履带板环环相扣，安装在一组小型负重轮上的轧制钢履带。类似的东西你可能曾在大型工程载具上见过。由于没有爆胎的风险，它显然比普通轮胎坚固，但是却非常重。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "Reinforced Caterpillar Track"
+msgid_plural "Reinforced Caterpillar Tracks"
+msgstr[0] "加固履带"
+msgstr[1] "加固履带s"
+
+#. ~ Description of "Reinforced Caterpillar Track"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blaze_treads.json
+msgid "A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on APCs and armored vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is extremely heavy."
+msgstr "短履带板环环相扣，安装在一组小型负重轮上的轧制钢履带。类似的东西你可能曾在运兵车和装甲载具上见过。由于没有爆胎的风险，它显然比普通轮胎坚固，但是却超级重。"
+
+#. ~ No Snake, eating it will not refill your batteries.
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_lights.json
+msgid "gelectrode"
+msgid_plural "gelectrodes"
+msgstr[0] "发光变形怪"
+msgstr[1] "发光变形怪s"
+
+#. ~ No Snake, eating it will not refill your batteries.
+#. ~ Description of "gelectrode"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_lights.json
+msgid "A strange biological anomaly, this blob seems capable of emitting light when electricity is provided to it, from small lamps up to headlights.  Unfortunately there is no place to insert a battery, so you'll have to hook it up to a vehicle's power grid.  It seems pliable enough to pull apart…"
+msgstr "这是一种奇怪的生物异常现象，当有电流提供给它时，这只变形怪似乎能够发光，从小灯到车头灯。不幸的是没有地方插入电池，所以你必须把它连接到载具的电网中。它看起来足够柔韧，可以被分开…"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_treads.json
+msgid "Gelatinous track"
+msgid_plural "Gelatinous tracks"
+msgstr[0] "凝胶履带"
+msgstr[1] "凝胶履带s"
+
+#. ~ Description of "Gelatinous track"
+#. ~ Description of "Oozing track"
+#. ~ Description of "Gray track"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_treads.json
+msgid "A short, interlocking set of tracks created out of some of your monstrosity blob based parts.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr "短履带板环环相扣，由巨大而丑陋的变形怪部件制成的履带。类似的东西你可能曾在轻型工程载具上见过。由于没有爆胎的风险，它显然比普通轮胎坚固，但是却相当重。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_treads.json
+msgid "Oozing track"
+msgid_plural "Oozing tracks"
+msgstr[0] "软泥履带"
+msgstr[1] "软泥履带s"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_treads.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_treads.json
+msgid "Gray track"
+msgid_plural "Gray tracks"
+msgstr[0] "灰色履带"
+msgstr[1] "灰色履带s"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_vehicleparts.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gelacier boat hull"
+msgid_plural "gelacier boat hulls"
+msgstr[0] "变形怪冰川船体"
+msgstr[1] "变形怪冰川船体s"
+
+#. ~ Description of "gelacier boat hull"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_vehicleparts.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It has formed itself into a wide boat frame."
+msgstr "一件生物学之谜，这只变形怪的内部结构存在着一滩低密度流体，尽管已经处在过冷状态但仍然保留液体形态；但仍然保持着其之前所具有的柔韧性。冰霜形成的碎片不断从它身上剥落。这只变形怪的形状如同船体一般。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_vehicleparts.json
+msgid "amorphous heart"
+msgid_plural "amorphous hearts"
+msgstr[0] "无定形核心"
+msgstr[1] "无定形核心s"
+
+#. ~ Description of "amorphous heart"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_vehicleparts.json
+msgid "This amorphous mass seems to have finished developing; its advanced internal structures testifying to that.  It is capable of locomotion through internal hydraulic pressure, capable of moving substantial loads, and, in an astounding display of intelligence, is capable of manipulating anything it's attached to, whether blob-based or otherwise, through extended pseudopods.  You think you might be able to manipulate it, and through it, all its attached parts.  Though to do so you'll have to position yourself to be in contact with it; and it appears unnervingly willing to accommodate you…"
+msgstr "这滩无定形物质似乎已经成长完成；其先进的内部结构就能够证明。它能够通过调整体内液压进行移动，同时能够承担大量负载，并且显示出惊人的智力，能够通过伸长的伪足操纵连接着的任何东西，无论是变形怪部件还是其他载具部件。你认为你可能能够控制它，并通过它，控制所有连接的载具部件。然而这需要你和它亲密接触一番；让人更加不安的是，它看起来十分愿意容纳你……"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "gelacier wheel"
+msgid_plural "gelacier wheels"
+msgstr[0] "变形怪冰川车轮"
+msgstr[1] "变形怪冰川车轮s"
+
+#. ~ Description of "gelacier wheel"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It has formed itself into a wide, crude wheel."
+msgstr "一件生物学之谜，这只变形怪的内部结构存在着一滩低密度流体，尽管已经处在过冷状态但仍然保留液体形态；但仍然保持着其之前所具有的柔韧性。冰霜形成的碎片不断从它身上剥落。这只变形怪的形状如同天然车轮一般。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "gelatinous wheel"
+msgid_plural "gelatinous wheels"
+msgstr[0] "凝胶车轮"
+msgstr[1] "凝胶车轮s"
+
+#. ~ Description of "gelatinous wheel"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "Filling a gelatinous mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr "用水填充凝胶变形怪，结果产生了一些类似轮辐一样的交叉，像是来自异界的畸形体，或者是老的挤压玩具。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "gray wheel"
+msgid_plural "gray wheels"
+msgstr[0] "灰色车轮"
+msgstr[1] "灰色车轮s"
+
+#. ~ Description of "gray wheel"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "Filling a gray mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr "用水填充灰色变形怪，结果产生了一些类似轮辐一样的交叉，像是来自异界的畸形体，或者是老的挤压玩具。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "earthen roller"
+msgid_plural "earthen rollers"
+msgstr[0] "变形怪压路机"
+msgstr[1] "变形怪压路机s"
+
+#. ~ Description of "earthen roller"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "A large, spherical blob the size of a large truck tire.  The outer layer has compacted itself into a solid shell; offering great resilience.  Having grown to full size, it seems content to simply sit there."
+msgstr "一只体型有着大型卡车轮胎大小的大型球形变形怪。外层已经被压实成为坚硬的甲壳状，但同时依旧很有弹性。现在它已经生长至完全体大小，它看起来很安静，就只是坐着。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "oozing wheel"
+msgid_plural "oozing wheels"
+msgstr[0] "软泥车轮"
+msgstr[1] "软泥车轮s"
+
+#. ~ Description of "oozing wheel"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\blob_wheel.json
+msgid "Filling an oozing mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys."
+msgstr "用水填充软泥变形怪，结果产生了一些类似轮辐一样的交叉，像是来自异界的畸形体，或者是老的挤压玩具。"
+
+#. ~ Sempai can't resist me now!
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\diamond_vehicleparts.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "diamond frame"
+msgid_plural "diamond frames"
+msgstr[0] "钻石车架"
+msgstr[1] "钻石车架s"
+
+#. ~ Sempai can't resist me now!
+#. ~ Description of "diamond frame"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\diamond_vehicleparts.json
+msgid "A brilliantly sparkling diamond vehicle frame.  Incredibly strong for its weight."
+msgstr "一个闪闪发光的钻石车架。以它的重量来说令人难以置信的坚固。"
+
+#. ~ Item name
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\diamond_vehicleparts.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "diamond plating"
+msgid_plural "diamond platings"
+msgstr[0] "钻石装甲板"
+msgstr[1] "钻石装甲板s"
+
+#. ~ Description of "diamond plating"
+#: d:\cdda\catap\kenan\main\blazemod\items\vehicle\diamond_vehicleparts.json
+msgid "A piece of armor plating made of clear diamond.  Incredibly strong for its weight."
+msgstr "一块由透明的钻石制成的装甲板。以它的重量来说令人难以置信的坚固。"
+
+#. ~ Speech from speaker mon_gloople
+#. ~ Speech from speaker mon_oozle
+#. ~ Speech from speaker mon_gray
+#: d:\cdda\catap\kenan\main\blazemod\monsters\blob_monster.json
+msgid "\"SQUEE!\""
+msgstr "\"SQUEE!\""
+
+#. ~ Description of monster "gelatinous mass"
+#. ~ Description of monster "gray mass"
+#: d:\cdda\catap\kenan\main\blazemod\monsters\blob_monster.json
+msgid "An escaping noisy blob, catch it before it brings in every zombie for miles!"
+msgstr "一个正在逃跑的吵闹的变形怪，在它引过来方圆好几里内的所有丧尸之前赶紧抓住它！"
+
+#. ~ Death message of monster "gelatinous mass"
+#. ~ Death message of monster "gray mass"
+#: d:\cdda\catap\kenan\main\blazemod\monsters\blob_monster.json
+#, c-format
+msgid "The %s melts away."
+msgstr "%s 融化了。"
+
+#. ~ Description of vehicle part ""
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_combustion.json
+msgid "A closed cycle, external combustion steam turbine.  Burns coal from a bunker in the vehicle to produce steam."
+msgstr "一个闭环外燃蒸汽涡轮机。燃烧消耗载具燃料舱内的木炭并产生蒸汽。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted slingshot cannon"
+msgstr "车载 弹射加农炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted lacerator"
+msgstr "车载 圆盘加速器"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted rotary cannon"
+msgstr "车载 转轮式加农炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted laser cannon"
+msgstr "车载激光炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted pulse laser"
+msgstr "车载 脉冲激光炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted turbolaser"
+msgstr "车载 高能激光炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted ripper"
+msgstr "车载 撕裂者"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted scorpion ballista"
+msgstr "车载 毒蝎型弩炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted speargun"
+msgstr "车载 矛枪"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted heavy rail rifle"
+msgstr "车载重型轨道步枪"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted ferromagnetic rail rifle"
+msgstr "车载电磁轨道步枪"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted coilgun"
+msgstr "车载自制线圈枪"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_custom_turret.json
+msgid "mounted tesla cannon"
+msgstr "车载 特斯拉加农炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "cargo shelving"
+msgstr "载具架"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "wiring"
+msgstr "电线"
+
+#. ~ Description of vehicle part "wiring"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A length of heavy duty copper wire, useful for routing power from one part of a vehicle to another part."
+msgstr "一条重型铜制电缆的一段，可以在载具不同部件间传输电力。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "pocket dimension cargo"
+msgstr "次元货仓"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "refrigerator"
+msgstr "冰箱"
+
+#. ~ Description of vehicle part "refrigerator"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A medium-sized household refrigerator, converted to utilize vehicle power.  When turned on, food inside will be cooled, extending the time it has before spoiling."
+msgstr "一台中型家用冰箱，经过改装，由车载电源供电。开启后，存放在里面的食物会被冷却，延长保质期。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "freezer"
+msgstr "冰柜"
+
+#. ~ Description of vehicle part "freezer"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A household fridge, converted to run at a much lower temperature and on vehicle power.  When turned on, food inside will be frozen, completely stopping it from spoiling."
+msgstr "一台家用冰箱，经过改装能够以更低温度运行，由车载电源供电。开启后，存放在里面的食物会被冷冻，完全阻止食物变质。"
+
+#. ~ Description of vehicle part "MetalMaster forge buddy"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "A welding and metalworking station, powered by the vehicle's battery.  'e'xamine the forge rig to utilize its welder or soldering iron; you'll still need glare protection."
+msgstr "一套焊接台和金属锻造台，由车载电源供电。按\"E\"可焊接或使用电烙铁，但你仍然需要防眩光保护。"
+
+#. ~ Description of vehicle part "cooking rig"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "An all-in-one kitchen unit and chemistry lab.  'e'xamine it to use its hotplate to heat up food or drinks."
+msgstr "一个一体化厨房和化学实验室，按\"E\"可使用电炉加热食物或饮料。"
+
+#. ~ Description of vehicle part "KitchenMaster cooking buddy"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_other_parts.json
+msgid "An all-in-one kitchen unit, chemistry lab, and food preparation area.  'e'xamine it to use its hotplate to heat up food or drinks."
+msgstr "一个一体化厨房和化学实验室以及食物准备区，按\"E\"可使用电炉加热食物或饮料。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_treads.json
+msgid "rubber treads"
+msgstr "橡胶履带"
+
+#. ~ Description of vehicle part "rubber treads"
+#. ~ Description of vehicle part "steel treads"
+#. ~ Description of vehicle part "tank treads"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_treads.json
+msgid "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight."
+msgstr "一条连续履带中的一段，安装在工程载具或是军用载具上的那种。它能够充当车轮，宽阔的接触面让它为重型载具提供更好的越野性能，但是因其重量和增加的阻力会降低载具速度。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_treads.json
+msgid "steel treads"
+msgstr "钢履带"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_treads.json
+msgid "tank treads"
+msgstr "坦克履带"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "TDI Vector turret"
+msgstr "TDI 维克托冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "storm bolter turret"
+msgstr "暴雨箭炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "slingshot cannon turret"
+msgstr "弹弓炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "mounted m4 turret"
+msgstr "车载 m4炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rotary cannon turret"
+msgstr "转轮式加农炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AK47 turret"
+msgstr "AK47 炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AK74 turret"
+msgstr "AK74 炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "laser cannon turret"
+msgstr "激光炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "pulse laser turret"
+msgstr "脉冲激光炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "turbolaser turret"
+msgstr "高能激光炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "American-180 turret"
+msgstr "American-180 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "perforator turret"
+msgstr "大型穿孔机炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "needler turret"
+msgstr "刺针枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "AR-15 turret"
+msgstr "AR-15 炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "hypervelocity driver turret"
+msgstr "电磁轨道炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "ripper turret"
+msgstr "撕裂者炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "scorpion turret"
+msgstr "毒蝎型 弩机炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "splintergun turret"
+msgstr "破片弹幕炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "tesla turret"
+msgstr "磁暴线圈炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "avalanche turret"
+msgstr "雪崩炮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "autoshotgun turret"
+msgstr "RM20 自动霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "blunderbuss turret"
+msgstr "火铳炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Browning BLR turret"
+msgstr "勃朗宁BLR 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Calico M960 turret"
+msgstr "卡利科M960 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock carbine turret"
+msgstr "燧发卡宾枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "coilgun turret"
+msgstr "自制线圈枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "lacerator turret"
+msgstr "圆盘加速器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Cx4 Storm turret"
+msgstr "Cx4暴风 卡宾枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flamethrower turret"
+msgstr "火焰喷射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM451 flamethrower turret"
+msgstr "RM451 火焰喷射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN FAL turret"
+msgstr "FN FAL 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN P90 turret"
+msgstr "FN P90 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "heavy rail rifle turret"
+msgstr "重型轨道步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G3 turret"
+msgstr "H&K G3 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G36 turret"
+msgstr "H&K G36 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G80 turret"
+msgstr "H&K G80 磁轨枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP5 turret"
+msgstr "H&K MP5 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP7 turret"
+msgstr "H&K MP7 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "H&K UMP45 turret"
+msgstr "H&K UMP45 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Kel-Tec KSG turret"
+msgstr "Kel-Tec KSG 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Tavor TS12 turret"
+msgstr "塔沃尔 TS12 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "40mm launcher turret"
+msgstr "40mm 榴弹发射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M1014 shotgun turret"
+msgstr "M1014 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Barrett M107A1 turret"
+msgstr "巴雷特 M107A1 炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M14-EBR turret"
+msgstr "M14 EBR-RI 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M1A turret"
+msgstr "M1A 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M2010 ESR turret"
+msgstr "M2010 ESR 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".50 caliber turret"
+msgstr ".50口径 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M320 turret"
+msgstr "M320榴弹发射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M60 turret"
+msgstr "M60 机枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "M79 turret"
+msgstr "M79 榴弹发射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "MAC-10 turret"
+msgstr "MAC-10 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Marlin 39A turret"
+msgstr "马林 39A 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Milkor MGL turret"
+msgstr "Milkor MGL 榴弹发射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Mossberg 500 turret"
+msgstr "莫斯伯格500型 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "nail rifle turret"
+msgstr "射钉步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM216 SPIW turret"
+msgstr "RM216 SPIW 卡宾枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "double pipe shotgun turret"
+msgstr "自制双管 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "pipe shotgun turret"
+msgstr "自制 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rail rifle turret"
+msgstr "轨道步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 700 turret"
+msgstr "雷明顿700 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 870 turret"
+msgstr "雷明顿870 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "repeating crossbow turret"
+msgstr "连弩炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "revolver shotgun turret"
+msgstr "LeMat 霰弹左轮炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".22 pipe rifle turret"
+msgstr "自制钢管步枪（.22口径）炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid ".308 pipe rifle turret"
+msgstr "自制钢管步枪（.308口径）炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "9x19mm pipe rifle turret"
+msgstr "自制钢管步枪（9x19mm口径）炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock rifle turret"
+msgstr "燧发步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM11B scout rifle turret"
+msgstr "RM11B 侦察步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM2000 SMG turret"
+msgstr "RM2000 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM51 assault rifle turret"
+msgstr "RM51 突击步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM614 LMG turret"
+msgstr "RM614 轻机枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM802 turret"
+msgstr "RM802 榴弹发射器炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "RM88 battle rifle turret"
+msgstr "RM88 战斗步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "rotary speargun turret"
+msgstr "转轮式矛枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger 10/22 turret"
+msgstr "鲁格 10/22 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger mini-14 turret"
+msgstr "鲁格 Mini-14 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Saiga 12 turret"
+msgstr "Saiga-12 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Savage 111F turret"
+msgstr "萨维奇 111F 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "FN SCAR-H turret"
+msgstr "FN SCAR-H 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "double shotgun turret"
+msgstr "双管 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "single shotgun turret"
+msgstr "单管 霰弹枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "SKS turret"
+msgstr "SKS 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "speargun turret"
+msgstr "矛枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Steyr AUG turret"
+msgstr "斯泰尔 AUG 步枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "223 carbine turret"
+msgstr ".223 卡宾枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "TEC-9 turret"
+msgstr "TEC-9 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "Uzi turret"
+msgstr "Uzi 冲锋枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blaze_weapons_parts.json
+msgid "V29 laser turret"
+msgstr "V29 激光手枪炮塔"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "icy windshield"
+msgstr "变形怪冰川挡风玻璃"
+
+#. ~ Description of vehicle part "icy windshield"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, existing in a super-cooled state.  It is transparent, and can be used to see out of the vehicle."
+msgstr "一只活的处于极寒状态的变形怪变成的载具部件。它全身透明，能够透过它看到车外。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "gel panel"
+msgstr "凝胶侧板"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "gray wall"
+msgstr "灰色墙壁"
+
+#. ~ Description of vehicle part "gray wall"
+#. ~ Description of vehicle part "ooze barrier"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "A living blob, formed into a vehicle wall.  Keeps zombies outside the vehicle and prevents people from seeing through it."
+msgstr "一只活的变形怪变成的隔板。能够阻挡丧尸和其他人的视线。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "gel quarterpanel"
+msgstr "凝胶半隔板"
+
+#. ~ Description of vehicle part "gel quarterpanel"
+#. ~ Description of vehicle part "gray barricade"
+#. ~ Description of vehicle part "ooze screen"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "A living blob, formed into a half-height vehicle wall.  Keeps zombies outside the vehicle but allows people to see over it."
+msgstr "一只活的变形怪变成的半高隔板。能够阻挡丧尸但是无法阻挡其他人的视线。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "gray barricade"
+msgstr "灰色路障"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "ooze screen"
+msgstr "软泥屏风"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_boards.json
+msgid "ooze barrier"
+msgstr "软泥屏障"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_frames.json
+msgid "gel framework"
+msgstr "凝胶车架"
+
+#. ~ Description of vehicle part "gel framework"
+#. ~ Description of vehicle part "gray frame"
+#. ~ Description of vehicle part "ooze chassis"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_frames.json
+msgid "A living blob, shaped to provide attachment points for other blobs.  Other vehicle components and blobs can be mounted on it.  If all the frames and components of a vehicle are foldable or made from blobs, the vehicle can be folding into a small package and picked up as a normal item."
+msgstr "一只活的变形怪变成车辆框架，其他变形怪和载具部件能够安装在它上面。如果构成载具的所有框架和部件都可折叠（变形怪可以），那么这辆载具能够被打包折叠并可像普通物品一样被拾取带走。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_frames.json
+msgid "gray frame"
+msgstr "灰色车架"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_frames.json
+msgid "ooze chassis"
+msgstr "软泥底盘"
+
+#. ~ Description of vehicle part ""
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "A living, glowing blob.  Having been filled with electrical power, can release it as light of varying strength."
+msgstr "一只活的发光的变形怪。充满了电能，可以释放出不同强度的光。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "gel aisle lights"
+msgstr "凝胶过道灯"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "gel floodlight"
+msgstr "凝胶泛光灯"
+
+#. ~ Description of vehicle part "gel floodlight"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "A very bright, circular light that illuminates the area outside the vehicle when turned on."
+msgstr "一盏十分明亮的泛光灯，开启时照亮车外大片圆形区域。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "gel directed floodlight"
+msgstr "凝胶定向泛光灯"
+
+#. ~ Description of vehicle part "gel directed floodlight"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "A very bright, directed light that illuminates a half-circular area outside the vehicle when turned on.  During installation, you can choose what direction to point the light."
+msgstr "一盏十分明亮的定向泛光灯，开启时照亮车外大片半圆形区域。安装时可以选择车灯的方向。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "gel headlight"
+msgstr "凝胶车头灯"
+
+#. ~ Description of vehicle part "gel headlight"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "A bright light that illuminates a narrow cone outside the vehicle when turned on.  During installation, you can choose what direction to point the light, so multiple headlights can illuminate the sides or rear, as well as the front."
+msgstr "一盏明亮的探照灯，开启时照亮车外一片锥形区域。安装时可以选择车灯方向，多盏方向不同的车灯能照亮载具四周。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "gel wide angle headlight"
+msgstr "凝胶广角车头灯"
+
+#. ~ Description of vehicle part "gel wide angle headlight"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_lights.json
+msgid "A bright light that illuminates a wide cone outside the vehicle when turned on.  During installation, you can choose what direction to point the light, so multiple headlights can illuminate the sides or rear, as well as the front."
+msgstr "一盏明亮的探照灯，开启时照亮车外一片广角锥形区域。安装时可以选择车灯方向，多盏方向不同的车灯能照亮载具四周。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_rams.json
+msgid "ice ram"
+msgstr "变形怪冰冻撞锤"
+
+#. ~ Description of vehicle part "ice ram"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_rams.json
+msgid "A living blob, existing in a super-cooled state.  It will absorb damage in a vehicle collision and deliver additional damage to the other object in the collision.  It should be mounted on the edge of the vehicle, preferably the front."
+msgstr "一只活的处于极寒状态的变形怪变成的载具部件。会大大提升载具碰撞时所造成的伤害。安装在车辆外侧，最好是正前方。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_treads.json
+msgid "Gelatinous tracks"
+msgstr "凝胶履带"
+
+#. ~ Description of vehicle part "Gelatinous tracks"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_treads.json
+msgid "A set of continuous, interlocking tracks made out of blob.  They can be used in place of wheels, and provide good traction and off-road performance."
+msgstr "一条由变形怪环环相扣而成的履带。它可以替代轮胎，提供了更好抓地和越野性能。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_treads.json
+msgid "Oozing tracks"
+msgstr "软泥履带"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "inert core"
+msgstr "无活性核心"
+
+#. ~ Description of vehicle part "inert core"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "A sleeping amorphous core, acting as a rotating, universal mount for a weapon.  If your hands are empty, you can stand next to a tentacle and 'f'ire the weapon by selecting the tile."
+msgstr "一个休眠中的变形怪无定形核心，能够作为自由旋转的通用武器炮塔底座使用。你空着双手紧挨着核心时，按射击键操作它上面所安装的武器开火。"
+
+#. ~ Description of vehicle part ""
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "A living blob turned into a heavy vehicle weapon."
+msgstr "一只活的变形怪变成的重型车载武器。"
+
+#. ~ Description of vehicle part "frost lancer"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_turret.json
+msgid "A living blob, existing in a super-cooled state and transformed into a heavy vehicle weapon."
+msgstr "一只活的处于极寒状态的变形怪变成的重型车载武器。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ice pack"
+msgstr "变形怪冷藏箱"
+
+#. ~ Description of vehicle part "ice pack"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, existing in a super-cooled state.  It will keep items stored in it cold, reducing the speed at which food and drink rots."
+msgstr "一只活的处于极寒状态的变形怪变成的载具部件。它会让存放在体内的物品保持冰凉状态，降低食物腐败速度。"
+
+#. ~ Description of vehicle part "gelacier boat hull"
+#. ~ Description of vehicle part "icy sea skimmer"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob, existing in a super-cooled state.  It acts as a boat hull."
+msgstr "一只活的处于极寒状态的变形怪变成的船壳。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel retriever"
+msgstr "凝胶车铲"
+
+#. ~ Description of vehicle part "gel retriever"
+#. ~ Description of vehicle part "gray retriever"
+#. ~ Description of vehicle part "ooze retriever"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed to act as a scoop.  Use the vehicle controls to turn it on or off.  When turned on, it will scoop up any loose items that it travels over, putting them into the vehicle's storage."
+msgstr "一只活的变形怪变成的车铲。在载具控制菜单中控制开关。开启时，将其所经过位置的散落物品收集进货舱内。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel harness"
+msgstr "凝胶安全带"
+
+#. ~ Description of vehicle part "gel harness"
+#. ~ Description of vehicle part "gray harness"
+#. ~ Description of vehicle part "ooze harness"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, reformed as a belt and attached to a seat."
+msgstr "一只活的变形怪变成的安全带。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "capsule (10L)"
+msgstr "变形怪油箱（10升）"
+
+#. ~ Description of vehicle part "capsule (10L)"
+#. ~ Description of vehicle part "cocoon (30L)"
+#. ~ Description of vehicle part "pod (20L)"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a storage space for holding liquids.  If filled with the appropriate fuel for the vehicle's engine, the engine will automatically draw fuel from the tank when the engine is on.  If filled with water, you can access the water from a water faucet, if one is installed in the vehicle.  You can also use a rubber hose to siphon liquids out of a tank."
+msgstr "一只活的变形怪变成的水箱。装入车辆引擎所对应消耗的燃料后，引擎启动时将会自动从对应的水箱内抽取燃料。装入水或其他液体后，可以在车辆水龙头处获取对应液体。你也可以使用一根橡胶软管从水箱中抽取液体。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel tank (60L)"
+msgstr "凝胶油箱（60升）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel reinforcement"
+msgstr "凝胶装甲板"
+
+#. ~ Description of vehicle part "gel reinforcement"
+#. ~ Description of vehicle part "gray reinforcement"
+#. ~ Description of vehicle part "ooze reinforcement"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as armor plate."
+msgstr "一只活的变形怪变成的装甲板。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel roof"
+msgstr "凝胶车顶盖"
+
+#. ~ Description of vehicle part "gel roof"
+#. ~ Description of vehicle part "gray roof"
+#. ~ Description of vehicle part "ooze roof"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, placed as roof."
+msgstr "一只活的变形怪变成的车顶。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel seat"
+msgstr "凝胶座椅"
+
+#. ~ Description of vehicle part "gel seat"
+#. ~ Description of vehicle part "gray seat"
+#. ~ Description of vehicle part "ooze seat"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a comfy couch.  You can sit here."
+msgstr "一只活的变形怪变成的座椅。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel receptacle"
+msgstr "凝胶容器"
+
+#. ~ Description of vehicle part "gel receptacle"
+#. ~ Description of vehicle part "gray receptacle"
+#. ~ Description of vehicle part "ooze receptacle"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, shaped into a cargo space."
+msgstr "一只活的变形怪变成的货舱。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel pouch (under)"
+msgstr "凝胶储存箱（车底）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel walkway"
+msgstr "凝胶过道"
+
+#. ~ Description of vehicle part "gel walkway"
+#. ~ Description of vehicle part "gray walkway"
+#. ~ Description of vehicle part "ooze walkway"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, formed into a walkway."
+msgstr "一只活的变形怪变成的过道。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gel hatch"
+msgstr "凝胶舱门"
+
+#. ~ Description of vehicle part "gel hatch"
+#. ~ Description of vehicle part "gray hatch"
+#. ~ Description of vehicle part "ooze hatch"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as a door.  Has a transparent patch so you can see out of it, even when closed."
+msgstr "一只活的变形怪变成的车门。即使关上门你也可以透过其上的薄膜来观察。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque gel hatch"
+msgstr "不透明凝胶舱门"
+
+#. ~ Description of vehicle part "opaque gel hatch"
+#. ~ Description of vehicle part "opaque gray hatch"
+#. ~ Description of vehicle part "opaque ooze hatch"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "A living blob, acting as a door.  Entirely opaque so you can't see through it when closed."
+msgstr "一只活的变形怪变成的车门。它是实心的，所以关上门时你不能透过它来观察。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray retriever"
+msgstr "灰色车铲"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray harness"
+msgstr "灰色安全带"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "cocoon (30L)"
+msgstr "茧形油箱（30升）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray tank (100L)"
+msgstr "灰色油箱（100升）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray reinforcement"
+msgstr "灰色加强件"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray roof"
+msgstr "灰色车顶盖"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray seat"
+msgstr "灰色座椅"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray receptacle"
+msgstr "灰色容器"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray pouch (under)"
+msgstr "灰色储存箱（车底）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray walkway"
+msgstr "灰色过道"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "gray hatch"
+msgstr "灰色舱门"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque gray hatch"
+msgstr "不透明灰色舱门"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze retriever"
+msgstr "软泥车铲"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze harness"
+msgstr "软泥安全带"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "pod (20L)"
+msgstr "变形怪油箱（20升）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze tank (80L)"
+msgstr "软泥油箱（80升）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze reinforcement"
+msgstr "软泥加强件"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze roof"
+msgstr "软泥车顶盖"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze seat"
+msgstr "软泥座椅"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze receptacle"
+msgstr "软泥容器"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze pouch (under)"
+msgstr "软泥储存箱（车底）"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze walkway"
+msgstr "软泥过道"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "ooze hatch"
+msgstr "软泥舱门"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "opaque ooze hatch"
+msgstr "不透明软泥舱门"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "amorphous core"
+msgstr "无定形核心"
+
+#. ~ Description of vehicle part "amorphous core"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_vehicleparts.json
+msgid "An amorphous mass, the living heart and brain of a blob vehicle."
+msgstr "一坨形状不定的物质，变形怪载具的活着的心脏和大脑。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "snow slider"
+msgstr "变形怪冰川滑板"
+
+#. ~ Description of vehicle part "snow slider"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob, existing in a super-cooled state.  It acts as a wheel."
+msgstr "一只活的处于极寒状态的变形怪变成的车轮。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "icy sea skimmer"
+msgstr "变形怪冰川冲浪板"
+
+#. ~ Description of vehicle part "gelatinous wheel"
+#. ~ Description of vehicle part "gray wheel"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\blob_wheel.json
+msgid "A living blob.  It acts as a wheel."
+msgstr "一只活的变形怪变成的车轮。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "diamond barrier"
+msgstr "钻石屏障"
+
+#. ~ Description of vehicle part "diamond barrier"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "A transparent, solid sheet of self-sustaining crystals."
+msgstr "一片透明而坚固的可再生的钻石结晶隔板。"
+
+#. ~ Description of vehicle part "diamond frame"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "A framework of super-strong crystal.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size."
+msgstr "一个特别坚固的钻石结晶车辆框架。其他载具部件能够安装在它上面，在它四周增加新的车辆框架，就可以增加车辆大小。"
+
+#. ~ Description of vehicle part "diamond plating"
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\diamond_parts.json
+msgid "Transparent crystal armor plate.  Will partially protect other components on the same frame from damage."
+msgstr "一块透明的钻石结晶装甲板。能够部分保护安装在此处车架的其他部件免受伤害。"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex accelerator"
+msgstr "车载 涡漩加速器"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex bolter"
+msgstr "车载 涡漩箭发射器"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex cannon"
+msgstr "车载 漩涡空气炮"
+
+#. ~ Vehicle part name
+#: d:\cdda\catap\kenan\main\blazemod\vehicleparts\vortex_turret.json
+msgid "mounted vortex rifle"
+msgstr "车载 涡漩步枪"
+

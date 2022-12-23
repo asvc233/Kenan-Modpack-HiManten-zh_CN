@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2022-12-23 01:41-0600\n"
+"PO-Revision-Date: 2022-12-23 01:41-0600\n"
+"Last-Translator: None\n"
+"Language-Team: None\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Valid mod location of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "accessories"
+msgstr "配件"
+
+#. ~ Valid mod location of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "sights"
+msgstr "瞄具"
+
+#. ~ Valid mod location of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "underbarrel"
+msgstr "管下"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "short bow"
+msgid_plural "short bows"
+msgstr[0] "短弓"
+msgstr[1] "短弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "longbow"
+msgid_plural "longbows"
+msgstr[0] "长弓"
+msgstr[1] "长弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound greatbow"
+msgid_plural "compound greatbows"
+msgstr[0] "复合巨弓"
+msgstr[1] "复合巨弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "bullet crossbow"
+msgid_plural "bullet crossbows"
+msgstr[0] "弹矢弩"
+msgstr[1] "弹矢弩s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "pistol crossbow"
+msgid_plural "pistol crossbows"
+msgstr[0] "手弩"
+msgstr[1] "手弩s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "composite crossbow"
+msgid_plural "composite crossbows"
+msgstr[0] "复合弩"
+msgstr[1] "复合弩s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "compound crossbow"
+msgid_plural "compound crossbows"
+msgstr[0] "合成弩"
+msgstr[1] "合成弩s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "heavy crossbow"
+msgid_plural "heavy crossbows"
+msgstr[0] "重弩"
+msgstr[1] "重弩s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "repeating crossbow"
+msgid_plural "repeating crossbows"
+msgstr[0] "连弩"
+msgstr[1] "连弩s"
+
+#. ~ MOD name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\modinfo.json
+msgid "Make bows great again"
+msgstr "让弓弩再次伟大"
+
+#. ~ Description of MOD "Make bows great again"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\modinfo.json
+msgid "Rebalances vanilla bows and crossbows and makes them strong again like in pre-nerf times."
+msgstr "回调了原版的弓和弩，在现有数据框架下比平衡前更为强力。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "crude wooden arrow"
+msgid_plural "crude wooden arrows"
+msgstr[0] "粗木箭"
+msgstr[1] "粗木箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "wooden bodkin arrow"
+msgid_plural "wooden bodkin arrows"
+msgstr[0] "木制锥头箭"
+msgstr[1] "木制锥头箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "wooden broadhead arrow"
+msgid_plural "wooden broadhead arrows"
+msgstr[0] "木制宽刃箭"
+msgstr[1] "木制宽刃箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "simple wooden arrow"
+msgid_plural "simple wooden arrows"
+msgstr[0] "简易木箭"
+msgstr[1] "简易木箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "wooden small game arrow"
+msgid_plural "wooden small game arrows"
+msgstr[0] "木制狩猎小箭"
+msgstr[1] "木制狩猎小箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "makeshift wooden arrow"
+msgid_plural "makeshift wooden arrows"
+msgstr[0] "自制木箭"
+msgstr[1] "自制木箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "simple metal arrow"
+msgid_plural "simple metal arrows"
+msgstr[0] "简易金属箭"
+msgstr[1] "简易金属箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "aluminum broadhead arrow"
+msgid_plural "aluminum broadhead arrows"
+msgstr[0] "铝制宽刃箭"
+msgstr[1] "铝制宽刃箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "aluminum field point arrow"
+msgid_plural "aluminum field point arrows"
+msgstr[0] "铝制锥头箭"
+msgstr[1] "铝制锥头箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "aluminum small game arrow"
+msgid_plural "aluminum small game arrows"
+msgstr[0] "铝制狩猎小箭"
+msgstr[1] "铝制狩猎小箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "carbon fiber hunting arrow"
+msgid_plural "carbon fiber hunting arrows"
+msgstr[0] "碳素狩猎箭"
+msgstr[1] "碳素狩猎箭s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "flaming arrow"
+msgid_plural "flaming arrows"
+msgstr[0] "燃烧箭"
+msgstr[1] "燃烧箭s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "self bow"
+msgid_plural "self bows"
+msgstr[0] "简易弓"
+msgstr[1] "简易弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound bow"
+msgid_plural "compound bows"
+msgstr[0] "现代复合弓"
+msgstr[1] "现代复合弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound bow (high)"
+msgid_plural "compound bows (high)"
+msgstr[0] "现代复合弓（高）"
+msgstr[1] "现代复合弓（高）s"
+
+#. ~ Description of gun "compound bow (high)"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "A high-power bow with shaped cams and extra cables for high velocity shots that can be used effectively by very strong archers.  Currently set to a high weight, and ready to cause some real damage - if you can draw it."
+msgstr "一把威力大的弓，带有偏心滑轮组和额外的弓弦，能够射出高速弓箭，需要十分强壮的人才能够有效的使用它。当前滑轮组设置在高力度水平，如果你能拉开它，能对敌人造成不错的伤害。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound bow (low)"
+msgid_plural "compound bows (low)"
+msgstr[0] "现代复合弓（低）"
+msgstr[1] "现代复合弓（低）s"
+
+#. ~ Description of gun "compound bow (low)"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "A high-power bow with shaped cams and extra cables for high velocity shots that can be used effectively by average archers.  Currently set to a low weight, making it much easier to draw."
+msgstr "一把威力大的弓，带有偏心滑轮组和额外的弓弦，能够射出高速弓箭，力量普通的人就能够有效的使用它。当前滑轮组设置在低力度水平，很容易拉开。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "composite bow"
+msgid_plural "composite bows"
+msgstr[0] "复合弓"
+msgstr[1] "复合弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "recurve bow"
+msgid_plural "recurve bows"
+msgstr[0] "现代反曲弓"
+msgstr[1] "现代反曲弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "reflex bow"
+msgid_plural "reflex bows"
+msgstr[0] "反曲弓"
+msgstr[1] "反曲弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "hybrid longbow"
+msgid_plural "hybrid longbows"
+msgstr[0] "混合型长弓"
+msgstr[1] "混合型长弓s"
+
+#. ~ Description of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "A modernized, six-foot longbow that curves away from the archer at the tips for increased power.  It can be used effectively by those of somewhat above-average strength.  Designed for archers that appreciate the smoothness of a traditional longbow, but desire the superior power of a modern recurve."
+msgstr "一把六英尺长的现代弓，弓身末端反向弯曲远离射手以增加威力，在较为强壮的人的手上十分好用。这把弓是为那些欣赏传统长弓射击流畅度却又渴望现代反曲弓的射击威力的射手们设计的。"
+
+#. ~ Valid mod location of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "stabilizer"
+msgstr "稳定器"
+
+#. ~ Valid mod location of gun "hybrid longbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "dampening"
+msgstr "降噪"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "wooden greatbow"
+msgid_plural "wooden greatbows"
+msgstr[0] "木制巨弓"
+msgstr[1] "木制巨弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "reflex recurve bow"
+msgid_plural "reflex recurve bows"
+msgstr[0] "硬反曲弓"
+msgstr[1] "硬反曲弓s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound greatbow (high)"
+msgid_plural "compound greatbows (high)"
+msgstr[0] "复合巨弓（高）"
+msgstr[1] "复合巨弓（高）s"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Archery_override.json
+msgid "compound greatbow (low)"
+msgid_plural "compound greatbows (low)"
+msgstr[0] "复合巨弓（低）"
+msgstr[1] "复合巨弓（低）s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "crude wooden bolt"
+msgid_plural "crude wooden bolts"
+msgstr[0] "粗木弩矢"
+msgstr[1] "粗木弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "simple wooden bolt"
+msgid_plural "simple wooden bolts"
+msgstr[0] "简易木弩矢"
+msgstr[1] "简易木弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "makeshift wooden bolt"
+msgid_plural "makeshift wooden bolts"
+msgstr[0] "自制木制弩矢"
+msgstr[1] "自制木制弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "wooden broadhead bolt"
+msgid_plural "wooden broadhead bolts"
+msgstr[0] "木制宽刃弩矢"
+msgstr[1] "木制宽刃弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "wooden bodkin bolt"
+msgid_plural "wooden bodkin bolts"
+msgstr[0] "木制锥头弩矢"
+msgstr[1] "木制锥头弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "simple metal bolt"
+msgid_plural "simple metal bolts"
+msgstr[0] "简易金属弩矢"
+msgstr[1] "简易金属弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "aluminum broadhead bolt"
+msgid_plural "aluminum broadhead bolts"
+msgstr[0] "铝制宽刃弩矢"
+msgstr[1] "铝制宽刃弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "aluminum field point bolt"
+msgid_plural "aluminum field point bolts"
+msgstr[0] "铝制锥头弩矢"
+msgstr[1] "铝制锥头弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "aluminum small game bolt"
+msgid_plural "aluminum small game bolts"
+msgstr[0] "铝制狩猎小弩矢"
+msgstr[1] "铝制狩猎小弩矢s"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "carbon fiber hunting bolt"
+msgid_plural "carbon fiber hunting bolts"
+msgstr[0] "碳素狩猎弩矢"
+msgstr[1] "碳素狩猎弩矢s"
+
+#. ~ Description of gun "pistol crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A small concealable pistol-like crossbow.  It's weak due to its small size and draw, so it is best suited for hunting small game.  Bolts fired from this weapon have a good chance of remaining intact for re-use."
+msgstr "一个小巧的单手弩。由于其体型小，故威力及拉力均不高，不过相当适用于猎杀小动物。手弩射出的弩矢不易损坏，有很高的几率回收。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "crossbow"
+msgid_plural "crossbows"
+msgstr[0] "弩"
+msgstr[1] "弩s"
+
+#. ~ Description of gun "crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A slow-loading hand weapon that launches bolts.  Stronger people can reload it much faster.  Bolts fired from this weapon have a good chance of remaining intact for re-use."
+msgstr "一个发射弩矢的武器，也称十字弓，装填缓慢。力量大的人装填较快。用它射出去的弩矢比较不容易坏。"
+
+#. ~ Description of gun "composite crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A slightly larger, more powerful crossbow utilizing composite material limbs and somewhat more modern design practices."
+msgstr "一把体型稍大威力也较大的十字弩，采用复合材料制成的弓身以及使用了较为现代的外观设计。"
+
+#. ~ Description of gun "compound crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A high-power crossbow with shaped cams and extra cables for high-power shots.  Takes less time to reload due to a modern string-pulling system."
+msgstr "一把威力大的十字弩，带有偏心滑轮组和额外的弓弦，能够射出高速弓箭。由于采用现代上弦装置，装填所费时间更短。"
+
+#. ~ Description of gun "heavy crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A HUGE medieval crossbow from Germany with a very slow, difficult reloading process not suited for unskilled users.  Its tension is so powerful that you feel it shake after firing.  Bolts fired from this weapon have a good chance of remaining intact for re-use."
+msgstr "一张巨大的、来自德国的中世纪弩。它的张力是如此之大，在它发射之后你能感受到它还在抖动。它的装填过程非常缓慢而且十分困难，特别是对于不熟练的使用者来说。发射出去的弩矢有很高的机会可以回收使用。"
+
+#. ~ Description of gun "repeating crossbow"
+#: d:\cdda\catap\kenan\main\Make_Bows_Great_Again\Items\Crossbows_override.json
+msgid "A custom-made crossbow with a clever mechanism that loads and fires bolts in a single motion, it has a wooden magazine that holds 40 bolts.  Bolts fired from this weapon have a good chance of remaining intact for re-use."
+msgstr "一把特制的弩，上面有一个巧妙的机关，可以一次装填并发射弹药，它有一个木制的弹匣，可以容纳40发弹药。射击后有较高概率可以保持弩矢完好。"
+

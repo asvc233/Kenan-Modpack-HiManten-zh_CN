@@ -1,0 +1,1924 @@
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "carrion portal"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "vector portal"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "starlight"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "vector haze"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick vector haze"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "vector seeds"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "acidic gas"
+msgstr ""
+
+#. ~ Message in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "Your skin burns from acid!"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick acidic gas"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "noxious gas"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "disturbance"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "resonant voice"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "this is a bug"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "airlock"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "intense airlock"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "loathful pressence"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "gorepit edge"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "corrupted acid splatter"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "corrupted acid streak"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "pool of corrupted acid"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "neurotoxic gas"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick neurotoxic gas"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "flesh strands"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "flesh webs"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick flesh webs"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "errant stench"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "toxic stench"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "dense toxic stench"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "noxious stench"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "blood acid splatter"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "blood acid streak"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "pool of blood acid"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "energized perimeter"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "fumes"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick fumes"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "black fog"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "thick black fog"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "total darkness"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "errant shadows"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "writhing tentacles"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "cluster of writhing tentacles"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "worm-infested goo"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "puddle of worm-infested goo"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "snatcher tongue"
+msgstr ""
+
+#. ~ Message in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "You've been entangled by a tongue!"
+msgstr ""
+
+#. ~ Field intensity level
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\fields.json
+msgid "rotten stench"
+msgstr ""
+
+#. ~ Bashing sound of terrain "fleshed dirt"
+#. ~ Bashing sound of terrain "fleshed grass"
+#. ~ Bashing sound of terrain "fleshed long grass"
+#. ~ Bashing sound of terrain "fleshed tall grass"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\flesh_ter_furn.json
+msgid "splash"
+msgstr ""
+
+#. ~ Bashing sound of terrain "fleshed shrub"
+#. ~ Bashing sound of furniture "fleshed flower"
+#. ~ Bashing sound of terrain "fleshed picket fence"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\flesh_ter_furn.json
+msgid "splash."
+msgstr ""
+
+#. ~ Bashing failed sound of terrain "fleshed shrub"
+#. ~ Bashing failed sound of furniture "fleshed small boulder"
+#. ~ Bashing failed sound of furniture "fleshed medium boulder"
+#. ~ Bashing failed sound of furniture "fleshed large boulder"
+#. ~ Bashing failed sound of terrain "flesh wall"
+#. ~ Bashing failed sound of terrain "vein wall"
+#. ~ Bashing failed sound of terrain "fleshed downspout"
+#. ~ Bashing failed sound of terrain "railing"
+#. ~ Bashing failed sound of terrain "fleshed picket fence"
+#. ~ Bashing failed sound of terrain "fleshed water dispenser"
+#. ~ Bashing failed sound of terrain "experimental vat"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\flesh_ter_furn.json
+msgid "splat."
+msgstr ""
+
+#. ~ Bashing sound of terrain "vein wall"
+#. ~ Bashing sound of furniture "tendril cluster"
+#. ~ Bashing failed sound of furniture "bony outgrowths"
+#. ~ Bashing sound of furniture "tendril outgrowths"
+#. ~ Bashing sound of furniture "veinbush"
+#. ~ Bashing sound of furniture "gangrenous tumor"
+#. ~ Bashing sound of furniture "flesh core"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\flesh_ter_furn.json
+msgid "splook!"
+msgstr ""
+
+#. ~ Bashing failed sound of terrain "vector shrub"
+#. ~ Bashing failed sound of terrain "young vector tree"
+#. ~ Bashing failed sound of terrain "vector tree"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\ter_furn.json
+msgid "oof!"
+msgstr ""
+
+#. ~ Bashing sound of furniture "floral vector"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Maps\-Essentials\ter_furn.json
+msgid "oof!."
+msgstr ""
+
+#. ~ "no_deactivate_msg" action message of item "SS grenade"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_ammo_zombie.json
+msgid "It's no use!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bashes your leg with its sword!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swordbashed <npcname>'s leg!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordbash your leg, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordbash <npcname>'s leg, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slashes your leg with its sword!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swordslashed <npcname>'s leg!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordslash your leg, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordslash <npcname>'s leg, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bashes you with its sword!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swordbashed <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordbash you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordbash <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slashed you with its sword!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swordslashed <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordslash you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to swordslash <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grasps you widely with its arms!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grasps <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to hug you, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to hug <npcname>, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slams you to the floor with its mouth!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites <npcname> into the ground!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to bite you down, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to bite down <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swings its wide sword on you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swings a sword on <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slashed a sword on you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slashed its sword on <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slammed you with its tendril!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tendril slammed <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slam you, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slam <npcname>, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s stabbed you with its tendril!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tendril stabbed <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to stab you, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to stab <npcname>, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s quickly swings a tendril!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s hits <npcname> with a tendril!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to hurt you with tendril, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to hurt <npcname> with tendril, but fails to penetrate armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grips you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grips <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to grip you, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to grip <npcname>, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grips your head!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s grips <npcname>'s head!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to grip your head, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to grip <npcname>'s head, but fails to take effect!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s charged at you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s charges at <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "The %s charges into you, but you dodge!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s charged into you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s charged at <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s pierces at your %2$s with its tongue!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s pierces <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to stab you afar, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to stab <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s's claw reaches at your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s claws <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to scratch you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to scratch <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s shadowstrikes <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slashes at your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slash you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slash <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites at your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to bite you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to bite <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slams you with its tendril core!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrashes <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slam you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to slam <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swings a tendril at your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s lashes <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to lash at you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to lash <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites as it grasps at you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites as it stumbles onto you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s bites <npcname>, stumbling onto them!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s charges and bites you down into the floor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swings onto your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s swings onto <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s pummels your %2$s, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s pummels <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrusts into your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrusts into <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrusts at your %2$s, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrusts at <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slams at <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slams into your %2$s, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s slams at <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s thrusts a tentacle at your %2$s!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s pierces through <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to pierce you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to pierce <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s crushes <npcname>!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to crush you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to crush <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s's tentacles thrash at you!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to thrash at you, but fails to penetrate your armor!"
+msgstr ""
+
+#. ~ Monster attack message
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_attacks.json
+#, c-format
+msgid "%1$s tries to thrash <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_dialogue.json
+msgid "The flesh weaver injects you with a numbing substance!"
+msgstr ""
+
+#. ~ Firing mode of gun "squirting bulb"
+#. ~ Firing mode of gun "shapeshifter's shadows"
+#. ~ Firing mode of gun "fleshknot tentacle cluster"
+#. ~ Firing mode of gun "fleshknot tentacle"
+#. ~ Firing mode of gun "grubby zombie's mouth"
+#. ~ Firing mode of gun "grubby zombie's bloated mouth"
+#. ~ Firing mode of gun "writhing horror's tentacle"
+#. ~ Firing mode of gun "sinister maw's mouth"
+#. ~ Firing mode of gun "corrupted devourer's mouth"
+#. ~ Firing mode of gun "flesilisk's bone needles (shower)"
+#. ~ Firing mode of gun "equinox' hole"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_gun_zombie.json
+msgid "near"
+msgstr ""
+
+#. ~ Firing mode of gun "squirting bulb"
+#. ~ Firing mode of gun "shapeshifter's shadows"
+#. ~ Firing mode of gun "fleshknot tentacle cluster"
+#. ~ Firing mode of gun "fleshknot tentacle"
+#. ~ Firing mode of gun "grubby zombie's mouth"
+#. ~ Firing mode of gun "grubby zombie's bloated mouth"
+#. ~ Firing mode of gun "writhing horror's tentacle"
+#. ~ Firing mode of gun "sinister maw's mouth"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_gun_zombie.json
+msgid "mid"
+msgstr ""
+
+#. ~ Firing mode of gun "squirting bulb"
+#. ~ Firing mode of gun "shapeshifter's shadows"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_gun_zombie.json
+msgid "far"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The tendril zombie's movement became erratic!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "You resist the snatcher zombie's tongue!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The snatcher zombie constricted you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "Blood accumulates around you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A tentacle bursts out of the ground!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A barrage of tentacles tried to grasp at you, but you dodge!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A barrage of tentacles grasps at you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The akin's tendrils failed to impale you."
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "You've been constricted by the tendrils!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The akin impaled you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The fleshmonger consumes the surroundings off of gore.\nTentacles were formed that pierced its nearby allies!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The fleshmonger violently bursts out tentacles that pierced its nearby allies!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The ground trembles underneath you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A massive tendril emerges from the gorepit, swaying erractically around its vicinity!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "You were caught at its impact!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A parasyte pops out of the flesh sack!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A jaw emerges from the flesh!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A tendril emerges from the flesh!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "A membranous pod emerges from the flesh underneath!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The flesh undulates!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The secronom dragon generates a forcefield, pushing you!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "Electric discharges arc from the secronom dragon!"
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_eoc.json
+msgid "The secronom dragon accumulates electricity."
+msgstr ""
+
+#. ~ Description of spell "Charge!"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_large.json
+msgid "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains momentum, increasing their movement speed.'"
+msgstr ""
+
+#. ~ Description of spell "Charge"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_large.json
+msgid "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster sprints toward the target. This is casted randomly between 9 to 13 times.'"
+msgstr ""
+
+#. ~ Description of spell "Charge"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_large.json
+msgid "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster sprints toward the target. This is casted randomly between 5 to 8 times.'"
+msgstr ""
+
+#. ~ Description of spell "Charge"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\-Essentials\secro_magic_large.json
+msgid "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster sprints toward the target. This is casted randomly between 13 to 20 times.'"
+msgstr ""
+
+#. ~ Targeting sound of special attack of monster "shapeshifter"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Abberations\Shapeshifter.json
+msgid "the eerie shadows building up."
+msgstr ""
+
+#. ~ Death message of monster "zombie"
+#. ~ Death message of monster "decayed zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Abberations\Shapeshifter.json
+#, c-format
+msgid "The %s's body distorts!"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "secronom dragon"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Bots\SecronomDragon.json
+msgid "the energy crest"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "secronom dragon"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Bots\SecronomDragon.json
+msgid "the unarmored part"
+msgstr ""
+
+#. ~ Targeting sound of special attack of monster "walker"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Bots\SecronomDragon_spawns.json
+msgid "a beeping!"
+msgstr ""
+
+#. ~ Death message of monster "flesh"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Crimson Horrors\Flesh.json
+#, c-format
+msgid "The %s melts away!"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "vein beast"
+#. ~ Sentence fragment describing a weakpoint for monster "rumbler"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Crimson Horrors\FleshVeins.json
+msgid "its core"
+msgstr ""
+
+#. ~ Death message of monster "veinstalk"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Crimson Horrors\Flesh_biome.json
+#, c-format
+msgid "<color_yellow>The %s disappears into the ground."
+msgstr ""
+
+#. ~ Death message of monster "infected saddler"
+#. ~ Death message of monster "zombie saddler"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Insects\Saddler.json
+#, c-format
+msgid "%s dies!\n<color_light_red>The saddler pops off from its host!</color>"
+msgstr ""
+
+#. ~ Death message of monster "infected brute"
+#. ~ Death message of monster "zombie brute"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Insects\Saddler.json
+#, c-format
+msgid "%s dies!\n<color_light_red>The saddler brute pops off from its host!</color>"
+msgstr ""
+
+#. ~ Death message of monster "infected scout"
+#. ~ Death message of monster "zombie scout"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Insects\Saddler.json
+#, c-format
+msgid "%s dies!\n<color_light_red>The saddler scout pops off from its host!</color>"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "nautilus"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+msgid "underneath the belly"
+msgstr ""
+
+#. ~ Death message of monster "zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+#, c-format
+msgid "<color_light_red>%s mutates into an ichorus!</color>"
+msgstr ""
+
+#. ~ Death message of monster "zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+#, c-format
+msgid "<color_light_red>%s mutates into a psyrus!</color>"
+msgstr ""
+
+#. ~ Description of monster "fleshmonger"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+msgid "A gigantic mound of putrid flesh, with assortments of limbs and writhing tendrils reemerging back and forth. Dark, oozing pus constantly erupts from its swollen body."
+msgstr ""
+
+#. ~ Monster message of special attack of monster "fleshmonger"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+#, c-format
+msgid "<color_magenta>%1$s is trembling…</color>"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "gorepit"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+msgid "the orb"
+msgstr ""
+
+#. ~ Death message of monster "giant tendril"
+#. ~ Death message of monster "tentacle"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Tendrils.json
+#, c-format
+msgid "The %s disappears into the ground."
+msgstr ""
+
+#. ~ Death message of monster "massive tendril"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json
+#, c-format
+msgid "The %s disappears into the pit."
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "goreknot"
+#. ~ Sentence fragment describing a weakpoint for monster "unity zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\+Misc.json d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Unifier.json
+msgid "the core"
+msgstr ""
+
+#. ~ Description of monster "charger zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Charger.json
+msgid "A rugged corpse with one of its arms mutated into an overgrown bulging muscle."
+msgstr ""
+
+#. ~ Monster message of special attack of monster "charger zombie"
+#. ~ Monster message of special attack of monster "vanguard"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Charger.json
+#, c-format
+msgid "<color_yellow>%1$s is charging towards %3$s!</color>"
+msgstr ""
+
+#. ~ Description of monster "charger zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Charger.json
+msgid "A once stout zombie, now covered by protruding bone spikes under its skin."
+msgstr ""
+
+#. ~ Description of monster "charger zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Charger.json
+msgid "A large corpse with its skin calcified, forming a shell-like layer."
+msgstr ""
+
+#. ~ Death message of monster "nightinwail"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Lying.json
+#, c-format
+msgid "A %s vanishes!"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "spider zombie"
+#. ~ Sentence fragment describing a weakpoint for monster "arachnia"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Spider.json
+msgid "one of its legs"
+msgstr ""
+
+#. ~ Sentence fragment describing a weakpoint for monster "unifier zombie"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Monsters\Zombies\Unifier.json
+msgid "one of its hands"
+msgstr ""
+
+#. ~ Snippet in category "SECRO_FLESHFOREST_CENTER"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_eoc.json
+msgid "The flesh feels warm."
+msgstr ""
+
+#. ~ Snippet in category "SECRO_FLESHFOREST_CENTER"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_eoc.json
+msgid "You hear trembling underneath."
+msgstr ""
+
+#. ~ Message about the player in an effect
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_eoc.json
+msgid "<color_dark_gray>Something emerged out from the walls...</color>"
+msgstr ""
+
+#. ~ Description of event statistic "num_avatar_secronom_secrozed_1_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "secronom mutant slain"
+msgid_plural "secronom mutants slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrozed_2_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "elite mutant slain"
+msgid_plural "elite mutants slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrozed_3_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "deadly mutant slain"
+msgid_plural "deadly mutants slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrozed_ultimate_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "cataclysmic mutant slain"
+msgid_plural "cataclysmic mutants slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrospec_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "secronom specimen slain"
+msgid_plural "secronom specimens slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secroflesh_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "crimson horror exterminated"
+msgid_plural "crimson horrors exterminated"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrosaddler_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "insectoid (saddler) slain"
+msgid_plural "insectoids (saddler) slain"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_blade_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "blade zombie slain"
+msgid_plural "blade zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_sharpblade_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "sharpened blade zombie slain"
+msgid_plural "sharpened blade zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_serratedblade_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "serrated blade zombie slain"
+msgid_plural "serrated blade zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_razor_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "razor slain"
+msgid_plural "razor slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_tendrils_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "tendril zombie slain"
+msgid_plural "tendril zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_thicktendrils_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "thick tendril zombie slain"
+msgid_plural "thick tendril zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_tendricles_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "tendricle slain"
+msgid_plural "tendricle slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_tentawraith_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "wraith slain"
+msgid_plural "wraith slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_spoder_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "spider zombie slain"
+msgid_plural "spider zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_spoderhug_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "longarm spider zombie slain"
+msgid_plural "longarm spider zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_spodertickle_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "claw spider zombie slain"
+msgid_plural "claw spider zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_mouth_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "mouthswell zombie slain"
+msgid_plural "mouthswell zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_bellymouth_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "bellymouth zombie slain"
+msgid_plural "bellymouth zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_suctionmouth_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "sucker slain"
+msgid_plural "sucker slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_translucent_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "translucent zombie slain"
+msgid_plural "translucent zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_pellucid_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "pellucid zombie slain"
+msgid_plural "pellucid zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_unify_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "unifier zombie slain"
+msgid_plural "unifier zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_unity_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "unity zombie slain"
+msgid_plural "unity zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_hemo_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "hemofiend slain"
+msgid_plural "hemofiend slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_bloodvessel_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "blood vessel melted"
+msgid_plural "blood vessels melted"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_bloodfiend_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "blood fiend melted"
+msgid_plural "blood fiends melted"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_scourge_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "scourge zombie slain"
+msgid_plural "scourge zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_defile_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "defiler zombie slain"
+msgid_plural "defiler zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_leptiosa_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "lepotitsa slain"
+msgid_plural "lepotitsa slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_lick_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "licker zombie slain"
+msgid_plural "licker zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_mlick_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "licker zombie (mutated) slain"
+msgid_plural "licker zombie (mutated) slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_xlick_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "lacerator slain"
+msgid_plural "lacerator slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_charger_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "charger zombie slain"
+msgid_plural "charger zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_charger_spike_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "spiky charger zombie slain"
+msgid_plural "spiky charger zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_charger_plate_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "plated charger zombie slain"
+msgid_plural "plated charger zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_charger_vanguard_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "vanguard slain"
+msgid_plural "vanguard slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_WALKINGPOTATO_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "lying body slain"
+msgid_plural "lying body slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_zawk_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "zawk slain"
+msgid_plural "zawk slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_zoth_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "zoth slain"
+msgid_plural "zoth slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_nightwail_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "nightinwail slain"
+msgid_plural "nightinwail slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_grubby_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "grubby zombie slain"
+msgid_plural "grubby zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_slimy_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "slimy zombie slain"
+msgid_plural "slimy zombie slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_glut_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "glut popped"
+msgid_plural "gluts popped"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_skittyweavy_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "skittering weaver slain"
+msgid_plural "skittering weaver slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_skittyweavy_repleshy_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "replenishing weaver slain"
+msgid_plural "replenishing weaver slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_skittyweavy_sickly_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "plague weaver slain"
+msgid_plural "plague weaver slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_revenant_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "revenant slain"
+msgid_plural "revenant slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_revenant_forsaken_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "forsaken revenant slain"
+msgid_plural "forsaken revenant slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_revenant_allure_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "alluring revenant slain"
+msgid_plural "alluring revenant slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_titan_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "titan slain"
+msgid_plural "titan slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_blacktitan_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "black titan slain"
+msgid_plural "black titan slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_stray_w_leaf_stro3_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "max tier stray zombie (nature) slain"
+msgid_plural "max tier stray zombie (nature) slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_stray_w_acid_stro3_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "max tier stray zombie (acid) slain"
+msgid_plural "max tier stray zombie (acid) slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_secrodragon_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "secronom dragon subdued"
+msgid_plural "secronom dragons subdued"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_ichorus_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "ichorus slain"
+msgid_plural "ichorus slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_psyrus_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "psyrus slain"
+msgid_plural "psyrus slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_gorepit_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "gorepit slain"
+msgid_plural "gorepit slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_gorepit_tent_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "gorepit's giant tendril kill"
+msgid_plural "gorepit's giant tendril kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_equinox_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "equinox slain"
+msgid_plural "equinox slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_equinox_necros_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "equinox's necros kill"
+msgid_plural "equinox's necros kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_equinox_necros_stab_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "equinox's necros impaler kill"
+msgid_plural "equinox's necros impaler kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_equinox_necros_cut_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "equinox's necros slicer kill"
+msgid_plural "equinox's necros slicer kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_equinox_necros_emit_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "equinox's necros pollutant kill"
+msgid_plural "equinox's necros pollutant kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_fleshmonger_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "fleshmonger slain"
+msgid_plural "fleshmonger slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_cordev_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "corrupted devourer slain"
+msgid_plural "corrupted devourer slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_fleshysnaky_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "flesilisk slain"
+msgid_plural "flesilisk slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_sflesh_flesh_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "(forest) flesh hivemind vanquished"
+msgid_plural "(forest) flesh hivemind vanquisheds"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_sflesh_flesh_city_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "(city) flesh hivemind vanquished"
+msgid_plural "(city) flesh hivemind vanquisheds"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_nautilus_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "nautilus slain"
+msgid_plural "nautilus slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_uruxis_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "uruxis slain"
+msgid_plural "uruxis slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombieworm_gravedigger_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "grave digger slain"
+msgid_plural "grave digger slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombieworm_wriggly_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "writhing horror slain"
+msgid_plural "writhing horror slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombieworm_mawy_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "sinister maw slain"
+msgid_plural "sinister maw slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_ayenel_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "ayenel slain"
+msgid_plural "ayenel slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_maneater_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "maneater slain"
+msgid_plural "maneater slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_shifter_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "shapeshifter vanquished"
+msgid_plural "shapeshifter vanquisheds"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zedbow_kaxix_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "kaxix slain"
+msgid_plural "kaxix slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zedbow_axxuros_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "axxuros slain"
+msgid_plural "axxuros slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zedbow_exios_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "exios slain"
+msgid_plural "exios slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zedbow_drexx_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "drexx slain"
+msgid_plural "drexx slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zedbow_epixo_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "epixo slain"
+msgid_plural "epixo slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_saddler_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "saddler kill"
+msgid_plural "saddler kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_saddler_infected_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "saddlers (human) kill"
+msgid_plural "saddlers (human) kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_saddler_infected_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "saddlers (zombie) kill"
+msgid_plural "saddlers (zombie) kills"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_zombie_swarmer_weak_kills"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "swarmer slain"
+msgid_plural "swarmer slains"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_efflost_blind"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times getting blinded"
+msgid_plural "times getting blinded"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_effget_pedo_restraint"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times latched by nautilus torpedos"
+msgid_plural "times latched by nautilus torpedos"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_effget_vector_infect"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times contracted a vector infection"
+msgid_plural "times contracted a vector infection"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_efflost_secro_akin_siphon_foe"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times getting drained by an akin"
+msgid_plural "times getting drained by an akin"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_efflost_secro_flesh_tree_grab"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times getting grabbed by something \"fleshy\""
+msgid_plural "times getting grabbed by something \"fleshy\""
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_effget_secro_flesh_bio_limb"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times eaten \"the flesh\""
+msgid_plural "times eaten \"the flesh\""
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_witness_edischarge"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times witnessed a creature do something \"flashy\""
+msgid_plural "times witnessed a creature do something \"flashy\"s"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_witness_nimplode"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times witnessed a rain of necrotic flesh"
+msgid_plural "times witnessed a rain of necrotic fleshs"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_witness_texplode"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times witnessed a mutant explode from empowering itself"
+msgid_plural "times witnessed a mutant explode from empowering itselfs"
+msgstr[0] ""
+msgstr[1] "s"
+
+#. ~ Description of event statistic "num_avatar_secronom_witness_grow_null"
+#: d:\cdda\catap\kenan\main\secronom\Modification_Files\Others\secro_event_trans_stats.json
+msgid "times witnessed a \"baby\" go boom"
+msgid_plural "times witnessed a \"baby\" go booms"
+msgstr[0] ""
+msgstr[1] "s"
+
