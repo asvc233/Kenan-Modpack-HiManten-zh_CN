@@ -1,0 +1,2275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2022-12-23 01:41-0600\n"
+"PO-Revision-Date: 2022-12-23 01:41-0600\n"
+"Last-Translator: None\n"
+"Language-Team: None\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Death message of monster "mage hand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\ecreatures.json
+#, c-format
+msgid "The %s melts away."
+msgstr "%s 融化了。"
+
+#. ~ Description of spell "Acid Spawn"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Spews a line of acid from your mouth."
+msgstr "从你的口中喷出一道酸液。"
+
+#. ~ Message of spell "Cause Fear"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\classless.json
+msgid "Your eyes glow green for a moment.  Now your sight can pierce the darkest shadows."
+msgstr "你的眼睛闪着绿色的光芒。现在你的目光可以穿透最深沉的阴影。"
+
+#. ~ Armor crafted from the chitin of some foul creature
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\armor.json
+msgid "demon armor"
+msgid_plural "demon armors"
+msgstr[0] "恶魔盔甲"
+msgstr[1] "恶魔盔甲s"
+
+#. ~ Armor crafted from the chitin of some foul creature
+#. ~ Description of "demon armor"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\armor.json
+msgid "Thine armour hath been forged from some foul daemon, which provides ye unrivaled protection from their fires!."
+msgstr "你的盔甲是由一个邪恶的恶魔锻造而成，它为你提供了无与伦比的保护，使你免受他们的攻击！。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\armor.json
+msgid "Invinci-Armor"
+msgid_plural "Invinci-Armors"
+msgstr[0] "无敌护甲"
+msgstr[1] "无敌护甲s"
+
+#. ~ Description of "Invinci-Armor"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\armor.json
+msgid "Exists only for testing purposes. You dirty hacker!"
+msgstr "仅用于测试目的。肮脏的作弊者！"
+
+#. ~ Name of effect type id "froze"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\effects.json
+msgid "Frozen"
+msgstr "冻结"
+
+#. ~ Description of effect type "Frozen"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\effects.json
+msgid "Ice coats your opponents."
+msgstr "冰覆盖了你的敌人。"
+
+#. ~ Apply message of effect type "Frozen"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\effects.json
+msgid "Ice forms, freezing your opponents in place!"
+msgstr "冰凝结起来，冻住了你的敌人！"
+
+#. ~ Remove message of effect type "Frozen"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\effects.json
+msgid "The ice melts."
+msgstr "冰融化了。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\guns.json
+msgid "ethereal bow"
+msgid_plural "ethereal bows"
+msgstr[0] "幽影之弓"
+msgstr[1] "幽影之弓s"
+
+#. ~ Description of gun "ethereal bow"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\guns.json
+msgid "A light, magically conjured longbow.  A matching conjured arrow appears when you draw the string back for firing. This one seems rather weak."
+msgstr "一把魔法生成的轻质长弓。拉开弓弦就会自动生成一只箭。这个看起来很弱。"
+
+#. ~ Name of material
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "Cheatmetal"
+msgstr "假金属"
+
+#. ~ Bash damage verb of material Cheatmetal
+#. ~ Damage adjective of material Cheatmetal
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "cracked"
+msgstr "裂纹"
+
+#. ~ Cut damage verb of material Cheatmetal
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "chipped"
+msgstr "缺口"
+
+#. ~ Damage adjective of material Cheatmetal
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "scratched"
+msgstr "刮花"
+
+#. ~ Damage adjective of material Cheatmetal
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "cut"
+msgstr "斩击"
+
+#. ~ Damage adjective of material Cheatmetal
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\materials.json
+msgid "shattered"
+msgstr "粉碎"
+
+#. ~ MOD name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\modinfo.json
+msgid "Miscellaneous Magiclysm Expansions"
+msgstr "杂项大魔法扩展"
+
+#. ~ Description of MOD "Miscellaneous Magiclysm Expansions"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\modinfo.json
+msgid "Major and/or minor expansions to the Magiclysm modification."
+msgstr "大魔法mod的主要和/或次要扩展。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\motors.json
+msgid "mana engine"
+msgid_plural "mana engines"
+msgstr[0] "法力引擎"
+msgstr[1] "法力引擎s"
+
+#. ~ Description of "mana engine"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\motors.json
+msgid "An engine, similar in model to that of steam, but using crystalized mana to heat water instead of coal. You can see a Technomancer rune embedded upon it."
+msgstr "一个引擎，与蒸汽引擎的模型相似，但使用魔力结晶而不是煤来将水烧开。你可以看到一个嵌在上面的科技术士符文。"
+
+#. ~ Item name
+#. ~ Plant name of seed "magic mushroom spore"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mushroom.json d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\seed.json
+msgid "magic mushroom"
+msgid_plural "magic mushrooms"
+msgstr[0] "魔幻菇"
+msgstr[1] "魔幻菇s"
+
+#. ~ Description of "magic mushroom"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mushroom.json
+msgid "A blue, iridescent mushroom. It seems to contain magical power "
+msgstr "一种蓝色带斑点的蘑菇。似乎蕴含着魔法能量"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Magus"
+msgstr "魔术师学徒"
+
+#. ~ Description of profession "Apprintice Magus" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "You once found a pamphlet with bright colors claiming you can be a Wizard. After some study, you feel as though you understand this well."
+msgstr "你曾经发现一本色彩鲜艳的小册子，声称你可以成为一名巫师。经过一番研究，你觉得你好像很明白这一点。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Magus"
+msgstr "魔术师学徒"
+
+#. ~ Description of profession "Apprintice Magus" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "You once found a pamphlet with bright colors claiming you can be a Wizard. After some study, you feel as though you understand this well."
+msgstr "你曾经发现一本色彩鲜艳的小册子，声称你可以成为一名巫师。经过一番研究，你觉得你好像很明白这一点。"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Necromancer"
+msgstr "亡灵巫师学徒"
+
+#. ~ Description of profession "Apprintice Necromancer" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "You were once shunned for your magic. You're alive, something most of the Dracionic heads cannot claim."
+msgstr "你曾经因为你的魔法而被回避。你还活着，这是大多数德拉西奥人无法宣称的。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Necromancer"
+msgstr "亡灵巫师学徒"
+
+#. ~ Description of profession "Apprintice Necromancer" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "You were once shunned for your magic. You're alive, something most of the Dracionic heads cannot claim."
+msgstr "你曾经因为你的魔法而被回避。你还活着，这是大多数德拉西奥人无法宣称的。"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Stormshaper"
+msgstr "风暴塑造者学徒"
+
+#. ~ Description of profession "Apprintice Stormshaper" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "The son of a weatherman, you were always interested in the weather.  Some time ago you found it was possible to manipulate the weather yourself through arcane means!  Unfortunately you did not have long to enjoy your power, as events unfolded..."
+msgstr "作为一名天气预报员的儿子，你对天气总是很感兴趣。前段时间，你发现可以通过神秘的方式操纵天气！不幸的是，你还没来得及享受你的力量，随着事态的发展…"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Stormshaper"
+msgstr "风暴塑造者学徒"
+
+#. ~ Description of profession "Apprintice Stormshaper" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "The son of a weatherman, you were always interested in the weather.  Some time ago you found it was possible to manipulate the weather yourself through arcane means!  Unfortunately you did not have long to enjoy your power, as events unfolded..."
+msgstr "作为一名天气预报员的儿子，你对天气总是很感兴趣。前段时间，你发现可以通过神秘的方式操纵天气！不幸的是，你还没来得及享受你的力量，随着事态的发展…"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Novice Kelvinist"
+msgstr "见习炽霜法师"
+
+#. ~ Description of profession "Novice Kelvinist" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "You always had a passion for control in powerful frost and flame. The advancements of Archlord Kelvin were just what you wanted."
+msgstr "你总是热衷于控制强大的冰霜和火焰。开尔文大领主的进步正是你想要的。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Novice Kelvinist"
+msgstr "见习炽霜法师"
+
+#. ~ Description of profession "Novice Kelvinist" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "You always had a passion for control in powerful frost and flame. The advancements of Archlord Kelvin were just what you wanted."
+msgstr "你总是热衷于控制强大的冰霜和火焰。开尔文大领主的进步正是你想要的。"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Kelvinist"
+msgstr "炽霜法师学徒"
+
+#. ~ Description of profession "Apprintice Kelvinist" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "You always had a passion for control in powerful frost and flame, and recived some schooling within the Kelvinic arts. What you shall use your knowledge for remains to be seen."
+msgstr "你热衷于控制强大的冰霜和火焰，并接受过一些炽霜法师的教育。你要用你的知识做些什么还有待观察。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Kelvinist"
+msgstr "炽霜法师学徒"
+
+#. ~ Description of profession "Apprintice Kelvinist" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "You always had a passion for control in powerful frost and flame, and recived some schooling within the Kelvinic arts. What you shall use your knowledge for remains to be seen."
+msgstr "你热衷于控制强大的冰霜和火焰，并接受过一些炽霜法师的教育。你要用你的知识做些什么还有待观察。"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Earthshaper"
+msgstr "塑地者学徒"
+
+#. ~ Description of profession "Apprintice Earthshaper" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "You always were tough in a fight. Your coach taught you more than a few tricks."
+msgstr "你打起来总是很强硬。你的教练教你的不仅仅是一些技巧。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Earthshaper"
+msgstr "塑地者学徒"
+
+#. ~ Description of profession "Apprintice Earthshaper" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "You always were tough in a fight. Your coach taught you more than a few tricks."
+msgstr "你打起来总是很强硬。你的教练教你的不仅仅是一些技巧。"
+
+#. ~ Profession name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_male"
+msgid "Apprintice Technomancer"
+msgstr "科技法师学徒"
+
+#. ~ Description of profession "Apprintice Technomancer" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_male"
+msgid "With the recent Cataclysm, the several ways you found to cheat on tests may have to find some other use."
+msgstr "在最近的大灾变中，你发现的几种考试作弊方法或许会有其他用处。"
+
+#. ~ Profession name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "profession_female"
+msgid "Apprintice Technomancer"
+msgstr "科技法师学徒"
+
+#. ~ Description of profession "Apprintice Technomancer" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\professions.json
+msgctxt "prof_desc_female"
+msgid "With the recent Cataclysm, the several ways you found to cheat on tests may have to find some other use."
+msgstr "在最近的大灾变中，你发现的几种考试作弊方法或许会有其他用处。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "homeade chemists notebook"
+msgid_plural "homeade chemists notebooks"
+msgstr[0] "手工化学笔记"
+msgstr[1] "手工化学笔记s"
+
+#. ~ Description of "homeade chemists notebook"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "This appears to be a compound of someones notes contained within a compsition book. It features several illistrations and recipies for... serum?"
+msgstr "这是一本汇编了许多人笔记的书本。它主要包含几张插图和配方……关于血清？"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "alchemists handbook"
+msgid_plural "alchemists handbooks"
+msgstr[0] "炼金术士手册"
+msgstr[1] "炼金术士手册s"
+
+#. ~ Description of "alchemists handbook"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A small guide, composed for the aspiring alchemist."
+msgstr "一本为有抱负的炼金术士撰写的指南。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Staff of the Magi"
+msgid_plural "copies of Staff of the Magi"
+msgstr[0] "魔术道具大全"
+msgstr[1] "魔术道具大全s"
+
+#. ~ Description of "Staff of the Magi"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into molding spacetime, aimed specifically for Magi."
+msgstr "一本介绍如何将魔法能量注入物品以引导时空的巨著，专门针对魔术师。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Artificers of Frost and Flame"
+msgid_plural "copies of Artificers of Frost and Flame"
+msgstr[0] "霜与火的缔造"
+msgstr[1] "霜与火的缔造s"
+
+#. ~ Description of "Artificers of Frost and Flame"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into frost and flame, aimed specifically for Kelvinists."
+msgstr "一本介绍如何将魔法能量注入物品以引导冰霜与火焰的巨著，专门针对炽霜法师。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Return from Death"
+msgid_plural "copies of Return from Death"
+msgstr[0] "死而复生"
+msgstr[1] "死而复生s"
+
+#. ~ Description of "Return from Death"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into animation, aimed specifically for Animists."
+msgstr "一本介绍如何将魔法能量注入物品以引导生命的巨著，专门针对泛灵师。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "The Natural Worlds"
+msgid_plural "copies of The Natural Worlds"
+msgstr[0] "自然世界"
+msgstr[1] "自然世界s"
+
+#. ~ Description of "The Natural Worlds"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into the natural world, aimed specifically for Druids."
+msgstr "一本介绍如何将魔法能量注入物品以引导自然的巨著，专门针对德鲁伊。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Geological Formations"
+msgid_plural "copies of Geological Formations"
+msgstr[0] "地质构造"
+msgstr[1] "地质构造s"
+
+#. ~ Description of "Geological Formations"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into earthworks, aimed specifically for Earthshapers."
+msgstr "一本介绍如何将魔法能量注入土方工程的巨著，专门针对塑地者。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "The Powers of Electricity"
+msgid_plural "copies of The Powers of Electricity"
+msgstr[0] "电能之力"
+msgstr[1] "电能之力s"
+
+#. ~ Description of "The Powers of Electricity"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into various weathers, aimed specifically for Stormshapers."
+msgstr "一本介绍如何将魔法能量注入物品以引导天气的巨著，专门针对风暴塑造者。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Magical Mechanics"
+msgid_plural "copies of Magical Mechanics"
+msgstr[0] "魔法力学"
+msgstr[1] "魔法力学s"
+
+#. ~ Description of "Magical Mechanics"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into various technological devices, aimed specifically for Technomancers."
+msgstr "一本介绍如何将魔法能量注入物品以引导各种科技装置的巨著，专门针对科技术士。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "Alterations of the Flesh"
+msgid_plural "copies of Alterations of the Flesh"
+msgstr[0] "血肉改造术全集"
+msgstr[1] "血肉改造术全集s"
+
+#. ~ Description of "Alterations of the Flesh"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\recipiebooks.json
+msgid "A tome upon imbuning magical energy within items for direction into the metamorphics of biological material, aimed specifically for Biomancers."
+msgstr "一本介绍如何将魔法能量注入物品以生物材料的变形中的书，专门针对生化术士。"
+
+#. ~ Scenario name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_male"
+msgid "Magical Hermit"
+msgstr "魔法隐士"
+
+#. ~ Scenario name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_female"
+msgid "Magical Hermit"
+msgstr "魔法隐士"
+
+#. ~ Description of scenario "Magical Hermit" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_male"
+msgid "Prior to the Cataclysm, you discovered the world of magic from a local wizard. You decided to create a new spell, one day, and someone told the Dracionic heads, exiling you for it. You then became a hermit, living alone in a cabin, studying magical theory and spell reserch, safe within your isolated home when the Cataclysm struck. You doubt the zombies know how to resist magical attacks. "
+msgstr "大灾变之前，你在一个本地巫师的指引下发现了魔法世界。你决定创造一个新的法术，有一天，有人把这件事告诉龙巢的头，而他们则驱逐了你。然后你就成了一个隐士，独自一人住在小屋里，进行魔法理论和咒语的研究，大灾变发生时你正安全地呆在你与世隔绝的家里。你开始怀疑丧尸能抵抗魔法攻击。"
+
+#. ~ Description of scenario "Magical Hermit" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_female"
+msgid "Prior to the Cataclysm, you discovered the world of magic from a local wizard. You decided to create a new spell, one day, and someone told the Dracionic heads, exiling you for it. You then became a hermit, living alone in a cabin, studying magical theory and spell reserch, safe within your isolated home when the Cataclysm struck. You doubt the zombies know how to resist magical attacks. "
+msgstr "大灾变之前，你在一个本地巫师的指引下发现了魔法世界。你决定创造一个新的法术，有一天，有人把这件事告诉龙巢的头，而他们则驱逐了你。然后你就成了一个隐士，独自一人住在小屋里，进行魔法理论和咒语的研究，大灾变发生时你正安全地呆在你与世隔绝的家里。你开始怀疑丧尸能抵抗魔法攻击。"
+
+#. ~ Starting location of scenario "Magical Hermit"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "start_name"
+msgid "Magical Cabin"
+msgstr "魔法小屋"
+
+#. ~ Scenario name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge - Arachnid Slayer"
+msgstr "挑战-蜘蛛杀手"
+
+#. ~ Scenario name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge - Arachnid Slayer"
+msgstr "挑战-蜘蛛杀手"
+
+#. ~ Description of scenario "Challenge - Arachnid Slayer" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_male"
+msgid "You stumbled across a nest of Demon Spiders. Harkened to the legends of powerful artifacts, you ventured inside. Of course, you were spotted, and wounded in combat. Now in pain, and having spotted what appeared to be a massive spider, you plan upon retreat. You may only hope that your passing is not here."
+msgstr "你偶然发现了一个恶魔蜘蛛的巢穴。受强大的神器传说的诱惑，你冒险进入。当然，你被发现了，并在战斗中受伤了。现在你疼痛不堪，而且似乎发现了一只巨大的蜘蛛，你打算撤退了。你现在只希望今天不要交代在这里。"
+
+#. ~ Description of scenario "Challenge - Arachnid Slayer" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_female"
+msgid "You stumbled across a nest of Demon Spiders. Harkened to the legends of powerful artifacts, you ventured inside. Of course, you were spotted, and wounded in combat. Now in pain, and having spotted what appeared to be a massive spider, you plan upon retreat. You may only hope that your passing is not here."
+msgstr "你偶然发现了一个恶魔蜘蛛的巢穴。受强大的神器传说的诱惑，你冒险进入。当然，你被发现了，并在战斗中受伤了。现在你疼痛不堪，而且似乎发现了一只巨大的蜘蛛，你打算撤退了。你现在只希望今天不要交代在这里。"
+
+#. ~ Starting location of scenario "Challenge - Arachnid Slayer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "start_name"
+msgid "Demon Spider Nest"
+msgstr "恶魔蜘蛛巢穴"
+
+#. ~ Scenario name for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge - Dracionic Raider"
+msgstr "挑战-龙巢袭击者"
+
+#. ~ Scenario name for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge - Dracionic Raider"
+msgstr "挑战-龙巢袭击者"
+
+#. ~ Description of scenario "Challenge - Dracionic Raider" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_male"
+msgid "You found the lair of a black dragon one day. Seeking powerful magics, you ventured inside. Despite your attempts to bypass the gaurds, you were spotted, ensuing combat. You were wounded in the frenzy, and you wish not to pass here. "
+msgstr "那天你发现了黑龙巢穴，在强大魔法的诱惑下，你冒险进入。你试图绕开守卫，但还是被发现了，更严重的是……你在紧随的战斗中受了伤。现在你只希望不曾经过这里。"
+
+#. ~ Description of scenario "Challenge - Dracionic Raider" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "scen_desc_female"
+msgid "You found the lair of a black dragon one day. Seeking powerful magics, you ventured inside. Despite your attempts to bypass the gaurds, you were spotted, ensuing combat. You were wounded in the frenzy, and you wish not to pass here. "
+msgstr "那天你发现了黑龙巢穴，在强大魔法的诱惑下，你冒险进入。你试图绕开守卫，但还是被发现了，更严重的是……你在紧随的战斗中受了伤。现在你只希望不曾经过这里。"
+
+#. ~ Starting location of scenario "Challenge - Dracionic Raider"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\scenarios.json
+msgctxt "start_name"
+msgid "Dragon Lair"
+msgstr "黑龙巢穴"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\seed.json
+msgid "magic mushroom spore"
+msgid_plural "magic mushroom spores"
+msgstr[0] "魔幻菇孢子"
+msgstr[1] "魔幻菇孢子s"
+
+#. ~ Description of "magic mushroom spore"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\seed.json
+msgid "Spores of the magic mushroom. They radiate slightly. "
+msgstr "一些魔幻菇孢子。带有轻微的辐射。"
+
+#. ~ Name of starting location "magic_cabin"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\start_location.json
+msgid "Magic Cabin"
+msgstr "魔法小屋"
+
+#. ~ Name of starting location "bdrag_lair"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\start_location.json
+msgid "Dragons Lair"
+msgstr "黑龙巢穴"
+
+#. ~ Name of starting location "dspider_lair"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\start_location.json
+msgid "Demon Spider Nest"
+msgstr "恶魔蜘蛛巢穴"
+
+#. ~ Vehicle part name
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\vehicleparts.json d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\vstorage.json
+msgid "magical fuel bunker"
+msgid_plural "magical fuel bunkers"
+msgstr[0] "魔法燃料舱"
+msgstr[1] "魔法燃料舱s"
+
+#. ~ Description of vehicle part "magical fuel bunker"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\vehicleparts.json
+msgid "A storage space for holding solid fuels, this one designed for solid fuels of magical nature. If filled with the appropriate fuel for the vehicle's engine, the engine will automatically draw fuel from the tank when the engine is on."
+msgstr "一个能够装载固态燃料的货舱，这是专门为固体魔力燃料设计的。装入车辆引擎所对应消耗的燃料后，引擎启动时将会自动从对应的燃料舱内抽取燃料。"
+
+#. ~ Description of magazine "magical fuel bunker"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\vstorage.json
+msgid "A bin for holding solid fuel, this one designed specificaly for solid magical fuels."
+msgstr "一个用来储存固态燃料的箱子，这是专门为固体魔力燃料设计的。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "Magic Stave"
+msgid_plural "Magic Staves"
+msgstr[0] "魔法短杖"
+msgstr[1] "魔法短杖s"
+
+#. ~ Description of "Magic Stave"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A fake item for all staves."
+msgstr "A fake item for all staves."
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of magic missile"
+msgid_plural "staves of magic missile"
+msgstr[0] "魔法飞弹短杖"
+msgstr[1] "魔法飞弹短杖s"
+
+#. ~ Description of "stave of magic missile"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts magic missile."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是魔法飞弹。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of magic missile"
+msgid_plural "greater staves of magic missile"
+msgstr[0] "高级魔法飞弹短杖"
+msgstr[1] "高级魔法飞弹短杖s"
+
+#. ~ Description of "greater stave of magic missile"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts magic missile."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是魔法飞弹。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of gravity well"
+msgid_plural "staves of gravity well"
+msgstr[0] "重力井短杖"
+msgstr[1] "重力井短杖s"
+
+#. ~ Description of "stave of gravity well"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts gravity well."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是重力井。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of gravity well"
+msgid_plural "greater staves of gravity well"
+msgstr[0] "高级重力井短杖"
+msgstr[1] "高级重力井短杖s"
+
+#. ~ Description of "greater stave of gravity well"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts gravity well."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是重力井。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of mana blast"
+msgid_plural "staves of mana blast"
+msgstr[0] "魔力冲击短杖"
+msgstr[1] "魔力冲击短杖s"
+
+#. ~ Description of "stave of mana blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts mana blast."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是魔力冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of mana blast"
+msgid_plural "greater staves of mana blast"
+msgstr[0] "高级魔力冲击短杖"
+msgstr[1] "高级魔力冲击短杖s"
+
+#. ~ Description of "greater stave of mana blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts mana blast."
+msgstr "一根木棍棒，头部有法力水晶套，激活后可以施法。这根棍棒可以施放魔力冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of fireball"
+msgid_plural "staves of fireball"
+msgstr[0] "火球术短杖"
+msgstr[1] "火球术短杖s"
+
+#. ~ Description of "stave of fireball"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts fireball."
+msgstr "一根细长的木制法杖，头部有一个魔力水晶插槽，激活可以施放一次火球术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of fireball"
+msgid_plural "greater staves of fireball"
+msgstr[0] "高级火球术短杖"
+msgstr[1] "高级火球术短杖s"
+
+#. ~ Description of "greater stave of fireball"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts fireball."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是火球术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of point flare"
+msgid_plural "staves of point flare"
+msgstr[0] "定点炎爆短杖"
+msgstr[1] "定点炎爆短杖s"
+
+#. ~ Description of "stave of point flare"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts point flare."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是定点炎爆。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of point flare"
+msgid_plural "greater staves of point flare"
+msgstr[0] "高级定点炎爆短杖"
+msgstr[1] "高级定点炎爆短杖s"
+
+#. ~ Description of "greater stave of point flare"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts point flare."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是定点炎爆。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of ice spike"
+msgid_plural "staves of ice spike"
+msgstr[0] "冰刺短杖"
+msgstr[1] "冰刺短杖s"
+
+#. ~ Description of "stave of ice spike"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden staff with a mana crystal socket at the head that casts a spell when activated.  This stave casts ice spike."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是冰刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of ice spike"
+msgid_plural "greater staves of ice spike"
+msgstr[0] "高级冰刺短杖"
+msgstr[1] "高级冰刺短杖s"
+
+#. ~ Description of "greater stave of ice spike"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts ice spike."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是冰刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of hoary blast"
+msgid_plural "staves of hoary blast"
+msgstr[0] "白霜冲击短杖"
+msgstr[1] "白霜冲击短杖s"
+
+#. ~ Description of "stave of hoary blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts hoary blast."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是白霜冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of hoary blast"
+msgid_plural "greater staves of hoary blast"
+msgstr[0] "高级白霜冲击短杖"
+msgstr[1] "高级白霜冲击短杖s"
+
+#. ~ Description of "greater stave of hoary blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts hoary blast."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是白霜冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of summon zombie"
+msgid_plural "staves of summon zombie"
+msgstr[0] "召唤丧尸短杖"
+msgstr[1] "召唤丧尸短杖s"
+
+#. ~ Description of "stave of summon zombie"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts summon zombie."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤丧尸。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of summon zombie"
+msgid_plural "greater staves of summon zombie"
+msgstr[0] "高级召唤丧尸短杖"
+msgstr[1] "高级召唤丧尸短杖s"
+
+#. ~ Description of "greater stave of summon zombie"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts summon zombie."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤丧尸。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of summon skeleton"
+msgid_plural "staves of summon skeleton"
+msgstr[0] "召唤骷髅短杖"
+msgstr[1] "召唤骷髅短杖s"
+
+#. ~ Description of "stave of summon skeleton"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts summon skeleton."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤骷髅。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of summon skeleton"
+msgid_plural "greater staves of summon skeleton"
+msgstr[0] "高级召唤骷髅短杖"
+msgstr[1] "高级召唤骷髅短杖s"
+
+#. ~ Description of "greater stave of summon skeleton"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts summon skeleton."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤骷髅。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of decayed pouncer"
+msgid_plural "staves of decayed pouncer"
+msgstr[0] "召唤腐朽突袭兽短杖"
+msgstr[1] "召唤腐朽突袭兽短杖s"
+
+#. ~ Description of "stave of decayed pouncer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts decayed pouncer."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤腐朽突袭兽。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of decayed pouncer"
+msgid_plural "greater staves of decayed pouncer"
+msgstr[0] "高级召唤腐朽突袭兽短杖"
+msgstr[1] "高级召唤腐朽突袭兽短杖s"
+
+#. ~ Description of "greater stave of decayed pouncer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts decayed pouncer."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤腐朽突袭兽。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of ignus fatuus"
+msgid_plural "staves of ignus fatuus"
+msgstr[0] "召唤鬼火短杖"
+msgstr[1] "召唤鬼火短杖s"
+
+#. ~ Description of "stave of ignus fatuus"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts ignus fatuus."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤鬼火。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of ignus fatuus"
+msgid_plural "greater staves of ignus fatuus"
+msgstr[0] "高级召唤鬼火短杖"
+msgstr[1] "高级召唤鬼火短杖s"
+
+#. ~ Description of "greater stave of ignus fatuus"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts ignus fatuus."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤鬼火。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of vegetative grasp"
+msgid_plural "staves of vegetative grasp"
+msgstr[0] "藤蔓缠绕短杖"
+msgstr[1] "藤蔓缠绕短杖s"
+
+#. ~ Description of "stave of vegetative grasp"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts vegetative grasp."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是藤蔓缠绕。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of vegetative grasp"
+msgid_plural "greater staves of vegetative grasp"
+msgstr[0] "高级藤蔓缠绕短杖"
+msgstr[1] "高级藤蔓缠绕短杖s"
+
+#. ~ Description of "greater stave of vegetative grasp"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts vegetative grasp."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是藤蔓缠绕。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of root strike"
+msgid_plural "staves of root strike"
+msgstr[0] "树根穿刺短杖"
+msgstr[1] "树根穿刺短杖s"
+
+#. ~ Description of "stave of root strike"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts root strike."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是树根穿刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of root strike"
+msgid_plural "greater staves of root strike"
+msgstr[0] "高级树根穿刺短杖"
+msgstr[1] "高级树根穿刺短杖s"
+
+#. ~ Description of "greater stave of root strike"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts root strike."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是树根穿刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of fungicide"
+msgid_plural "staves of fungicide"
+msgstr[0] "真菌杀手短杖"
+msgstr[1] "真菌杀手短杖s"
+
+#. ~ Description of "stave of fungicide"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts fungicide."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是真菌杀手。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of fungicide"
+msgid_plural "greater staves of fungicide"
+msgstr[0] "高级真菌杀手短杖"
+msgstr[1] "高级真菌杀手短杖s"
+
+#. ~ Description of "greater stave of fungicide"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts fungicide."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是真菌杀手。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of druidic regrowth"
+msgid_plural "staves of druidic regrowth"
+msgstr[0] "沃血重萌短杖"
+msgstr[1] "沃血重萌短杖s"
+
+#. ~ Description of "stave of druidic regrowth"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts druidic regrowth."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是沃血重萌。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of druidic regrowth"
+msgid_plural "greater staves of druidic regrowth"
+msgstr[0] "高级沃血重萌短杖"
+msgstr[1] "高级沃血重萌短杖s"
+
+#. ~ Description of "greater stave of druidic regrowth"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts druidic regrowth."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是沃血重萌。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of druidic healing"
+msgid_plural "staves of druidic healing"
+msgstr[0] "舍己济人短杖"
+msgstr[1] "舍己济人短杖s"
+
+#. ~ Description of "stave of druidic healing"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts druidic healing."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是舍己济人。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of druidic healing"
+msgid_plural "greater staves of druidic healing"
+msgstr[0] "高级舍己济人短杖"
+msgstr[1] "高级舍己济人短杖s"
+
+#. ~ Description of "greater stave of druidic healing"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts druidic healing."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是舍己济人。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of shardspray"
+msgid_plural "staves of shardspray"
+msgstr[0] "碎片喷射短杖"
+msgstr[1] "碎片喷射短杖s"
+
+#. ~ Description of "stave of shardspray"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts shardspray."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是碎片喷射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of shardspray"
+msgid_plural "greater staves of shardspray"
+msgstr[0] "高级碎片喷射短杖"
+msgstr[1] "高级碎片喷射短杖s"
+
+#. ~ Description of "greater stave of shardspray"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts shardspray."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是碎片喷射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of piercing bolt"
+msgid_plural "staves of piercing bolt"
+msgstr[0] "穿刺箭短杖"
+msgstr[1] "穿刺箭短杖s"
+
+#. ~ Description of "stave of piercing bolt"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts piercing bolt."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是穿刺箭。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of piercing bolt"
+msgid_plural "greater staves of piercing bolt"
+msgstr[0] "高级穿刺箭短杖"
+msgstr[1] "高级穿刺箭短杖s"
+
+#. ~ Description of "greater stave of piercing bolt"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts piercing bolt."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是穿刺箭。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of move earth"
+msgid_plural "staves of move earth"
+msgstr[0] "移土术短杖"
+msgstr[1] "移土术短杖s"
+
+#. ~ Description of "stave of move earth"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts move earth."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是移土术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of move earth"
+msgid_plural "greater staves of move earth"
+msgstr[0] "高级移土术短杖"
+msgstr[1] "高级移土术短杖s"
+
+#. ~ Description of "greater stave of move earth"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts move earth."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是移土术。"
+
+#. ~ This stave's recipe shall be of greater difficulty and material requirement in ratio to others of it's kind, due to the spell's potency. Place within a seperate recipe book.
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of lava bomb"
+msgid_plural "staves of lava bomb"
+msgstr[0] "熔岩炸弹短杖"
+msgstr[1] "熔岩炸弹短杖s"
+
+#. ~ This stave's recipe shall be of greater difficulty and material requirement in ratio to others of it's kind, due to the spell's potency. Place within a seperate recipe book.
+#. ~ Description of "stave of lava bomb"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lava bomb."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是熔岩炸弹。"
+
+#. ~ This stave's recipe shall be of greater difficulty and material requirement in ratio to others of it's kind, due to the spell's potency. Place within a seperate recipe book.
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of lava bomb"
+msgid_plural "greater staves of lava bomb"
+msgstr[0] "高级熔岩炸弹短杖"
+msgstr[1] "高级熔岩炸弹短杖s"
+
+#. ~ This stave's recipe shall be of greater difficulty and material requirement in ratio to others of it's kind, due to the spell's potency. Place within a seperate recipe book.
+#. ~ Description of "greater stave of lava bomb"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lava bomb. Wonderful when one is required to destroy the world."
+msgstr "一个头部有魔法水晶插座的木制冷却壁，启动时会施放一个咒语。这个冷却壁铸造熔岩炸弹。当一个人被要求毁灭世界时，那是多么美妙。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of lightning bolt"
+msgid_plural "staves of lightning bolt"
+msgstr[0] "闪电束短杖"
+msgstr[1] "闪电束短杖s"
+
+#. ~ Description of "stave of lightning bolt"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning bolt."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of lightning bolt"
+msgid_plural "greater staves of lightning bolt"
+msgstr[0] "高级闪电束短杖"
+msgstr[1] "高级闪电束短杖s"
+
+#. ~ Description of "greater stave of lightning bolt"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning bolt."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of lightning blast"
+msgid_plural "staves of lightning blast"
+msgstr[0] "闪电冲击短杖"
+msgstr[1] "闪电冲击短杖s"
+
+#. ~ Description of "stave of lightning blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning blast."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of lightning blast"
+msgid_plural "greater staves of lightning blast"
+msgstr[0] "高级闪电冲击短杖"
+msgstr[1] "高级闪电冲击短杖s"
+
+#. ~ Description of "greater stave of lightning blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning blast."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电冲击。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of lightning storm"
+msgid_plural "staves of lightning storm"
+msgstr[0] "闪电风暴短杖"
+msgstr[1] "闪电风暴短杖s"
+
+#. ~ Description of "stave of lightning storm"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning storm."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电风暴。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of lightning storm"
+msgid_plural "greater staves of lightning storm"
+msgstr[0] "高级闪电风暴短杖"
+msgstr[1] "高级闪电风暴短杖s"
+
+#. ~ Description of "greater stave of lightning storm"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lightning storm."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是闪电风暴。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of wall of fog"
+msgid_plural "staves of wall of fog"
+msgstr[0] "雾墙术短杖"
+msgstr[1] "雾墙术短杖s"
+
+#. ~ Description of "stave of wall of fog"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts wall of fog."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是雾墙术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of wall of fog"
+msgid_plural "greater staves of wall of fog"
+msgstr[0] "高级雾墙术短杖"
+msgstr[1] "高级雾墙术短杖s"
+
+#. ~ Description of "greater stave of wall of fog"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts wall of fog."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是雾墙术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of laze"
+msgid_plural "staves of laze"
+msgstr[0] "激光术短杖"
+msgstr[1] "激光术短杖s"
+
+#. ~ Description of "stave of laze"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts laze."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是激光术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of laze"
+msgid_plural "greater staves of laze"
+msgstr[0] "高级激光术短杖"
+msgstr[1] "高级激光术短杖s"
+
+#. ~ Description of "greater stave of laze"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts laze."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是激光术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of lesser quantum tunnel"
+msgid_plural "staves of lesser quantum tunnel"
+msgstr[0] "次级隧穿术短杖"
+msgstr[1] "次级隧穿术短杖s"
+
+#. ~ Description of "stave of lesser quantum tunnel"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lesser quantum tunnel."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是次级隧穿术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of lesser quantum tunnel"
+msgid_plural "greater staves of lesser quantum tunnel"
+msgstr[0] "高级次级隧穿术短杖"
+msgstr[1] "高级次级隧穿术短杖s"
+
+#. ~ Description of "greater stave of lesser quantum tunnel"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts lesser quantum tunnel."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是次级隧穿术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of animated blade"
+msgid_plural "staves of animated blade"
+msgstr[0] "魔剑苏生短杖"
+msgstr[1] "魔剑苏生短杖s"
+
+#. ~ Description of "stave of animated blade"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts animated blade."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是魔剑苏生。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of animated blade"
+msgid_plural "greater staves of animated blade"
+msgstr[0] "高级魔剑苏生短杖"
+msgstr[1] "高级魔剑苏生短杖s"
+
+#. ~ Description of "greater stave of animated blade"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts animated blade."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是魔剑苏生。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of optical sneeze beam"
+msgid_plural "staves of optical sneeze beam"
+msgstr[0] "喷嚏激光术短杖"
+msgstr[1] "喷嚏激光术短杖s"
+
+#. ~ Description of "stave of optical sneeze beam"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts optical sneeze beam."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是喷嚏激光术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of optical sneeze beam"
+msgid_plural "greater staves of optical sneeze beam"
+msgstr[0] "高级喷嚏激光术短杖"
+msgstr[1] "高级喷嚏激光术短杖s"
+
+#. ~ Description of "greater stave of optical sneeze beam"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts optical sneeze beam."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是喷嚏激光术。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of biomancer's acidic spray"
+msgid_plural "staves of biomancer's acidic spray"
+msgstr[0] "酸液喷射短杖"
+msgstr[1] "酸液喷射短杖s"
+
+#. ~ Description of "stave of biomancer's acidic spray"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts acidic spray."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是酸液喷射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of biomancer's acidic spray"
+msgid_plural "greater staves of biomancer's acidic spray"
+msgstr[0] "高级酸液喷射短杖"
+msgstr[1] "高级酸液喷射短杖s"
+
+#. ~ Description of "greater stave of biomancer's acidic spray"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts acidic spray."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是酸液喷射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of visceral projection"
+msgid_plural "staves of visceral projection"
+msgstr[0] "脏腑四射短杖 "
+msgstr[1] "脏腑四射短杖 s"
+
+#. ~ Description of "stave of visceral projection"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts visceral projection."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是脏腑四射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of visceral projection"
+msgid_plural "greater staves of visceral projection"
+msgstr[0] "高级脏腑四射短杖"
+msgstr[1] "高级脏腑四射短杖s"
+
+#. ~ Description of "greater stave of visceral projection"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts visceral projection."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是脏腑四射。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of paralytic dart"
+msgid_plural "staves of paralytic dart"
+msgstr[0] "麻痹毒刺短杖"
+msgstr[1] "麻痹毒刺短杖s"
+
+#. ~ Description of "stave of paralytic dart"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts paralytic dart."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是麻痹毒刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of paralytic dart"
+msgid_plural "greater staves of paralytic dart"
+msgstr[0] "高级麻痹毒刺短杖"
+msgstr[1] "高级麻痹毒刺短杖s"
+
+#. ~ Description of "greater stave of paralytic dart"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts paralytic dart."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是麻痹毒刺。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "stave of zombie pack"
+msgid_plural "staves of zombie pack"
+msgstr[0] "召唤丧尸群短杖"
+msgstr[1] "召唤丧尸群短杖s"
+
+#. ~ Description of "stave of zombie pack"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A slender wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts zombie pack."
+msgstr "一种细木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤丧尸群。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "greater stave of zombie pack"
+msgid_plural "greater staves of zombie pack"
+msgstr[0] "高级召唤丧尸群短杖"
+msgstr[1] "高级召唤丧尸群短杖s"
+
+#. ~ Description of "greater stave of zombie pack"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_staves.json
+msgid "A wooden stave with a mana crystal socket at the head that casts a spell when activated.  This stave casts zombie pack."
+msgstr "一种木杖，头部有魔力水晶插槽，激活时施放一次法术。这一根施放的是召唤丧尸群。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_wands.json
+msgid "Daemon Arachnid Wand"
+msgid_plural "Daemon Arachnid Wands"
+msgstr[0] "恶魔蜘蛛法杖"
+msgstr[1] "恶魔蜘蛛法杖s"
+
+#. ~ Description of "Daemon Arachnid Wand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\enchanted\enchanted_wands.json
+msgid "Ye wand hath been forged frome the chitin of some foul daemon, wielding their powere!"
+msgstr "你的魔杖是用邪恶恶魔的甲壳块锻造而成的，尽情展现它的力量吧！"
+
+#. ~ Overmap terrain name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\overmap terrain.json
+msgid "wizard shack"
+msgstr "巫师小屋"
+
+#. ~ Name of map extra
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\special.json
+msgid "Dead magician"
+msgstr "死去的魔法师"
+
+#. ~ Description of map extra "Dead magician"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\special.json
+msgid "A dead magician."
+msgstr "一个死去的魔法师。"
+
+#. ~ Terrain name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\terrain.json
+msgid "stone wall"
+msgstr "石墙"
+
+#. ~ Description of terrain "stone wall"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\terrain.json
+msgid "A sturdy stone wall. A small light has been affixed to it."
+msgstr "一面坚固的石墙。上面附着着一盏小灯。"
+
+#. ~ Bashing sound of terrain "stone wall"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\terrain.json
+msgid "crash!"
+msgstr "撞击声！"
+
+#. ~ Bashing failed sound of terrain "stone wall"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mapgen\terrain.json
+msgid "whump!"
+msgstr "哐嘡！"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\monsters\undead.json
+msgid "zombified magician"
+msgid_plural "zombified magicians"
+msgstr[0] "尸化法师"
+msgstr[1] "尸化法师s"
+
+#. ~ Description of monster "zombified magician"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\monsters\undead.json
+msgid "Once a normal human, now risen from its grave. It would appear to be completely normal, other than the spells its preparing to cast."
+msgstr "一具人类的尸体，从坟墓里复活了。它看起来完全正常，除了准备施放的法术。"
+
+#. ~ Mutation class name
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Orc"
+msgstr "兽人"
+
+#. ~ "mutagen_message" of mutation class "Orc"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgid "You feel powerful."
+msgstr "你感到自己充满了力量。"
+
+#. ~ "iv_message" of mutation class "Orc"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgid "Your gaze hardens."
+msgstr "你的目光僵硬了。"
+
+#. ~ Memorial message of mutation class "Orc" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgctxt "memorial_male"
+msgid "Understood martial prowess."
+msgstr "领悟神威。"
+
+#. ~ Memorial message of mutation class "Orc" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgctxt "memorial_female"
+msgid "Understood martial prowess."
+msgstr "领悟神威。"
+
+#. ~ Mutation class name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgid "Attuned Mage"
+msgstr "调谐法师"
+
+#. ~ "mutagen_message" of mutation class "Attuned Mage"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgid "Mana falls upon you."
+msgstr "法力落在你身上。"
+
+#. ~ "iv_message" of mutation class "Attuned Mage"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgid "A wave of mana crashes upon your shores."
+msgstr "一股魔力浪潮冲击着你的心灵之海。"
+
+#. ~ Memorial message of mutation class "Attuned Mage" for male
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgctxt "memorial_male"
+msgid "Attuned the arcane."
+msgstr "调谐秘术。"
+
+#. ~ Memorial message of mutation class "Attuned Mage" for female
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\categories.json
+msgctxt "memorial_female"
+msgid "Attuned the arcane."
+msgstr "调谐秘术。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "Atromancer"
+msgstr "死灵法师"
+
+#. ~ Description of mutation "Atromancer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "A sub-school of Animism, those of this focus of study have opted to shift their focus away from Blood Magic, summoning, and the undead, instead focusing upon the summoning of other creatures and other areas of Animism. To specialize in this manner, one gains acess to many fantastical creatures which may be summoned, as well as others."
+msgstr "泛灵师的一个分支，专注于此的人选择将他们的注意力从召唤其他自然生物转移到血魔法、和召唤不死生物上。以这种仪式专精，将有机会接触并召唤许多奇幻的生物。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "Necromancer"
+msgstr "亡灵巫师"
+
+#. ~ Description of mutation "Necromancer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "A specialization of the Animist school, Necromancers focus upon the conjuration of minions, including the raising of dead. To specialize in this manner, one gains acess to a plethora of powerful, semi-necrotic spells."
+msgstr "作为泛灵师的一个特化分支，亡灵巫师专注于召唤仆从，包括复活死人。以这种仪式专精，你将获得大量强大的、半坏死的法术。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "Pyromancer"
+msgstr "烈焰术士"
+
+#. ~ Description of mutation "Pyromancer"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "A sub-school of Kelvinism, those who specialize such have shifted focus upon the use of flames in spellcasting."
+msgstr "炽霜法师的一个分支，专门研究这类问题的人已经转而专注于操纵火焰的法术。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "Frostmonger"
+msgstr "寒霜法师"
+
+#. ~ Description of mutation "Frostmonger"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\classes.json
+msgid "A sub-school of Kelvinism, those who specialize such have shifted focus upon the use of frost."
+msgstr "炽霜法师的一个分支，那些专门研究霜的人已经把注意力转移到霜的使用上。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of battle."
+msgstr "你梦到你在战斗。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of contest."
+msgstr "你梦到了参加比赛。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of smoked meats and strong drink."
+msgstr "你梦到了烟熏肉和烈酒。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of hunting various mammailia, your friends beside you."
+msgstr "你梦见你在猎杀各种各样的哺乳类，你的朋友们在你身边与你一起杀戮。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "A field of battle rages around you, as adrenaline courses through you."
+msgstr "战场在你四周肆虐，你感到热血沸腾。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "Music plays, as you chug various beverages with various friends."
+msgstr "音乐播放，当你和各种各样的朋友喝各种饮料。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "A tall, strong Orc visits you within an unkown plane, speaking words of encouragement, and the embracement of your true nature."
+msgstr "一个高大强壮的兽人在一个未知的平面内拜见你，它说了一些鼓励你拥抱本性的话。"
+
+#. ~ Dream of mutation category "ORC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You now know what life truly is, leaving behind your weak form. Glory to Malacath!"
+msgstr "你现在知道了生命的真谛，离开了你脆弱的身体。荣耀属于玛拉卡！"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of spells."
+msgstr "你梦到了法术。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of magic."
+msgstr "你梦到了魔法。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of riding an owlbear."
+msgstr "你梦到你骑着一头枭熊。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You dream of blue mushrooms growing beneath a tree."
+msgstr "你梦到树下长着蓝蘑菇。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You stand within a workshop, various objects around you, in front of you lies an unfinished wand."
+msgstr "你站在一个工坊里，周围是琳琅满目的物品，在你面前的是一根未完成的法杖。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "Strolling through the halls of an academy, you observe apprintices practice magic, and grinding flourescent fungi."
+msgstr "漫步在一所学院的大厅里，你可以观察到有人在练习魔法，磨着荧光菌。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "Fireballs and magic missiles fly about you, as lightning roars from the heavens, rending that below."
+msgstr "火球和魔法飞弹围绕着你飞来飞去，就像闪电从天上咆哮，撕碎了下面的一切。"
+
+#. ~ Dream of mutation category "MAGIC"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\dreams.json
+msgid "You wield arcane powers which few other mages know of. Your spells readied, potions stocked, and wands recharged, you venture into the unknown."
+msgstr "你拥有其他法师所知的奥术异能。你的咒语准备就绪，药水储备充足，魔杖充电，你冒险进入未知。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutagen.json
+msgid "orc slurry"
+msgid_plural "orc slurrys"
+msgstr[0] "兽人诱变血清"
+msgstr[1] "兽人诱变血清s"
+
+#. ~ Description of "orc slurry"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutagen.json
+msgid "A dark green, mutagenic substance, seemingly magical in nature. One may aqquire *unique* mutations from its ingestion."
+msgstr "一种深绿色的诱变物质，看起来充满了魔力。摄入它可能获得独特的变异。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutagen.json
+msgid "magical serum"
+msgid_plural "magical serums"
+msgstr[0] "魔法诱变血清"
+msgstr[1] "魔法诱变血清s"
+
+#. ~ Description of "magical serum"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutagen.json
+msgid "A light blue slurry, seemingly magical in nature. It appears to glow."
+msgstr "一种充满魔力的浅蓝色泥浆，散发着淡淡的光芒。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Magical Attunement"
+msgstr "魔法协调"
+
+#. ~ Description of mutation "Magical Attunement"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your attunement to magic has heightened itself, allowing for mroe effective spell use."
+msgstr "你对魔法的调音提高了自身，允许mroe有效地使用法术。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Lesser Mana Efficiency"
+msgstr "略多魔力容纳"
+
+#. ~ Description of mutation "Lesser Mana Efficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store a little more mana in your body than usual."
+msgstr "你可以在你的身体里储存比正常略多的魔力。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Mana Efficiency"
+msgstr "较多魔力容纳"
+
+#. ~ Description of mutation "Mana Efficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store more mana in your body than usual."
+msgstr "你可以在你的身体里储存比正常多的魔力。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Greater Mana Efficiency"
+msgstr "极多魔力容纳"
+
+#. ~ Description of mutation "Greater Mana Efficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store a lot more mana in your body than usual."
+msgstr "你可以在你的身体里储存比正常多很多的魔力。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Lesser Mana Inefficiency"
+msgstr "略少魔力容纳"
+
+#. ~ Description of mutation "Lesser Mana Inefficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store a little less mana in your body than usual."
+msgstr "你的身体里储存的魔力比正常略少。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Mana Inefficiency"
+msgstr "较少魔力容纳"
+
+#. ~ Description of mutation "Mana Inefficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store less mana in your body than usual."
+msgstr "你的身体里储存的魔力比正常少。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Greater Mana Inefficiency"
+msgstr "极少魔力容纳"
+
+#. ~ Description of mutation "Greater Mana Inefficiency"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You are able to store a lot less mana in your body than usual."
+msgstr "你的身体里储存的魔力比正常少很多。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Lesser Mana Regeneration"
+msgstr "稍快魔力再生"
+
+#. ~ Description of mutation "Lesser Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is slightly faster than normal."
+msgstr "你的自然魔力再生比正常速度稍快。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Mana Regeneration"
+msgstr "快速魔力再生"
+
+#. ~ Description of mutation "Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is faster than normal."
+msgstr "你的自然魔力再生比正常速度快。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Greater Mana Regeneration"
+msgstr "极快魔力再生"
+
+#. ~ Description of mutation "Greater Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is much faster than normal."
+msgstr "你的自然魔力再生比正常快很多。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Poor Mana Regeneration"
+msgstr "稍慢魔力再生"
+
+#. ~ Description of mutation "Poor Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is slightly slower than normal."
+msgstr "你的自然魔力再生比正常速度稍慢。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Very Poor Mana Regeneration"
+msgstr "缓慢魔力再生"
+
+#. ~ Description of mutation "Very Poor Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is slower than normal."
+msgstr "你的自然魔力再生比正常速度慢。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Abysmal Mana Regeneration"
+msgstr "极慢魔力再生"
+
+#. ~ Description of mutation "Abysmal Mana Regeneration"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your natural mana regeneration is much slower than normal."
+msgstr "你的自然魔力再生比正常要慢很多。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Lesser Mana Sensitivity"
+msgstr "稍强魔力敏感"
+
+#. ~ Description of mutation "Lesser Mana Sensitivity"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You can sense the mana in your body slightly better than normal, allowing you to tap into more of your reserves."
+msgstr "你可以感觉到你体内的魔力比正常情况更好一些，现在你能获得较高的魔力储备上限增加25%。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Mana Sensitivity"
+msgstr "高强魔力敏感"
+
+#. ~ Description of mutation "Mana Sensitivity"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You can sense the mana in your body better than normal, allowing you to tap into more of your reserves."
+msgstr "你可以感觉到你体内的魔力比正常情况下要好，魔力储备上限增加90%。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Greater Mana Sensitivity"
+msgstr "极强魔力敏感"
+
+#. ~ Description of mutation "Greater Mana Sensitivity"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You can sense the mana in your body much better than normal, allowing you to tap into more of your reserves."
+msgstr "你可以感觉到你体内的魔力比正常情况下要好得多，现在你能获得更高的魔力储备上限增加150%。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Poor Mana Sensitivity"
+msgstr "稍弱魔力敏感"
+
+#. ~ Description of mutation "Poor Mana Sensitivity"
+#. ~ Description of mutation "Very Poor Mana Sensitivity"
+#. ~ Description of mutation "Abysmal Mana Sensitivity"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "You have a hard time sensing the mana in your body, making less of your reserves available for use."
+msgstr "你很难感觉到你体内的魔力，你的魔力储备只能发挥出部分水平，影响了你的上限。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Very Poor Mana Sensitivity"
+msgstr "较弱魔力敏感"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Abysmal Mana Sensitivity"
+msgstr "极弱魔力敏感"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Debug Spell Mutation"
+msgstr "调试法术突变"
+
+#. ~ Description of mutation "Debug Spell Mutation"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Gives all of the debug spells at max level."
+msgstr "将所有调试法术设置为最高级。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Innate Spell: Mage Hand"
+msgstr "先天法术：魔术师之手"
+
+#. ~ Description of mutation "Innate Spell: Mage Hand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your attunement to the Magi allows one to summon an ethereal hand."
+msgstr "你对魔术师的调谐允许你召唤一只幽影之手。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Innate Spell: Shockwave"
+msgstr "先天法术：冲击波"
+
+#. ~ Description of mutation "Innate Spell: Shockwave"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\magic.json
+msgid "Your attunement to the Magi allows one to blast opponents to the ground."
+msgstr "你对魔术师的调谐允许你将敌人炸倒在地。"
+
+#. ~ Description of mutation "Orc"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Through reserch probably done by some basement-dwelling neckbeard of whom knew magic, you have become an orc. Strike forth, and bring honor to Malacath!"
+msgstr "通过践行某个住在地下室里长着大胡子的魔法师的研究成果，你成为了一个兽人。勇往直前，为了玛拉卡的荣耀！"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Orcish Strength"
+msgstr "兽人力量"
+
+#. ~ Description of mutation "Orcish Strength"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Your muscles and bones appear to have hardened."
+msgstr "你的肌肉和骨骼变得很坚硬。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Improved Orcish Strength"
+msgstr "改善兽人力量"
+
+#. ~ Description of mutation "Improved Orcish Strength"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "The density of your muscles and skin have increased, providing an improved bonus to ones health."
+msgstr "你的肌肉和皮肤变得致密，这会有益于你的健康。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Supreme Orcish Strength"
+msgstr "极限兽人力量"
+
+#. ~ Description of mutation "Supreme Orcish Strength"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Your muscles have become extremely dense, as well as your skin, providing major boosts to health."
+msgstr "你的肌肉和皮肤变得非常致密，这会极大促进你的健康。"
+
+#. ~ Mutation name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Orcish Endurance"
+msgstr "兽人耐力"
+
+#. ~ Description of mutation "Orcish Endurance"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\mutagenics\mutations\orc.json
+msgid "Your natural endurance has increased somewhat."
+msgstr "你最大耐力有所提高。"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\ecreatures.json
+msgid "mage hand"
+msgid_plural "mage hands"
+msgstr[0] "魔术师之手"
+msgstr[1] "魔术师之手s"
+
+#. ~ Description of monster "mage hand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\ecreatures.json
+msgid "A magical, flying hand, summoned by someone or something."
+msgstr "一只神奇的、会飞的手，被某人或某物召唤而来。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\eitems.json
+msgid "pair of extremely slick icy coatings on your feet"
+msgid_plural "extremely slick icy coatings"
+msgstr[0] "你的脚上有一层非常光滑的冰层"
+msgstr[1] "你的脚上有一层非常光滑的冰层s"
+
+#. ~ Description of "pair of extremely slick icy coatings on your feet"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\eitems.json
+msgid "A magical slick icy coating on your feet.  While extremely fast on flat floors, they make it difficult to move on rough terrain."
+msgstr "你的脚上有一层魔法形成的光滑冰层。虽然在平坦的地面上速度极快，但在崎岖的地形上很难移动。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Mystery at Port Mildonia"
+msgid_plural "Mystery at Port Mildonias"
+msgstr[0] "米尔多尼亚港之谜"
+msgstr[1] "米尔多尼亚港之谜s"
+
+#. ~ Description of "Mystery at Port Mildonia"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A small book, which appears to be upon a role-palying game, though the section on spells seems rather strange..."
+msgstr "一本关于角色扮演游戏的小册子，其中关于法术的部分看起来很奇怪…"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Blaster-Caster of the Magic-Master"
+msgid_plural "Blaster-Caster of the Magic-Masters"
+msgstr[0] "魔法大师的魔爆施法手册"
+msgstr[1] "魔法大师的魔爆施法手册s"
+
+#. ~ Description of "Blaster-Caster of the Magic-Master"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A small book. Taking a look, it contains several spells, some of which you may know well!"
+msgstr "一本小册子。写着几个咒语，其中一些你可能会认识！"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "The Human Anatomy"
+msgid_plural "The Human Anatomys"
+msgstr[0] "人体解剖学"
+msgstr[1] "人体解剖学s"
+
+#. ~ Description of "The Human Anatomy"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "This appears to be a college textbook on human anatomy, but looking through the pages.. it seems to contain several spells on the raising of corpses, as though the skull on the cover never gave it away."
+msgstr "这似乎是一本人体解剖学的大学教科书，但简单浏览过后……里面还写着一些复活死人的咒语，似乎封面的骷颅头未曾泄露这些。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "The Gravediggers' Diary"
+msgid_plural "The Gravediggers' Diarys"
+msgstr[0] "掘墓人日记"
+msgstr[1] "掘墓人日记s"
+
+#. ~ Description of "The Gravediggers' Diary"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A small, leather-bound book. It appears to be the diary of Stephen Worsdin, a gravedigger, and his accounts of work at the Barovian Private Cemetary."
+msgstr "一本皮革装订的小册子。似乎是掘墓人斯蒂芬·沃斯丁的日记，以及他在巴罗维亚私人墓地的工作记录。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Flames of Fury"
+msgid_plural "Flames of Furys"
+msgstr[0] "怒焰之书"
+msgstr[1] "怒焰之书s"
+
+#. ~ Description of "Flames of Fury"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A red, leather-bound book, sporting a mosaic of fire upon its cover. The contents seem to glow red once gazed upon."
+msgstr "一本用皮革精心装订过的书，封面上有一幅模糊不清的火焰图案。仔细一看，它的内容似乎都被火焰染红了。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Studies on the Crematorium"
+msgid_plural "Studies on the Crematoriums"
+msgstr[0] "火葬场研究"
+msgstr[1] "火葬场研究s"
+
+#. ~ Description of "Studies on the Crematorium"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A small tome upon crematories, which seems quite informational. The chapter upon cremation seems quite strange..."
+msgstr "一本关于火葬场的小册子，似乎很有参考价值。关于火葬的章节似乎很奇怪…"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Plight of the North"
+msgid_plural "Plight of the Norths"
+msgstr[0] "北境的誓言"
+msgstr[1] "北境的誓言s"
+
+#. ~ Description of "Plight of the North"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A fantasy novel, which regales the reader upon tales of fictonal barbarians, dragons, and other such things."
+msgstr "一部奇幻小说，以反复无常的野蛮人、龙和其他诸如此类的故事取悦读者。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "Journal of the Ice King"
+msgid_plural "Journal of the Ice Kings"
+msgstr[0] "冰王日记"
+msgstr[1] "冰王日记s"
+
+#. ~ Description of "Journal of the Ice King"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spellbooks.json
+msgid "A publication of a personal journal upon the Ice King, and his penguin, Gunter, detailing their personal accounts of their lives."
+msgstr "一本冰王的个人日记，详细地描述了他和他的企鹅冈特的故事。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Summon Owlbear Cub"
+msgstr "召唤枭熊幼兽"
+
+#. ~ Description of spell "Summon Owlbear Cub"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "A young owlbear hatches to serve you.  You may be able to summon more with a higher level in this spell."
+msgstr "一只幼年枭熊被召唤出来帮助你。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Cleave"
+msgstr "顺势斩"
+
+#. ~ Description of spell "Cleave"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "No darkness shall stand before ye and live!"
+msgstr "没有任何黑暗可以在你眼前存活！"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Conjure Raw Magic"
+msgstr "冥想"
+
+#. ~ Description of spell "Conjure Raw Magic"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "You channel endurance into magical energy.  You spend stamina to regain mana."
+msgstr "你将耐力转化为魔法能量。你花费耐力来恢复法力。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Baleful Sight"
+msgstr "恶灵凝视"
+
+#. ~ Description of spell "Baleful Sight"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Your rath itself manifests your gaze, crippling those whom you hate."
+msgstr "你的怒气本身就显出你的凝视，使你所恨的人残废。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Eldritch Blast"
+msgstr "电爆"
+
+#. ~ Description of spell "Eldritch Blast"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "You are quite certian you saw this in a game somewhere. A crackling beam of energy streaks toward your foes."
+msgstr "一道噼啪作响的能量束飞向你的敌人。“你很确信在其他游戏中见过这个。”"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Necrotic Fireball"
+msgstr "死灵火球术"
+
+#. ~ Description of spell "Necrotic Fireball"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\atromancer.json
+msgid "Black flame springs forth from your hand, as energy engulfs your foes, wasting them to dust."
+msgstr "黑色火焰从你手中冒出，吞没了你的敌人，并将他们化为粉尘。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\classless.json
+msgid "Cause Fear"
+msgstr "引起恐惧"
+
+#. ~ Description of spell "Cause Fear"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\classless.json
+msgid "Instill a great fear wihin the minds of your foes!"
+msgstr "给你的敌人灌输巨大的恐惧！"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Ice Spear"
+msgstr "冰矛"
+
+#. ~ Description of spell "Ice Spear"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Causes elongated, jagged icicles to form in the air above the target, falling and damaging it."
+msgstr "在目标上方生成细长锯齿状冰刺，落下并造成伤害。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Frozen Palm"
+msgstr "寒冰掌"
+
+#. ~ Description of spell "Frozen Palm"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Your hands infuse with the chill of ice, harming those whom they are placed upon."
+msgstr "你的手充斥着冰的寒意，伤害任何接触到的敌人。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "North Winds"
+msgstr "凛冽寒风"
+
+#. ~ Description of spell "North Winds"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "You blast a cone of freezing air toward the target."
+msgstr "你向目标发射一股锥状冰点空气。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Hoary Ball"
+msgstr "白霜冲击"
+
+#. ~ Description of spell "Hoary Ball"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "You project a glowing white crystal of ice and it explodes on impact into a blossom of deathly chill."
+msgstr "你发射出一颗发光的白色冰晶，在撞击之处绽放致命酷寒。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Freeze"
+msgstr "冰封"
+
+#. ~ Description of spell "Freeze"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "A gust of freezing wind comes forth, freezing your opponents in place!"
+msgstr "一阵致命的寒风吹过，将你的敌人冻僵在原地！"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Slide on Ice"
+msgstr "冰上疾行"
+
+#. ~ Description of spell "Slide on Ice"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\frostmonger.json
+msgid "Encases your feet in a magical coating of ice, allowing you to glide along smooth surfaces at extreme speeds."
+msgstr "将你的脚包裹在一层神奇的冰层中，让你以极快的速度沿着光滑的表面滑行。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\innate.json
+msgid "Mage Hand"
+msgstr "魔术师之手"
+
+#. ~ Description of spell "Mage Hand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\innate.json
+msgid "An ethereal hand forms to assist you."
+msgstr "一只幽影般的手被召唤出来帮助你。"
+
+#. ~ Message of spell "Mage Hand"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\innate.json
+msgid "A magical hand appears before you."
+msgstr "一只神奇的手出现在你面前。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\innate.json
+msgid "Shockwave"
+msgstr "冲击波"
+
+#. ~ Description of spell "Shockwave"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\innate.json
+msgid "You blast a cone of force towards a target."
+msgstr "你向目标发射一股锥形推力。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Zombie Pack"
+msgstr "召唤丧尸群"
+
+#. ~ Description of spell "Summon Zombie Pack"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Several ethereal-looking zombies rise from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "几个幽影般的丧尸，从地底深处冒出来为你而战。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Skeletons"
+msgstr "召唤骷髅"
+
+#. ~ Description of spell "Summon Skeletons"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Ghostly skeletons rise from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "幽灵似的骷髅，从大地深处被召唤出来为你战斗。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Decayed Pouncer Pack"
+msgstr "召唤腐朽突袭兽群"
+
+#. ~ Description of spell "Summon Decayed Pouncer Pack"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid " Decrepit-looking large cats rises from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "一只看起来饱经风霜的巨猫，从大地深处被召唤出来为你战斗。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Undead Bodyguards"
+msgstr "召唤亡灵保镖"
+
+#. ~ Description of spell "Summon Undead Bodyguards"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Muscular corpses rise from the earth to defend you. You may be able to summon more with a higher level in this spell."
+msgstr "强壮的尸体，从大地深处被召唤出来为你战斗。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Zombified Regiment"
+msgstr "召唤丧尸军团"
+
+#. ~ Description of spell "Summon Zombified Regiment"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Many ethereal-looking zombies rise from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "许多幽影般的丧尸，从地底深处冒出来为你而战。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Azeraks Conquest of Undeath"
+msgstr "阿瑟拉克亡灵征服"
+
+#. ~ Description of spell "Azeraks Conquest of Undeath"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "The dead shall rise and shamble the earth, and the dead shall outnumber the living!"
+msgstr "死人必起来，使地摇摇欲坠，死人必比活人多！"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Skeleton Scouts"
+msgstr "召唤更多骷髅"
+
+#. ~ Description of spell "Summon Skeleton Scouts"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Several ghostly skeletons rise from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "几具幽灵似的骷髅，从大地深处被召唤出来为你战斗。如果你这个法术的等级够高的话，就能召唤出更多它的同类。。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "Summon Skeleton Squadrant"
+msgstr "召唤骷髅大军"
+
+#. ~ Description of spell "Summon Skeleton Squadrant"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\necro.json
+msgid "A squadrant of ghastly skeletons rise from the depths of the earth to fight for you.  You may be able to summon more with a higher level in this spell."
+msgstr "一群可怕的骷髅，从大地深处被召唤出来为你战斗。如果你这个法术的等级够高的话，就能召唤出更多它的同类。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Acid Spawn"
+msgstr "酸液喷射"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Fireboulder"
+msgstr "大火球术"
+
+#. ~ Description of spell "Fireboulder"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "You hurl a baseball-sized glowing orb that, when reaches its target or an obstacle, produces a pressure-less blast of searing heat."
+msgstr "投掷一颗棒球大小的炽热球体，到达目标或遇到障碍物时发生剧烈烧灼。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Flamethrower"
+msgstr "火焰喷射器"
+
+#. ~ Description of spell "Flamethrower"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "You fire a mid-range cone of searing heat."
+msgstr "你向中等大小的锥形区域释放灼热。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Searing Shot"
+msgstr "灼热射击"
+
+#. ~ Description of spell "Searing Shot"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Creates intense flame at a location, harming the target."
+msgstr "在指定地点引发强烈的火焰，伤害目标。"
+
+#. ~ Spell name
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Flaming Fist"
+msgstr "火焰拳"
+
+#. ~ Description of spell "Flaming Fist"
+#: d:\cdda\catap\kenan\main\Miscellaneous_Magiclysm_Expansions\spells\spells\pyromancer.json
+msgid "Your hands combust, damaging those whom you place them upon."
+msgstr "你的手正在燃烧，伤害任何接触到的敌人。"
+

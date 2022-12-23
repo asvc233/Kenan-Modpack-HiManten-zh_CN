@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2022-12-23 01:41-0600\n"
+"PO-Revision-Date: 2022-12-23 01:41-0600\n"
+"Last-Translator: None\n"
+"Language-Team: None\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Skill associated with gun "2-DINO-A7 laser rifle"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\laser_items.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "XL jeans"
+msgid_plural "pairs of XL jeans"
+msgstr[0] "牛仔裤（XL）"
+msgstr[1] "牛仔裤（XL）s"
+
+#. ~ Description of "XL jeans"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A pair of XL blue jeans with two deep pockets."
+msgstr ""
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "XL work pants"
+msgid_plural "pairs of XL work pants"
+msgstr[0] "工装裤（XL）"
+msgstr[1] "工装裤（XL）s"
+
+#. ~ Description of "XL work pants"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A pair of gray work pants."
+msgstr "一条灰色的裤子，工作时穿穿还是不错的。"
+
+#. ~ Snippet of item "XL work pants"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A pair of XL blue work pants."
+msgstr "一条特大号的蓝色裤子，工作时穿穿还是不错的。"
+
+#. ~ Snippet of item "XL work pants"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A pair of XL gray work pants."
+msgstr "一条特大号的灰色裤子，工作时穿穿还是不错的。"
+
+#. ~ Snippet of item "XL work pants"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A pair of XL light-blue work pants."
+msgstr "一条特大号的浅蓝色裤子，工作时穿穿还是不错的。"
+
+#. ~ Item name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "XL work t-shirt"
+msgid_plural "XL work t-shirts"
+msgstr[0] "工作T恤（XL）"
+msgstr[1] "工作T恤（XL）s"
+
+#. ~ Description of "XL work t-shirt"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "A gray XL work t-shirt with a small front pocket."
+msgstr "一件特大号的灰色T恤，前面还有个小口袋。"
+
+#. ~ Snippet of item "XL work t-shirt"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "An XL blue work t-shirt with a small front pocket."
+msgstr "一件特大号的蓝色T恤，前面还有个小口袋。"
+
+#. ~ Snippet of item "XL work t-shirt"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "An XL gray work t-shirt with a small front pocket."
+msgstr "一件特大号的灰色T恤，前面还有个小口袋。"
+
+#. ~ Snippet of item "XL work t-shirt"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\items.json
+msgid "An XL light-blue work t-shirt with a small front pocket."
+msgstr "一件特大号的浅蓝色T恤，前面还有个小口袋。"
+
+#. ~ Magazine name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\laser_items.json
+msgid "ultra-light battery"
+msgid_plural "ultra-light batteries"
+msgstr[0] "电池（超轻）"
+msgstr[1] "电池（超轻）s"
+
+#. ~ Description of magazine "ultra-light battery"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\laser_items.json
+msgid "This is a light battery cell designed for small size over everything else.  It retains its universal compatibility, though."
+msgstr "这是一款超轻型的电池，专为小尺寸设备而设计。但它依然保留了通用兼容性。"
+
+#. ~ Name of a gun
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\laser_items.json
+msgid "2-DINO-A7 laser rifle"
+msgid_plural "2-DINO-A7 laser rifles"
+msgstr[0] "2-DINO-A7 激光步枪"
+msgstr[1] "2-DINO-A7 激光步枪s"
+
+#. ~ Description of gun "2-DINO-A7 laser rifle"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\laser_items.json
+msgid "A state-of-the-art laser rifle developed by the R&D outfit \"Aerial Labs\".  Initial performance rivaled Rivtech's finest, with rumors flying about corporate skulduggery.  Fitted with a large internal plutonium cell for CyberDinos."
+msgstr "最先进的激光步枪，由研究机构\"Aerial Labs\"制造。初始性能甚至可以和Rivtech的最佳产品一较上下，虽然集团诈骗的传言满天飞，当大灾变降临，这些都被扔进了历史的垃圾堆里。赛博恐龙为它安装了一个大型的内部钚电池。"
+
+#. ~ MOD name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\modinfo.json
+msgid "Dino_Mad_Science"
+msgstr "疯狂恐龙世界"
+
+#. ~ Description of MOD "Dino_Mad_Science"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\modinfo.json
+msgid "Total overhaul, replaces most zombies with dinosaurs and zombie dinosaurs.  Rebalances CDDA to focus on the Dinoclysm.  Scientists are responsible for a dino-outbreak and their vaccine against it turned them into zombies, can you survive long enough to piece together their plans and reverse what they started before it is too late?"
+msgstr "全面大修，用恐龙和丧尸恐龙取代大部分丧尸。重新平衡CDDA，使游戏的主题聚焦在恐龙大灾变上。科学家是恐龙爆发的罪魁祸首，他们为阻止恐龙爆发而开发出的疫苗却把恐龙变成了丧尸。你能活得足够久，在为时已晚之前重拾他们的计划，将一切扭转吗？"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "Spinosaurus bio-operator"
+msgid_plural "Spinosaurus bio-operator"
+msgstr[0] "生化棘龙"
+msgstr[1] "生化棘龙s"
+
+#. ~ Description of monster "Spinosaurus bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "A massive therapod with a huge fin on its back and a crocodile-like snout. It is silver from armor plating and cybernetics crackle all over its body. There seems to be a laser rifle mounted to its head. It scans endlessly for its next target.   The laser could probably be retrived through field dressing or dissection."
+msgstr "一只巨大的兽脚类恐龙，背上有巨大的鳍，长着像鳄鱼的喙。它浑身上下装满了闪亮的盔甲，生化插件在它身上噼啪作响。头上好像装了一把激光步枪。它正在不停地寻找下一个目标。它身上的激光步枪可通过清理内脏或解剖获得。"
+
+#. ~ Targeting sound of special attack of monster "Spinosaurus bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "\"TARGET ACQUIRED.\""
+msgstr "\"目标已确认。\""
+
+#. ~ No ammo sound of special attack of monster "Spinosaurus bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "TARGET ACQUIRED. *beeeeeeeeep*. OUT OF AMMO."
+msgstr "\"目标已确认。\"*哔————*\"弹药已耗尽。\""
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "Spinosaurus zombie bio-operator"
+msgid_plural "Spinosaurus zombie bio-operators"
+msgstr[0] "丧尸生化棘龙"
+msgstr[1] "丧尸生化棘龙s"
+
+#. ~ Description of monster "Spinosaurus zombie bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "A shiny finned dinosaur corpse covered with armor and crackling bionics.  It shambles quickly as it hunts.  Is…  is that a laser rifle on its head?   The laser could probably be retrived through field dressing or dissection."
+msgstr "一具闪光的带鳍兽脚类恐龙尸体，浑身布满了带血盔甲和噼啪作响的生化插件。它在捕猎时蹒跚而行。它头上的那玩意是激光枪吗？它身上的激光枪可通过清理内脏或解剖获得。"
+
+#. ~ Targeting sound of special attack of monster "Spinosaurus zombie bio-operator"
+#. ~ Targeting sound of special attack of monster "Utahraptor zombie bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "\"TARGET *zZzZzz* ACQUIRED.\""
+msgstr "\"目标已*滋滋滋滋滋滋*确认。\""
+
+#. ~ No ammo sound of special attack of monster "Spinosaurus zombie bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "*zZzzz*-TARGET ACQUIRED.  *beeeeeeeeep*.  OUT OF AMMO.-*zZzZ*"
+msgstr "*滋滋滋滋滋*——目标已确认。*哔————*弹药已耗尽。——*滋滋滋滋*"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "Utahraptor bio-operator"
+msgid_plural "Utahraptor bio-operator"
+msgstr[0] "生化犹他盗龙"
+msgstr[1] "生化犹他盗龙s"
+
+#. ~ Description of monster "Utahraptor bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "An intimidating cyber-raptor with hair-like filaments and crackling bionics protruding from its silvery armor plating.  Its eyes glow red as it scans with its laser rifle shoulder-mount.   The laser could probably be retrived through field dressing or dissection."
+msgstr "一只令人生畏的赛博犹他盗龙，长着毛发一般的细丝，银色的装甲板上露出噼啪作响的仿生装置。它的眼睛中发出红光，为肩式激光步枪四处扫描着。激光武器可以通过清理内脏或解剖来获得。"
+
+#. ~ Targeting sound of special attack of monster "Utahraptor bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "\"TARGET *beeep* ACQUIRED.\""
+msgstr "\"目标 *哔————* 已确认\""
+
+#. ~ No ammo sound of special attack of monster "Utahraptor bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "*beeep*-TARGET ACQUIRED.  *beeeeeeeeep*.  OUT OF AMMO.-*beeep*"
+msgstr "*哔——*-捕捉到目标。*哔————*。弹药已耗尽。-*哔——*"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "Utahraptor zombie bio-operator"
+msgid_plural "Utahraptor zombie bio-operator"
+msgstr[0] "丧尸生化犹他盗龙"
+msgstr[1] "丧尸生化犹他盗龙s"
+
+#. ~ Description of monster "Utahraptor zombie bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "The corpse of an intimidatingly large cyber-raptor.  Bloody hair-like filaments and crackling bionics coat its silvery armor plating.  Its eyes glow blood red as it scans with its laser rifle shoulder-mount.  The laser could probably be retrived through field dressing or dissection."
+msgstr "一具令人生畏的赛博犹他盗龙的尸体，长着毛发一般的细丝，银色的装甲板上露出噼啪作响的仿生装置。它的眼睛中发出血红的光，像是在为肩式激光步枪扫描着。激光武器可以通过清理内脏或解剖来获得。"
+
+#. ~ No ammo sound of special attack of monster "Utahraptor zombie bio-operator"
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\laser_dinos_zinos.json
+msgid "*zZzzz*-TARGET ACQUIRED.  *beeeep*.  OUT OF AMMO.-*zZzZ*"
+msgstr "*滋滋滋滋滋*——捕捉到目标。*哔——*弹药已耗尽。——*滋滋滋滋*"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Utahraptor prisoner"
+msgid_plural "Utahraptor prisoners"
+msgstr[0] "犹他盗龙囚犯"
+msgstr[1] "犹他盗龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Utahraptor cop"
+msgid_plural "Utahraptor cops"
+msgstr[0] "犹他盗龙警察"
+msgstr[1] "犹他盗龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Utahraptor zombie prisoner"
+msgid_plural "Utahraptor zombie prisoners"
+msgstr[0] "丧尸犹他盗龙囚犯"
+msgstr[1] "丧尸犹他盗龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Utahraptor zombie cop"
+msgid_plural "Utahraptor zombie cops"
+msgstr[0] "丧尸犹他盗龙警察"
+msgstr[1] "丧尸犹他盗龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Gallimimus prisoner"
+msgid_plural "Gallimimus prisoners"
+msgstr[0] "似鸡龙囚犯"
+msgstr[1] "似鸡龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Gallimimus cop"
+msgid_plural "Gallimimus cops"
+msgstr[0] "似鸡龙警察"
+msgstr[1] "似鸡龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Gallimimus zombie prisoner"
+msgid_plural "Gallimimus zombie prisoners"
+msgstr[0] "丧尸似鸡龙囚徒"
+msgstr[1] "丧尸似鸡龙囚徒s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Gallimimus zombie cop"
+msgid_plural "Gallimimus zombie cops"
+msgstr[0] "丧尸似鸡龙警察"
+msgstr[1] "丧尸似鸡龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Velociraptor prisoner"
+msgid_plural "Velociraptor prisoners"
+msgstr[0] "伶盗龙囚犯"
+msgstr[1] "伶盗龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Velociraptor cop"
+msgid_plural "Velociraptor cops"
+msgstr[0] "伶盗龙警察"
+msgstr[1] "伶盗龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Pteranodon prisoner"
+msgid_plural "Pteranodon prisoners"
+msgstr[0] "翼龙囚犯"
+msgstr[1] "翼龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Pteranodon cop"
+msgid_plural "Pteranodon cops"
+msgstr[0] "翼龙警察"
+msgstr[1] "翼龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Pteranodon zombie prisoner"
+msgid_plural "Pteranodon zombie prisoners"
+msgstr[0] "丧尸翼龙囚犯"
+msgstr[1] "丧尸翼龙囚犯s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\prison_dinos_zinos.json
+msgid "Pteranodon zombie cop"
+msgid_plural "Pteranodon zombie cops"
+msgstr[0] "丧尸翼龙警察"
+msgstr[1] "丧尸翼龙警察s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\worker_dinos.json
+msgid "Gallimimus fireman"
+msgid_plural "Gallimimus firemans"
+msgstr[0] "似鸡龙消防员"
+msgstr[1] "似鸡龙消防员s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\worker_dinos.json
+msgid "Gallimimus technician"
+msgid_plural "Gallimimus technicians"
+msgstr[0] "似鸡龙技术员"
+msgstr[1] "似鸡龙技术员s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\worker_dinos.json
+msgid "Gallimimus zombie technician"
+msgid_plural "Gallimimus zombie technicians"
+msgstr[0] "丧尸似鸡龙技术员"
+msgstr[1] "丧尸似鸡龙技术员s"
+
+#. ~ Monster name
+#: d:\cdda\catap\kenan\main\Dino_Mad_Science\monsters\worker_dinos.json
+msgid "Gallimimus zombie fireman"
+msgid_plural "Gallimimus zombie firemans"
+msgstr[0] "丧尸似鸡龙消防员"
+msgstr[1] "丧尸似鸡龙消防员s"
+
