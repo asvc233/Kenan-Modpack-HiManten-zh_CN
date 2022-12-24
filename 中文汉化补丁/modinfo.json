@@ -1,0 +1,11 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "localization_zh_CN",
+      "name": "中文汉化词典",
+      "authors": [ "asvc" ],
+      "description": "更新: 2022-12-24\n汉化用, 不用加载也能生效",
+      "category": "graphical",
+      "dependencies": [ "cdda" ]
+    }
+  ]
